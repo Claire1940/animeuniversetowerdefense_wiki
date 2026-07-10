@@ -1,12 +1,12 @@
 {
-  "name": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-  "short_name": "Lucid Blocks",
-  "description": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
+  "name": "Universal Tower Defense Z Wiki - Codes, Units & Tier List",
+  "short_name": "UTDZ Wiki",
+  "description": "Universal Tower Defense Z Wiki with active codes, unit tier lists, traits, evolutions, builds, raids, update guides, and beginner tips for Roblox players.",
   "start_url": "/",
   "display": "standalone",
   "orientation": "any",
-  "theme_color": "#1a7a7a",
-  "background_color": "#0a0a0a",
+  "theme_color": "#8431e3",
+  "background_color": "#0a0c1a",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
