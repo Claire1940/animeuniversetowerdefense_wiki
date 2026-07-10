@@ -13,8 +13,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const path = '/terms-of-service'
 
   return {
-    title: "Terms of Service - Universal Tower Defense Z Wiki",
-    description: "Read the Terms of Service for Universal Tower Defense Z Wiki. Learn about user responsibilities, content usage guidelines, and legal terms for using our Roblox game resource platform.",
+    title: "Terms of Service - Anime Universe Tower Defense Wiki",
+    description: "Read the Terms of Service for Anime Universe Tower Defense Wiki. Learn about user responsibilities, content usage guidelines, and legal terms for using our Roblox game resource platform.",
     robots: {
       index: false,
       follow: true,
@@ -30,22 +30,22 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       type: 'website',
       locale: locale,
       url: locale === 'en' ? `${siteUrl}${path}` : `${siteUrl}/${locale}${path}`,
-      siteName: "Universal Tower Defense Z Wiki",
-      title: "Terms of Service - Universal Tower Defense Z Wiki",
-      description: "Terms and conditions for using Universal Tower Defense Z Wiki.",
+      siteName: "Anime Universe Tower Defense Wiki",
+      title: "Terms of Service - Anime Universe Tower Defense Wiki",
+      description: "Terms and conditions for using Anime Universe Tower Defense Wiki.",
       images: [
         {
           url: `${siteUrl}/og-image.jpg`,
           width: 1200,
           height: 630,
-          alt: "Universal Tower Defense Z Wiki",
+          alt: "Anime Universe Tower Defense Wiki",
         },
       ],
     },
     twitter: {
       card: 'summary_large_image',
-      title: "Terms of Service - Universal Tower Defense Z Wiki",
-      description: "Terms and conditions for using Universal Tower Defense Z Wiki.",
+      title: "Terms of Service - Anime Universe Tower Defense Wiki",
+      description: "Terms and conditions for using Anime Universe Tower Defense Wiki.",
       images: [`${siteUrl}/og-image.jpg`],
     },
     alternates: buildLanguageAlternates(path, locale as Locale, siteUrl),
@@ -62,7 +62,7 @@ export default function TermsOfService() {
             Terms of Service
           </h1>
           <p className="text-slate-300 text-lg mb-2">
-            Terms and conditions for using Universal Tower Defense Z Wiki
+            Terms and conditions for using Anime Universe Tower Defense Wiki
           </p>
           <p className="text-slate-400 text-sm">
             Last Updated: July 11, 2026
@@ -76,18 +76,18 @@ export default function TermsOfService() {
           <div className="prose prose-invert prose-slate max-w-none">
             <h2>1. Acceptance of Terms</h2>
             <p>
-              By accessing and using Universal Tower Defense Z Wiki ("the Website", "we", "our", or "us"), you agree to be bound
+              By accessing and using Anime Universe Tower Defense Wiki ("the Website", "we", "our", or "us"), you agree to be bound
               by these Terms of Service ("Terms"). If you do not agree to these Terms, please do not use our Website.
             </p>
             <p>
-              These Terms constitute a legally binding agreement between you ("User", "you", or "your") and Universal Tower Defense Z Wiki.
+              These Terms constitute a legally binding agreement between you ("User", "you", or "your") and Anime Universe Tower Defense Wiki.
               Your continued use of the Website signifies your acceptance of these Terms and any future modifications.
             </p>
 
             <h2>2. Description of Service</h2>
             <p>
-              Universal Tower Defense Z Wiki is an unofficial, community-driven fan website that provides information, guides, tools,
-              and resources related to the Roblox game "Universal Tower Defense Z". Our services include, but are not limited to:
+              Anime Universe Tower Defense Wiki is an unofficial, community-driven fan website that provides information, guides, tools,
+              and resources related to the Roblox game "Anime Universe Tower Defense". Our services include, but are not limited to:
             </p>
             <ul>
               <li>Game guides and survival strategies</li>
@@ -98,8 +98,8 @@ export default function TermsOfService() {
               <li>Community discussion and content</li>
             </ul>
             <p>
-              <strong>Important:</strong> Universal Tower Defense Z Wiki is NOT affiliated with, endorsed by, or associated with
-              Roblox Corporation, the official developers of Universal Tower Defense Z, or any anime/manga rights holders. We are an independent fan community.
+              <strong>Important:</strong> Anime Universe Tower Defense Wiki is NOT affiliated with, endorsed by, or associated with
+              Roblox Corporation, the official developers of Anime Universe Tower Defense, or any anime/manga rights holders. We are an independent fan community.
             </p>
 
             <h2>3. User Responsibilities</h2>
@@ -130,14 +130,14 @@ export default function TermsOfService() {
             <h3>4.1 Website Content</h3>
             <p>
               The Website and its original content, features, and functionality (including but not limited to text,
-              graphics, logos, images, and software) are owned by Universal Tower Defense Z Wiki and are protected by international
+              graphics, logos, images, and software) are owned by Anime Universe Tower Defense Wiki and are protected by international
               copyright, trademark, and other intellectual property laws.
             </p>
 
             <h3>4.2 Game Content</h3>
             <p>
               All game-related content, including but not limited to character images, game screenshots, logos, and
-              trademarks, are the property of Roblox Corporation and/or the developers of Universal Tower Defense Z. We use such
+              trademarks, are the property of Roblox Corporation and/or the developers of Anime Universe Tower Defense. We use such
               content under fair use principles for informational and educational purposes only.
             </p>
 
@@ -251,7 +251,7 @@ export default function TermsOfService() {
             <h2>13. Entire Agreement</h2>
             <p>
               These Terms, together with our Privacy Policy and Copyright Notice, constitute the entire agreement between
-              you and Universal Tower Defense Z Wiki regarding the use of the Website and supersede any prior agreements or understandings.
+              you and Anime Universe Tower Defense Wiki regarding the use of the Website and supersede any prior agreements or understandings.
             </p>
 
             <h2>14. Contact Information</h2>

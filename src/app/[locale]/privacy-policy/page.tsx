@@ -13,8 +13,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const path = '/privacy-policy'
 
   return {
-    title: 'Privacy Policy - Universal Tower Defense Z Wiki',
-    description: 'Universal Tower Defense Z Wiki Privacy Policy. Learn how we collect, use, and protect your data when you use our Roblox game resource platform. Your privacy matters to us.',
+    title: 'Privacy Policy - Anime Universe Tower Defense Wiki',
+    description: 'Anime Universe Tower Defense Wiki Privacy Policy. Learn how we collect, use, and protect your data when you use our Roblox game resource platform. Your privacy matters to us.',
     robots: {
       index: false,
       follow: true,
@@ -30,21 +30,21 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       type: 'website',
       locale: locale,
       url: locale === 'en' ? `${siteUrl}${path}` : `${siteUrl}/${locale}${path}`,
-      siteName: 'Universal Tower Defense Z Wiki',
-      title: 'Privacy Policy - Universal Tower Defense Z Wiki',
+      siteName: 'Anime Universe Tower Defense Wiki',
+      title: 'Privacy Policy - Anime Universe Tower Defense Wiki',
       description: 'Learn how we protect your privacy and handle your data.',
       images: [
         {
           url: `${siteUrl}/og-image.jpg`,
           width: 1200,
           height: 630,
-          alt: 'Universal Tower Defense Z Wiki',
+          alt: 'Anime Universe Tower Defense Wiki',
         },
       ],
     },
     twitter: {
       card: 'summary_large_image',
-      title: 'Privacy Policy - Universal Tower Defense Z Wiki',
+      title: 'Privacy Policy - Anime Universe Tower Defense Wiki',
       description: 'Learn how we protect your privacy and handle your data.',
       images: [`${siteUrl}/og-image.jpg`],
     },
@@ -76,7 +76,7 @@ export default function PrivacyPolicy() {
           <div className="prose prose-invert prose-slate max-w-none">
             <h2>1. Information Collection</h2>
             <p>
-              Universal Tower Defense Z Wiki ("we", "our", or "us") collects minimal information to provide and improve our services.
+              Anime Universe Tower Defense Wiki ("we", "our", or "us") collects minimal information to provide and improve our services.
               We collect information in the following ways:
             </p>
             <ul>
@@ -212,8 +212,8 @@ export default function PrivacyPolicy() {
 
             <h2>11. Disclaimer</h2>
             <p>
-              Universal Tower Defense Z Wiki is an unofficial fan-made website and is not affiliated with, endorsed by, or associated
-              with Roblox Corporation, the developers of Universal Tower Defense Z, or any anime/manga rights holders. All game content, trademarks, and assets are
+              Anime Universe Tower Defense Wiki is an unofficial fan-made website and is not affiliated with, endorsed by, or associated
+              with Roblox Corporation, the developers of Anime Universe Tower Defense, or any anime/manga rights holders. All game content, trademarks, and assets are
               the property of their respective owners.
             </p>
 

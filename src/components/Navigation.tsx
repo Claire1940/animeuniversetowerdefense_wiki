@@ -98,7 +98,7 @@ export default function Navigation({ navPreviewData }: NavigationProps) {
 						<div className="w-10 h-10 bg-[hsl(var(--nav-theme))] rounded-lg flex items-center justify-center font-bold text-xl">
 							U
 						</div>
-						<span className="font-bold text-lg hidden sm:inline">Universal Tower Defense Z</span>
+						<span className="font-bold text-lg hidden sm:inline">Anime Universe Tower Defense</span>
 						<span className="font-bold text-lg sm:hidden">UTDZ</span>
 					</Link>
 

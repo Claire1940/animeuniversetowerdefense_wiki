@@ -54,11 +54,11 @@ export function ArticleStructuredData({
 		dateModified: ('lastModified' in frontmatter && frontmatter.lastModified) || frontmatter.date,
 		author: {
 			'@type': 'Organization',
-			name: 'Universal Tower Defense Z Wiki Team',
+			name: 'Anime Universe Tower Defense Wiki Team',
 		},
 		publisher: {
 			'@type': 'Organization',
-			name: 'Universal Tower Defense Z Wiki',
+			name: 'Anime Universe Tower Defense Wiki',
 			logo: {
 				'@type': 'ImageObject',
 				url: `${siteUrl}/images/hero.webp`,

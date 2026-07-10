@@ -13,8 +13,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const path = '/copyright'
 
   return {
-    title: 'Copyright Notice - Universal Tower Defense Z Wiki',
-    description: 'Copyright and intellectual property information for Universal Tower Defense Z Wiki. Learn about content ownership, fair use, DMCA policy, and how to report copyright infringement.',
+    title: 'Copyright Notice - Anime Universe Tower Defense Wiki',
+    description: 'Copyright and intellectual property information for Anime Universe Tower Defense Wiki. Learn about content ownership, fair use, DMCA policy, and how to report copyright infringement.',
     robots: {
       index: false,
       follow: true,
@@ -30,21 +30,21 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       type: 'website',
       locale: locale,
       url: locale === 'en' ? `${siteUrl}${path}` : `${siteUrl}/${locale}${path}`,
-      siteName: 'Universal Tower Defense Z Wiki',
-      title: 'Copyright Notice - Universal Tower Defense Z Wiki',
-      description: 'Copyright and intellectual property information for Universal Tower Defense Z Wiki.',
+      siteName: 'Anime Universe Tower Defense Wiki',
+      title: 'Copyright Notice - Anime Universe Tower Defense Wiki',
+      description: 'Copyright and intellectual property information for Anime Universe Tower Defense Wiki.',
       images: [
         {
           url: `${siteUrl}/og-image.jpg`,
           width: 1200,
           height: 630,
-          alt: 'Universal Tower Defense Z Wiki',
+          alt: 'Anime Universe Tower Defense Wiki',
         },
       ],
     },
     twitter: {
       card: 'summary_large_image',
-      title: 'Copyright Notice - Universal Tower Defense Z Wiki',
+      title: 'Copyright Notice - Anime Universe Tower Defense Wiki',
       description: 'Copyright and intellectual property information.',
       images: [`${siteUrl}/og-image.jpg`],
     },
@@ -77,22 +77,22 @@ export default function Copyright() {
             <h2>1. Copyright Ownership</h2>
             <h3>1.1 Website Content</h3>
             <p>
-              © 2025-2026 Universal Tower Defense Z Wiki. All rights reserved.
+              © 2025-2026 Anime Universe Tower Defense Wiki. All rights reserved.
             </p>
             <p>
               Unless otherwise noted, all original content on this website, including but not limited to text,
-              graphics, logos, guides, articles, and compilations, is the property of Universal Tower Defense Z Wiki and is
+              graphics, logos, guides, articles, and compilations, is the property of Anime Universe Tower Defense Wiki and is
               protected by international copyright laws.
             </p>
 
             <h3>1.2 Game Assets and Trademarks</h3>
             <p>
-              Universal Tower Defense Z Wiki is an <strong>unofficial fan-made website</strong> and is NOT affiliated with,
+              Anime Universe Tower Defense Wiki is an <strong>unofficial fan-made website</strong> and is NOT affiliated with,
               endorsed by, or associated with:
             </p>
             <ul>
               <li><strong>Roblox Corporation</strong> - Owner of the Roblox platform</li>
-              <li><strong>Universal Tower Defense Z Developers</strong> - Creators of the Universal Tower Defense Z game</li>
+              <li><strong>Anime Universe Tower Defense Developers</strong> - Creators of the Anime Universe Tower Defense game</li>
               <li><strong>Anime/Manga Rights Holders</strong> - Owners of third-party anime characters featured in the game</li>
             </ul>
             <p>
@@ -154,13 +154,13 @@ export default function Copyright() {
             </p>
             <ul>
               <li><strong>ROBLOX</strong> - Trademark of Roblox Corporation</li>
-              <li><strong>Universal Tower Defense Z</strong> - Trademark of the game developers</li>
-              <li><strong>Universal Tower Defense Z Wiki</strong> - Our own branding (not affiliated with the game)</li>
+              <li><strong>Anime Universe Tower Defense</strong> - Trademark of the game developers</li>
+              <li><strong>Anime Universe Tower Defense Wiki</strong> - Our own branding (not affiliated with the game)</li>
             </ul>
             <p>
               All other trademarks, service marks, and trade names referenced on this website are the property of
               their respective owners. The use of any trademark on this website does not imply endorsement or
-              affiliation with Universal Tower Defense Z Wiki.
+              affiliation with Anime Universe Tower Defense Wiki.
             </p>
 
             <h2>5. DMCA Policy</h2>
@@ -202,7 +202,7 @@ export default function Copyright() {
             </p>
             <p>
               <strong>DMCA Agent</strong><br />
-              Universal Tower Defense Z Wiki<br />
+              Anime Universe Tower Defense Wiki<br />
               Email: <a href="mailto:dmca@animeuniversetowerdefense.wiki" className="text-[hsl(var(--nav-theme-light))] hover:underline">dmca@animeuniversetowerdefense.wiki</a>
             </p>
             <p>
@@ -239,12 +239,12 @@ export default function Copyright() {
               If you wish to use or reference our original content (guides, articles, data compilations), please:
             </p>
             <ul>
-              <li>Provide clear attribution to "Universal Tower Defense Z Wiki"</li>
+              <li>Provide clear attribution to "Anime Universe Tower Defense Wiki"</li>
               <li>Include a link back to the original page (if digital)</li>
               <li>Do not imply endorsement or affiliation</li>
             </ul>
             <p>
-              Example attribution: <em>"Source: Universal Tower Defense Z Wiki (animeuniversetowerdefense.wiki)"</em>
+              Example attribution: <em>"Source: Anime Universe Tower Defense Wiki (animeuniversetowerdefense.wiki)"</em>
             </p>
 
             <h2>8. Repeat Infringer Policy</h2>

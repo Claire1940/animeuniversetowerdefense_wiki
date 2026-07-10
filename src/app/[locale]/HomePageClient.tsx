@@ -97,15 +97,15 @@ export default function HomePageClient({
         "@type": "WebSite",
         "@id": `${siteUrl}/#website`,
         url: siteUrl,
-        name: "Universal Tower Defense Z Wiki",
+        name: "Anime Universe Tower Defense Wiki",
         description:
-          "Complete Universal Tower Defense Z Wiki covering codes, units, tier lists, traits, evolutions, builds, raids, and update guides for the anime tower defense game on Roblox.",
+          "Complete Anime Universe Tower Defense Wiki covering codes, units, tier lists, traits, evolutions, builds, raids, and update guides for the anime tower defense game on Roblox.",
         image: {
           "@type": "ImageObject",
           url: `${siteUrl}/images/hero.webp`,
           width: 1920,
           height: 1080,
-          caption: "Universal Tower Defense Z - Anime Strategy Tower Defense on Roblox",
+          caption: "Anime Universe Tower Defense - Anime Strategy Tower Defense on Roblox",
         },
         potentialAction: {
           "@type": "SearchAction",
@@ -116,11 +116,11 @@ export default function HomePageClient({
       {
         "@type": "Organization",
         "@id": `${siteUrl}/#organization`,
-        name: "Universal Tower Defense Z Wiki",
+        name: "Anime Universe Tower Defense Wiki",
         alternateName: "Anime Universe Tower Defense",
         url: siteUrl,
         description:
-          "Complete Universal Tower Defense Z Wiki resource hub for codes, units, tier lists, traits, evolutions, builds, and raid guides",
+          "Complete Anime Universe Tower Defense Wiki resource hub for codes, units, tier lists, traits, evolutions, builds, and raid guides",
         logo: {
           "@type": "ImageObject",
           url: `${siteUrl}/android-chrome-512x512.png`,
@@ -132,7 +132,7 @@ export default function HomePageClient({
           url: `${siteUrl}/images/hero.webp`,
           width: 1920,
           height: 1080,
-          caption: "Universal Tower Defense Z Wiki - Anime Strategy Tower Defense on Roblox",
+          caption: "Anime Universe Tower Defense Wiki - Anime Strategy Tower Defense on Roblox",
         },
         sameAs: [
           "https://www.roblox.com/games/133410800847665/Universal-Tower-Defense-Z",
@@ -143,7 +143,7 @@ export default function HomePageClient({
       },
       {
         "@type": "VideoGame",
-        name: "Universal Tower Defense Z",
+        name: "Anime Universe Tower Defense",
         gamePlatform: ["Roblox"],
         applicationCategory: "Game",
         genre: ["Strategy", "Tower Defense", "Anime", "Co-op"],
@@ -160,9 +160,9 @@ export default function HomePageClient({
       },
       {
         "@type": "VideoObject",
-        name: "Universal Tower Defense Z - Update 4.0 Official Trailer",
+        name: "Anime Universe Tower Defense - Update 4.0 Official Trailer",
         description:
-          "Official Universal Tower Defense Z Update 4.0 trailer showcasing new units, raids, extractions, evolutions, and seasonal content.",
+          "Official Anime Universe Tower Defense Update 4.0 trailer showcasing new units, raids, extractions, evolutions, and seasonal content.",
         uploadDate: "2026-07-09",
         thumbnailUrl: `${siteUrl}/images/hero.webp`,
         embedUrl: "https://www.youtube.com/embed/hevoQi1OR-Y",
@@ -277,7 +277,7 @@ export default function HomePageClient({
           <div className="relative overflow-hidden rounded-2xl">
             <VideoFeature
               videoId="hevoQi1OR-Y"
-              title="Universal Tower Defense Z - Update 4.0 Official Trailer"
+              title="Anime Universe Tower Defense - Update 4.0 Official Trailer"
             />
           </div>
         </div>

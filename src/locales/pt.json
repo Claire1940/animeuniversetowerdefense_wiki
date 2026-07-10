@@ -1,13 +1,13 @@
 {
   "seo": {
     "home": {
-      "title": "Wiki de Universal Tower Defense Z - Códigos, Units e Tier List",
-      "description": "Wiki de Universal Tower Defense Z com códigos ativos, tier lists de units, traits, evoluções, builds, raids, guias de atualização e dicas para iniciantes para jogadores de Roblox.",
-      "keywords": "Anime Universe Tower Defense, Universal Tower Defense Z, Roblox, códigos, units, tier list",
-      "ogTitle": "Wiki de Universal Tower Defense Z - Códigos, Units e Tier List",
-      "ogDescription": "Wiki de Universal Tower Defense Z com códigos ativos, tier lists de units, traits, evoluções, builds, raids, guias de atualização e dicas para iniciantes para jogadores de Roblox.",
-      "twitterTitle": "Wiki de Universal Tower Defense Z - Códigos, Units e Tier List",
-      "twitterDescription": "Wiki de Universal Tower Defense Z com códigos ativos, tier lists de units, traits, evoluções, builds, raids e guias de atualização para jogadores de Roblox."
+      "title": "Wiki de Anime Universe Tower Defense - Códigos, Units e Tier List",
+      "description": "Wiki de Anime Universe Tower Defense com códigos ativos, tier lists de units, traits, evoluções, builds, raids, guias de atualização e dicas para iniciantes para jogadores de Roblox.",
+      "keywords": "Anime Universe Tower Defense, Anime Universe Tower Defense, Roblox, códigos, units, tier list",
+      "ogTitle": "Wiki de Anime Universe Tower Defense - Códigos, Units e Tier List",
+      "ogDescription": "Wiki de Anime Universe Tower Defense com códigos ativos, tier lists de units, traits, evoluções, builds, raids, guias de atualização e dicas para iniciantes para jogadores de Roblox.",
+      "twitterTitle": "Wiki de Anime Universe Tower Defense - Códigos, Units e Tier List",
+      "twitterDescription": "Wiki de Anime Universe Tower Defense com códigos ativos, tier lists de units, traits, evoluções, builds, raids e guias de atualização para jogadores de Roblox."
     }
   },
   "nav": {
@@ -36,7 +36,7 @@
   },
   "hero": {
     "badge": "Tower Defense de Estratégia de Anime",
-    "title": "Wiki de Universal Tower Defense Z",
+    "title": "Wiki de Anime Universe Tower Defense",
     "description": "Invoque units inspiradas em anime, defenda-se contra ondas de inimigos, crie equipes cooperativas, faça reroll de traits, use o Etherealize e evolua units, e complete o Modo História, Raids, eventos e modos de endgame. Também conhecido como Anime Universe Tower Defense no Roblox.",
     "getFreeCodesCTA": "Obter Códigos Grátis",
     "playOnRobloxCTA": "Jogar no Roblox",
@@ -60,13 +60,13 @@
     }
   },
   "gameFeature": {
-    "title": "Gameplay do Universal Tower Defense Z",
+    "title": "Gameplay do Anime Universe Tower Defense",
     "description": "Invoque unidades inspiradas em anime, defenda-se de ondas de inimigos, faça reroll de traits, eterialize e evolua unidades, e conclua os modos História, Raids, Infinito e Update 4 no Roblox."
   },
   "tools": {
     "title": "Anime Universe Tower Defense",
     "titleHighlight": "Recursos",
-    "subtitle": "Tudo o que você precisa para o Universal Tower Defense Z — códigos, unidades, tier lists, traits, evoluções, modos, equipes e guias de update.",
+    "subtitle": "Tudo o que você precisa para o Anime Universe Tower Defense — códigos, unidades, tier lists, traits, evoluções, modos, equipes e guias de update.",
     "cards": [
       {
         "icon": "Presente",
@@ -114,9 +114,9 @@
     "autdCodes": {
       "title": "Códigos do Anime Universe Tower Defense",
       "subtitle": "Códigos ativos para unidades grátis, Trait Rerolls, Gemas e materiais de evolução.",
-      "intro": "Resgate os códigos mais recentes do Anime Universe Tower Defense para Universal Tower Defense Z para reivindicar unidades grátis, Trait Rerolls, Gemas, Gemas Universais, materiais de evolução e Fragmentos de Eterialização.",
+      "intro": "Resgate os códigos mais recentes do Anime Universe Tower Defense para Anime Universe Tower Defense para reivindicar unidades grátis, Trait Rerolls, Gemas, Gemas Universais, materiais de evolução e Fragmentos de Eterialização.",
       "howToRedeem": [
-        "Abra o Universal Tower Defense Z no Roblox",
+        "Abra o Anime Universe Tower Defense no Roblox",
         "Toque em Codes no menu do lado direito",
         "Digite ou cole cada código exatamente como escrito",
         "Pressione Redeem para reivindicar suas recompensas"
@@ -177,7 +177,7 @@
     "autdBeginnerGuide": {
       "title": "Guia de Iniciante de Anime Universe Tower Defense",
       "subtitle": "Uma rota simples desde sua primeira invocação até concluir modos mais difíceis.",
-      "intro": "Universal Tower Defense Z combina invocação de unidades, defesa de ondas, melhorias de personagens, evolução, Eterealização, traits, relíquias e vários modos de jogo repetíveis. Iniciantes progridem mais rápido montando uma equipe confiável e concentrando recursos em seu causador de dano principal.",
+      "intro": "Anime Universe Tower Defense combina invocação de unidades, defesa de ondas, melhorias de personagens, evolução, Eterealização, traits, relíquias e vários modos de jogo repetíveis. Iniciantes progridem mais rápido montando uma equipe confiável e concentrando recursos em seu causador de dano principal.",
       "steps": [
         {
           "title": "Resgate os Códigos Atuais",
@@ -946,8 +946,8 @@
         {
           "date": "9 de julho de 2026",
           "category": "Atualização Principal",
-          "headline": "Lançamento de Universal Tower Defense Z",
-          "details": "A experiência adota o nome Universal Tower Defense Z enquanto mantém o summon, wave defense, jogo co-op, leveling, Etherealization e evolução.",
+          "headline": "Lançamento de Anime Universe Tower Defense",
+          "details": "A experiência adota o nome Anime Universe Tower Defense enquanto mantém o summon, wave defense, jogo co-op, leveling, Etherealization e evolução.",
           "featuredContent": [
             "Branding UTDZ",
             "Nova apresentação da atualização",
@@ -1054,19 +1054,19 @@
   "faq": {
     "title": "Anime Universe Tower Defense",
     "titleHighlight": "FAQ",
-    "subtitle": "Perguntas frequentes sobre o Anime Universe Tower Defense e o Universal Tower Defense Z no Roblox.",
+    "subtitle": "Perguntas frequentes sobre o Anime Universe Tower Defense e o Anime Universe Tower Defense no Roblox.",
     "questions": [
       {
         "question": "O que é o Anime Universe Tower Defense no Roblox?",
-        "answer": "Anime Universe Tower Defense é um nome de busca popular para o Universal Tower Defense Z, um jogo de tower defense inspirado em anime no Roblox onde você invoca unidades, se defende de ondas de inimigos, faz reroll de traits e evolui personagens."
+        "answer": "Anime Universe Tower Defense é um nome de busca popular para o Anime Universe Tower Defense, um jogo de tower defense inspirado em anime no Roblox onde você invoca unidades, se defende de ondas de inimigos, faz reroll de traits e evolui personagens."
       },
       {
         "question": "Onde eu resgato os códigos do Anime Universe Tower Defense?",
-        "answer": "Abra o Universal Tower Defense Z no Roblox, toque em Codes no menu do lado direito, insira cada código exatamente como escrito e pressione Redeem. Os códigos diferenciam maiúsculas de minúsculas e só podem ser resgatados uma vez por conta."
+        "answer": "Abra o Anime Universe Tower Defense no Roblox, toque em Codes no menu do lado direito, insira cada código exatamente como escrito e pressione Redeem. Os códigos diferenciam maiúsculas de minúsculas e só podem ser resgatados uma vez por conta."
       },
       {
         "question": "O Anime Universe Tower Defense é gratuito para jogar?",
-        "answer": "Sim. O Universal Tower Defense Z é gratuito para jogar no Roblox. Você pode invocar unidades, completar o modo História, participar de Raids e resgatar códigos sem gastar Robux, com compras opcionais disponíveis no jogo."
+        "answer": "Sim. O Anime Universe Tower Defense é gratuito para jogar no Roblox. Você pode invocar unidades, completar o modo História, participar de Raids e resgatar códigos sem gastar Robux, com compras opcionais disponíveis no jogo."
       },
       {
         "question": "O que são Traits e Trait Rerolls no Anime Universe Tower Defense?",
@@ -1078,19 +1078,19 @@
       },
       {
         "question": "O Anime Universe Tower Defense suporta jogo co-op?",
-        "answer": "Sim. O Universal Tower Defense Z suporta jogo cooperativo ao lado de invocação, defesa de ondas, evolução de nível, Etherealization e evolução, para que você possa se juntar a outros jogadores para conteúdos de Raids, Infinito e Update 4."
+        "answer": "Sim. O Anime Universe Tower Defense suporta jogo cooperativo ao lado de invocação, defesa de ondas, evolução de nível, Etherealization e evolução, para que você possa se juntar a outros jogadores para conteúdos de Raids, Infinito e Update 4."
       }
     ]
   },
   "cta": {
-    "title": "Pronto para jogar Universal Tower Defense Z?",
-    "description": "Junte-se à comunidade do Universal Tower Defense Z no Discord para códigos, atualizações e discussões!",
+    "title": "Pronto para jogar Anime Universe Tower Defense?",
+    "description": "Junte-se à comunidade do Anime Universe Tower Defense no Discord para códigos, atualizações e discussões!",
     "joinCommunity": "Entrar no Discord",
     "joinGame": "Jogar no Roblox"
   },
   "footer": {
-    "title": "Wiki do Universal Tower Defense Z",
-    "description": "Seu hub de recursos completo para códigos, unidades, tier lists, traits, evoluções, builds e guias de raid do Universal Tower Defense Z no Roblox.",
+    "title": "Wiki do Anime Universe Tower Defense",
+    "description": "Seu hub de recursos completo para códigos, unidades, tier lists, traits, evoluções, builds e guias de raid do Anime Universe Tower Defense no Roblox.",
     "resources": "Recursos",
     "community": "Comunidade",
     "legal": "Informações Legais",
@@ -1102,18 +1102,18 @@
     "privacy": "Política de Privacidade",
     "terms": "Termos de Serviço",
     "copyrightNotice": "Copyright",
-    "copyright": "© 2026 Universal Tower Defense Z Wiki. Não afiliado à Roblox Corporation ou aos desenvolvedores de Universal Tower Defense Z.",
+    "copyright": "© 2026 Anime Universe Tower Defense Wiki. Não afiliado à Roblox Corporation ou aos desenvolvedores de Anime Universe Tower Defense.",
     "disclaimer": "Site de recursos não oficial feito por fãs."
   },
   "pages": {
     "codes": {
       "title": "Códigos de Anime Universe Tower Defense",
-      "description": "Últimos códigos ativos para gemas grátis, unidades, Trait Rerolls e materiais de evolução em Anime Universe Tower Defense (Universal Tower Defense Z). Atualizado diariamente com códigos verificados.",
+      "description": "Últimos códigos ativos para gemas grátis, unidades, Trait Rerolls e materiais de evolução em Anime Universe Tower Defense (Anime Universe Tower Defense). Atualizado diariamente com códigos verificados.",
       "metaTitle": "Códigos de Anime Universe Tower Defense - Gemas e Unidades Grátis (2026)",
       "metaDescription": "Resgate códigos ativos de Anime Universe Tower Defense para obter gemas grátis, unidades, Trait Rerolls e materiais de evolução. Atualizado diariamente com códigos ativos verificados.",
       "categoryLabel": "RESGATAR CÓDIGOS",
       "whatIs": "O que são Códigos?",
-      "whatIsDescription": "Códigos são chaves promocionais lançadas pelos desenvolvedores de Universal Tower Defense Z (também pesquisado como Anime Universe Tower Defense) que concedem gemas grátis, unidades, Trait Rerolls, materiais de evolução e Etherealization Shards quando resgatados no jogo.",
+      "whatIsDescription": "Códigos são chaves promocionais lançadas pelos desenvolvedores de Anime Universe Tower Defense (também pesquisado como Anime Universe Tower Defense) que concedem gemas grátis, unidades, Trait Rerolls, materiais de evolução e Etherealization Shards quando resgatados no jogo.",
       "why": "Por que resgatar códigos?",
       "whySteps": {
         "step1Title": "Unidades e Recursos Grátis",
@@ -1128,12 +1128,12 @@
     },
     "tier-list": {
       "title": "Tier List de Anime Universe Tower Defense",
-      "description": "Classificação completa de unidades de S-tier a D-tier para Anime Universe Tower Defense (Universal Tower Defense Z). Encontre as unidades mais fortes para cada modo.",
+      "description": "Classificação completa de unidades de S-tier a D-tier para Anime Universe Tower Defense (Anime Universe Tower Defense). Encontre as unidades mais fortes para cada modo.",
       "metaTitle": "Tier List de Anime Universe Tower Defense - Melhores Unidades Classificadas",
       "metaDescription": "Tier list completa classificando todas as unidades de Anime Universe Tower Defense por DPS, suporte, controle e economia nos modos História, Raids e Infinito.",
       "categoryLabel": "TIER LISTS",
       "whatIs": "O que é uma Tier List?",
-      "whatIsDescription": "As tier lists classificam cada unidade de S-tier (melhor) a D-tier (mais fraca) com base no desempenho de DPS, suporte, controle e economia no meta atual de Universal Tower Defense Z. Use-as para decidir quais unidades invocar e evoluir.",
+      "whatIsDescription": "As tier lists classificam cada unidade de S-tier (melhor) a D-tier (mais fraca) com base no desempenho de DPS, suporte, controle e economia no meta atual de Anime Universe Tower Defense. Use-as para decidir quais unidades invocar e evoluir.",
       "why": "Por que consultar as tier lists?",
       "whySteps": {
         "step1Title": "Identificar as Melhores Unidades",
@@ -1148,12 +1148,12 @@
     },
     "units": {
       "title": "Unidades de Anime Universe Tower Defense",
-      "description": "Guias detalhados de unidades com atributos, funções, elementos, habilidades e métodos de obtenção para cada personagem de Anime Universe Tower Defense (Universal Tower Defense Z).",
+      "description": "Guias detalhados de unidades com atributos, funções, elementos, habilidades e métodos de obtenção para cada personagem de Anime Universe Tower Defense (Anime Universe Tower Defense).",
       "metaTitle": "Unidades de Anime Universe Tower Defense - Atributos, Funções e Habilidades",
       "metaDescription": "Navegue pelas unidades de Anime Universe Tower Defense por raridade, função, elemento e habilidade. Aprenda atributos, métodos de obtenção e dados de progressão do nível básico ao máximo.",
       "categoryLabel": "BANCO DE DADOS DE UNIDADES",
       "whatIs": "O que são Unidades?",
-      "whatIsDescription": "Unidades são os personagens inspirados em anime que você invoca, posiciona, melhora, evolui e eteriza para defender contra ondas de inimigos no modo História, Raids, Infinito e eventos em Universal Tower Defense Z.",
+      "whatIsDescription": "Unidades são os personagens inspirados em anime que você invoca, posiciona, melhora, evolui e eteriza para defender contra ondas de inimigos no modo História, Raids, Infinito e eventos em Anime Universe Tower Defense.",
       "why": "Por que estudar os atributos das unidades?",
       "whySteps": {
         "step1Title": "Domine a Obtenção",
@@ -1168,12 +1168,12 @@
     },
     "builds": {
       "title": "Builds de Anime Universe Tower Defense",
-      "description": "Melhores builds e loadouts de equipe para Anime Universe Tower Defense (Universal Tower Defense Z). DPS principal, suporte, unidades de economia, traços e acessórios.",
+      "description": "Melhores builds e loadouts de equipe para Anime Universe Tower Defense (Anime Universe Tower Defense). DPS principal, suporte, unidades de economia, traços e acessórios.",
       "metaTitle": "Builds de Anime Universe Tower Defense - Melhores Equipes e Loadouts",
       "metaDescription": "Domine as builds de Anime Universe Tower Defense com slots de equipe ideais, DPS principal, suporte, unidades de economia, traços, relíquias e acessórios para cada modo.",
       "categoryLabel": "BUILDS DE EQUIPE",
       "whatIs": "O que são Builds?",
-      "whatIsDescription": "Builds combinam slots de unidade, DPS principal, suporte e unidades de economia com os traços, relíquias e acessórios certos para enfrentar o modo História, Raids, Infinito e chefes de endgame em Universal Tower Defense Z.",
+      "whatIsDescription": "Builds combinam slots de unidade, DPS principal, suporte e unidades de economia com os traços, relíquias e acessórios certos para enfrentar o modo História, Raids, Infinito e chefes de endgame em Anime Universe Tower Defense.",
       "why": "Por que usar guias de build?",
       "whySteps": {
         "step1Title": "Otimize os Slots de Equipe",
@@ -1188,12 +1188,12 @@
     },
     "traits": {
       "title": "Traços de Anime Universe Tower Defense",
-      "description": "Guia completo de traços para Anime Universe Tower Defense (Universal Tower Defense Z). Efeitos, custos de reroll, pity e os melhores traços por unidade.",
+      "description": "Guia completo de traços para Anime Universe Tower Defense (Anime Universe Tower Defense). Efeitos, custos de reroll, pity e os melhores traços por unidade.",
       "metaTitle": "Traços de Anime Universe Tower Defense - Guia de Melhores Traços e Reroll",
       "metaDescription": "Conheça cada traço de Anime Universe Tower Defense, seus efeitos, custo de reroll, sistema de pity e as melhores escolhas de traços para cada unidade e build.",
       "categoryLabel": "GUIA DE TRAÇOS",
       "whatIs": "O que são Traços?",
-      "whatIsDescription": "Traços são modificadores passivos que você obtém e faz reroll em unidades no Universal Tower Defense Z. Eles aumentam o dano, alcance, tempo de recarga, economia e muito mais, e combinar o traço certo com cada unidade é a chave para o desempenho no endgame.",
+      "whatIsDescription": "Traços são modificadores passivos que você obtém e faz reroll em unidades no Anime Universe Tower Defense. Eles aumentam o dano, alcance, tempo de recarga, economia e muito mais, e combinar o traço certo com cada unidade é a chave para o desempenho no endgame.",
       "why": "Por que otimizar os traços?",
       "whySteps": {
         "step1Title": "Aumentar Poder de Combate",
@@ -1208,12 +1208,12 @@
     },
     "guide": {
       "title": "Guia de Anime Universe Tower Defense",
-      "description": "Guias completos de Anime Universe Tower Defense (Universal Tower Defense Z), desde o básico para iniciantes até estratégias avançadas para todos os modos.",
+      "description": "Guias completos de Anime Universe Tower Defense (Anime Universe Tower Defense), desde o básico para iniciantes até estratégias avançadas para todos os modos.",
       "metaTitle": "Guia de Anime Universe Tower Defense - Estratégias de Iniciante a Pro",
       "metaDescription": "Guias completos de Anime Universe Tower Defense cobrindo dicas para iniciantes, progressão, farming, extração e táticas de especialistas para todos os níveis de habilidade.",
       "categoryLabel": "GUIAS DE JOGO",
       "whatIs": "O que são Guias?",
-      "whatIsDescription": "Do básico para iniciantes a estratégias avançadas, estes guias cobrem progressão, farming, extração e dicas de combate para Universal Tower Defense Z, ajudando você a avançar do seu primeiro summon ao conteúdo de endgame.",
+      "whatIsDescription": "Do básico para iniciantes a estratégias avançadas, estes guias cobrem progressão, farming, extração e dicas de combate para Anime Universe Tower Defense, ajudando você a avançar do seu primeiro summon ao conteúdo de endgame.",
       "why": "Por que ler guias?",
       "whySteps": {
         "step1Title": "Aprenda as Mecânicas",
@@ -1228,12 +1228,12 @@
     },
     "updates": {
       "title": "Atualizações de Anime Universe Tower Defense",
-      "description": "Últimas atualizações e patch notes de Anime Universe Tower Defense (Universal Tower Defense Z). Novas unidades, modos, eventos, códigos e mudanças de balanceamento.",
+      "description": "Últimas atualizações e patch notes de Anime Universe Tower Defense (Anime Universe Tower Defense). Novas unidades, modos, eventos, códigos e mudanças de balanceamento.",
       "metaTitle": "Atualizações de Anime Universe Tower Defense - Patch Notes e Novo Conteúdo",
       "metaDescription": "Acompanhe todas as atualizações e patch notes de Anime Universe Tower Defense: novas unidades, modos, eventos, códigos, mudanças de balanceamento e correções de bugs, organizados por versão.",
       "categoryLabel": "ATUALIZAÇÕES E PATCH NOTES",
       "whatIs": "O que são Atualizações?",
-      "whatIsDescription": "As atualizações trazem novas unidades, modos, eventos, códigos, mudanças de balanceamento e correções de bugs para Universal Tower Defense Z. Cada versão (como a Atualização 4.0) remodela o meta, então acompanhar as patch notes mantém suas builds atualizadas.",
+      "whatIsDescription": "As atualizações trazem novas unidades, modos, eventos, códigos, mudanças de balanceamento e correções de bugs para Anime Universe Tower Defense. Cada versão (como a Atualização 4.0) remodela o meta, então acompanhar as patch notes mantém suas builds atualizadas.",
       "why": "Por que acompanhar as atualizações?",
       "whySteps": {
         "step1Title": "Obtenha Novas Unidades e Modos",

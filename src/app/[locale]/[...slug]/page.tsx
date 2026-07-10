@@ -234,12 +234,12 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
       }
     } catch {
       // 如果翻译不存在，使用默认值
-      const defaultTitle = `${contentType.charAt(0).toUpperCase() + contentType.slice(1)} - Universal Tower Defense Z Wiki`
+      const defaultTitle = `${contentType.charAt(0).toUpperCase() + contentType.slice(1)} - Anime Universe Tower Defense Wiki`
       const path = `/${contentType}`
 
       return {
         title: defaultTitle,
-        description: `Browse all ${contentType} content for Universal Tower Defense Z Wiki`,
+        description: `Browse all ${contentType} content for Anime Universe Tower Defense Wiki`,
         alternates: buildLanguageAlternates(path, locale as Locale, siteUrl),
         robots: {
           index: true,
@@ -270,7 +270,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
       const fullPath = `/${slug.join('/')}`
 
       return {
-        title: `${metadata.title} - Universal Tower Defense Z Wiki`,
+        title: `${metadata.title} - Anime Universe Tower Defense Wiki`,
         description: metadata.description,
         alternates: buildLanguageAlternates(fullPath, locale as Locale, siteUrl),
         openGraph: {

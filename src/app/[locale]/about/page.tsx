@@ -13,8 +13,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const path = '/about'
 
   return {
-    title: 'About Universal Tower Defense Z Wiki - Your Ultimate Roblox Game Resource',
-    description: 'Learn about Universal Tower Defense Z Wiki, a community-driven resource hub providing comprehensive guides, codes, unit tier lists, traits, and strategies for the Universal Tower Defense Z Roblox game.',
+    title: 'About Anime Universe Tower Defense Wiki - Your Ultimate Roblox Game Resource',
+    description: 'Learn about Anime Universe Tower Defense Wiki, a community-driven resource hub providing comprehensive guides, codes, unit tier lists, traits, and strategies for the Anime Universe Tower Defense Roblox game.',
     robots: {
       index: false,
       follow: true,
@@ -30,22 +30,22 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       type: 'website',
       locale: locale,
       url: locale === 'en' ? `${siteUrl}${path}` : `${siteUrl}/${locale}${path}`,
-      siteName: 'Universal Tower Defense Z Wiki',
-      title: 'About Universal Tower Defense Z Wiki',
-      description: 'Learn about our mission to provide the best Universal Tower Defense Z game resources and guides.',
+      siteName: 'Anime Universe Tower Defense Wiki',
+      title: 'About Anime Universe Tower Defense Wiki',
+      description: 'Learn about our mission to provide the best Anime Universe Tower Defense game resources and guides.',
       images: [
         {
           url: `${siteUrl}/og-image.jpg`,
           width: 1200,
           height: 630,
-          alt: 'Universal Tower Defense Z Wiki',
+          alt: 'Anime Universe Tower Defense Wiki',
         },
       ],
     },
     twitter: {
       card: 'summary_large_image',
-      title: 'About Universal Tower Defense Z Wiki',
-      description: 'Learn about our mission to provide the best Universal Tower Defense Z game resources.',
+      title: 'About Anime Universe Tower Defense Wiki',
+      description: 'Learn about our mission to provide the best Anime Universe Tower Defense game resources.',
       images: [`${siteUrl}/og-image.jpg`],
     },
     alternates: buildLanguageAlternates(path, locale as Locale, siteUrl),
@@ -59,10 +59,10 @@ export default function About() {
       <section className="relative py-20 px-4 border-b border-border">
         <div className="container mx-auto max-w-4xl text-center">
           <h1 className="text-4xl md:text-5xl font-bold text-white mb-4">
-            About Universal Tower Defense Z Wiki
+            About Anime Universe Tower Defense Wiki
           </h1>
           <p className="text-slate-300 text-lg mb-2">
-            Your community-driven resource center for Universal Tower Defense Z
+            Your community-driven resource center for Anime Universe Tower Defense
           </p>
         </div>
       </section>
@@ -71,15 +71,15 @@ export default function About() {
       <section className="py-12 px-4">
         <div className="container mx-auto max-w-4xl">
           <div className="prose prose-invert prose-slate max-w-none">
-            <h2>Welcome to Universal Tower Defense Z Wiki</h2>
+            <h2>Welcome to Anime Universe Tower Defense Wiki</h2>
             <p>
-              Universal Tower Defense Z Wiki is an <strong>unofficial, fan-made resource website</strong> dedicated to helping players
-              master the Roblox game "Universal Tower Defense Z". We are a community-driven platform that provides comprehensive guides,
+              Anime Universe Tower Defense Wiki is an <strong>unofficial, fan-made resource website</strong> dedicated to helping players
+              master the Roblox game "Anime Universe Tower Defense". We are a community-driven platform that provides comprehensive guides,
               active codes, unit tier lists, trait guides, evolution strategies, and raid tactics to enhance your gaming experience.
             </p>
             <p>
               Whether you're a new player just starting your tower defense journey or a seasoned veteran looking to optimize your team builds,
-              Universal Tower Defense Z Wiki is here to support you every step of the way.
+              Anime Universe Tower Defense Wiki is here to support you every step of the way.
             </p>
           </div>
         </div>
@@ -91,7 +91,7 @@ export default function About() {
           <div className="prose prose-invert prose-slate max-w-none">
             <h2>Our Mission</h2>
             <p>
-              Our mission is simple: <strong>to empower Universal Tower Defense Z players with accurate, up-to-date information
+              Our mission is simple: <strong>to empower Anime Universe Tower Defense players with accurate, up-to-date information
               and powerful tools</strong> that help them succeed in the game. We strive to:
             </p>
             <ul>
@@ -103,7 +103,7 @@ export default function About() {
 
             <h2>Our Vision</h2>
             <p>
-              We envision Universal Tower Defense Z Wiki as the <strong>go-to destination</strong> for every Universal Tower Defense Z player seeking
+              We envision Anime Universe Tower Defense Wiki as the <strong>go-to destination</strong> for every Anime Universe Tower Defense player seeking
               to improve their gameplay. We want to be the resource that players trust and rely on, whether they need
               the latest codes, want to build the perfect team, or are looking for advanced raid tactics.
             </p>
@@ -121,7 +121,7 @@ export default function About() {
               <div className="text-2xl mb-3">🎁</div>
               <h3 className="text-xl font-semibold text-white mb-2">Active Codes</h3>
               <p className="text-slate-300">
-                Up-to-date Universal Tower Defense Z codes for free gems, rerolls, and resources.
+                Up-to-date Anime Universe Tower Defense codes for free gems, rerolls, and resources.
                 Redeem them before they expire!
               </p>
             </div>
@@ -185,7 +185,7 @@ export default function About() {
           <div className="prose prose-invert prose-slate max-w-none">
             <h2>Community-Driven</h2>
             <p>
-              Universal Tower Defense Z Wiki is built <strong>by the community, for the community</strong>. We welcome contributions,
+              Anime Universe Tower Defense Wiki is built <strong>by the community, for the community</strong>. We welcome contributions,
               feedback, and suggestions from players of all skill levels. Our content is constantly evolving based on:
             </p>
             <ul>
@@ -208,15 +208,15 @@ export default function About() {
           <div className="prose prose-invert prose-slate max-w-none">
             <h2>About the Team</h2>
             <p>
-              Universal Tower Defense Z Wiki is maintained by a dedicated team of passionate gamers and developers who love
-              Universal Tower Defense Z as much as you do. We're players first, constantly testing strategies, exploring game
+              Anime Universe Tower Defense Wiki is maintained by a dedicated team of passionate gamers and developers who love
+              Anime Universe Tower Defense as much as you do. We're players first, constantly testing strategies, exploring game
               mechanics, and staying updated with the latest discoveries.
             </p>
             <p>
               Our team combines expertise in:
             </p>
             <ul>
-              <li><strong>Game analysis:</strong> Deep understanding of Universal Tower Defense Z mechanics and strategies</li>
+              <li><strong>Game analysis:</strong> Deep understanding of Anime Universe Tower Defense mechanics and strategies</li>
               <li><strong>Web development:</strong> Building fast, user-friendly tools and interfaces</li>
               <li><strong>Content creation:</strong> Writing clear, helpful guides and tutorials</li>
               <li><strong>Community management:</strong> Listening to player feedback and fostering a positive environment</li>
@@ -234,15 +234,15 @@ export default function About() {
           <div className="prose prose-invert prose-slate max-w-none">
             <h2>Important Disclaimer</h2>
             <p className="text-yellow-400/90">
-              <strong>Universal Tower Defense Z Wiki is an unofficial fan-made website.</strong> We are NOT affiliated with,
-              endorsed by, or associated with Roblox Corporation, the developers of Universal Tower Defense Z, or any anime/manga rights holders.
+              <strong>Anime Universe Tower Defense Wiki is an unofficial fan-made website.</strong> We are NOT affiliated with,
+              endorsed by, or associated with Roblox Corporation, the developers of Anime Universe Tower Defense, or any anime/manga rights holders.
             </p>
             <p>
               All game content, trademarks, characters, and assets are the property of their respective owners.
               We use game-related content under fair use principles for informational and educational purposes only.
             </p>
             <p>
-              Universal Tower Defense Z Wiki is a non-profit, community resource created by fans, for fans.
+              Anime Universe Tower Defense Wiki is a non-profit, community resource created by fans, for fans.
             </p>
           </div>
         </div>
@@ -294,7 +294,7 @@ export default function About() {
         <div className="container mx-auto max-w-4xl text-center">
           <h2 className="text-3xl font-bold text-white mb-4">Join Our Community</h2>
           <p className="text-slate-300 mb-6 max-w-2xl mx-auto">
-            Stay updated with the latest guides, tips, and Universal Tower Defense Z news.
+            Stay updated with the latest guides, tips, and Anime Universe Tower Defense news.
             Bookmark this site and check back regularly for new content!
           </p>
           <Link

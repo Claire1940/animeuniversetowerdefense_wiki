@@ -61,7 +61,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       type: "website",
       locale: locale,
       url: locale === "en" ? siteUrl : `${siteUrl}/${locale}`,
-      siteName: "Universal Tower Defense Z Wiki",
+      siteName: "Anime Universe Tower Defense Wiki",
       title: t("ogTitle"),
       description: t("ogDescription"),
       images: [
@@ -69,7 +69,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
           url: `${siteUrl}/images/hero.webp`,
           width: 1920,
           height: 1080,
-          alt: "Universal Tower Defense Z - Anime Strategy Tower Defense on Roblox",
+          alt: "Anime Universe Tower Defense - Anime Strategy Tower Defense on Roblox",
         },
       ],
     },
