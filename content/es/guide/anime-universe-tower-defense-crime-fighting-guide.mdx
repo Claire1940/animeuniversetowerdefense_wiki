@@ -1,0 +1,181 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed'
+
+export const metadata = {
+  title: "Guía de Lucha contra el Crimen en Anime Universe Tower Defense: Estrategias y Consejos",
+  description: "Domina el modo de juego Lucha contra el Crimen en Universal Tower Defense Z. Aprende sobre la formación de equipos, estrategias contra jefes y consejos de extracción en esta guía paso a paso.",
+  category: "Guía",
+  image: "https://placehold.co/800x400/0f172a/fff?text=Crime+Fighting+Guide",
+  date: "2026-07-11",
+  author: "Equipo de la Wiki de Universal Tower Defense"
+}
+
+<Callout type="info" title="Guía Rápida">
+- **Guía de lucha contra el crimen de Anime universe tower defense**: Este modo especializado desafía a los jugadores a balancearse por una ciudad, completar tareas y derrotar a poderosos jefes.
+- **Sistema de Costo de Equipo**: Los personajes tienen costos de despliegue vinculados a su rareza. Mantén tus puntos totales de equipo dentro del límite permitido.
+- **Mejor Estrategia**: Lleva unidades de DPS altamente eficientes como Gogeta y Vegeta, junto con unidades de granja esenciales para mantener las mejoras.
+- **Objetivo de Extracción**: Tienes un temporizador de 45 minutos para completar misiones, pero debes activar manualmente la extracción para asegurar tus recompensas.
+</Callout>
+
+<Section icon={Map} title="Introducción al Modo Lucha contra el Crimen">
+
+El modo de juego Lucha contra el Crimen en Universal Tower Defense Z trae un emocionante sistema de extracción con temática de Spider-Man al juego. Ubicado en el lobby de Extracciones, este modo apto para jugadores en solitario te permite balancearte por una vasta ciudad, realizar misiones secundarias aleatorias, derrotar a jefes icónicos y extraer reliquias raras. Las partidas exitosas otorgan accesorios de personajes exclusivos y objetos de evolución para Spider-Man, Venom e Iron Man.
+
+**Puntos Destacados del Video:**
+- **Acceso al Modo**: Cómo navegar a la sala de Extracciones y crear una partida.
+- **Construcción de Equipo**: Gestión de los puntos de equipo y elección de unidades DPS óptimas.
+- **Mecánicas de Balanceo**: Dominio de los controles de movimiento (Shift, Espacio y C) para atravesar la ciudad.
+- **Estrategias contra Jefes**: Derrotar a Venom y al Duende Verde bajo condiciones de escenario difíciles.
+
+<YouTubeEmbed videoId="kpZHEXrzCE0" title="The ULTIMATE Crime Fighting Gamemode Guide! | Universal Tower Defense Z" />
+
+| Característica | Detalles |
+| :--- | :--- |
+| **Ubicación** | Sala de Extracciones (Lobby) |
+| **Tipo de Partida** | Enfocado en solitario (Soporta cooperativo) |
+| **Tasas de Pity** | Spider-Man (25%), Iron Man (25%), Venom (5%) |
+| **Límite de Tiempo** | 45 Minutos totales por sesión |
+| **Límite de Vidas** | 3 Vidas compartidas entre todos los objetivos |
+
+<Callout type="tip" title="Recomendación Cooperativa">
+Aunque Lucha contra el Crimen es completamente jugable en solitario, algunos escenarios de jefes pueden ser extremadamente difíciles debido a las restricciones de colocación. Jugar con amigos facilita mucho la gestión de la defensa de carriles y el escalado de los jefes.
+</Callout>
+
+</Section>
+
+<Section icon={Shield} title="Composición del Equipo y Gestión de Puntos">
+
+Antes de lanzarte a la ciudad, debes reunir un equipo. A diferencia de los modos estándar, Lucha contra el Crimen limita tu selección mediante un presupuesto de **Puntos de Equipo**. Cada personaje cuesta una cantidad específica de puntos según su rareza. Debes equilibrar tu equipo para incluir tanto generación de recursos (granjas) como atacantes de alto impacto.
+
+| Personaje | Costo de Puntos | Rol | Calificación de Rendimiento |
+| :--- | :--- | :--- | :--- |
+| **Beast** | 50 Puntos | DPS Pesado | ★★★★☆ |
+| **Goku** | 30 Puntos | DPS a Distancia | ★★★☆☆ |
+| **Gogeta** | 30 Puntos | DPS Principal / AoE | ★★★★★ |
+| **Vegeta** | 30 Puntos | DPS de un Solo Objetivo | ★★★★☆ |
+| **Idol** | 15 Puntos | Granja de Dinero | ★★★★★ |
+
+<CardGrid cols={3}>
+  <Card title="El Dúo de Granja">
+    Lleva siempre al menos una unidad de granja como **Idol** para garantizar una generación constante de dinero durante las etapas de defensa.
+  </Card>
+  <Card title="DPS de Alto Valor">
+    Las unidades como **Gogeta** son de primer nivel porque sus habilidades activas (ej. Escudo Castigador) se reinician al colocarlas.
+  </Card>
+  <Card title="Sinergias de Sincronización">
+    Busca unidades que puedan fusionarse o activar impulsos de sincronización a mitad de la batalla para eludir los límites de colocación.
+  </Card>
+</CardGrid>
+
+<Callout type="warning" title="Evita el Gasto Excesivo">
+No llenes tu alineación con personajes de 50 puntos. Si te quedas sin puntos, te verás obligado a llevar rellenos débiles, lo que te dejará sin una defensa adecuada durante las peleas contra los jefes.
+</Callout>
+
+</Section>
+
+<Section icon={Target} title="Progresión de la Ciudad Paso a Paso">
+
+Una vez que apareces en la ciudad, el reloj empieza a correr. Para maximizar tus recompensas, necesitas completar trabajos secundarios y recolectar evidencia antes de enfrentarte a los jefes principales y extraer.
+
+<Steps>
+  <Step num="1" title="Domina los Controles de Balanceo">
+    Usa **Shift** para balancearte desde los edificios, **Espacio** para impulsarte hacia adelante en el aire y **C** para desplazarte directamente al saliente más cercano. La velocidad es clave para superar los cronómetros de entrega de pizza.
+  </Step>
+  <Step num="2" title="Completa Trabajos Secundarios">
+    Localiza los íconos de Entrega de Pizza. Recoge la pizza y sigue los puntos de control antes de que se acabe el tiempo y la pizza se enfríe.
+  </Step>
+  <Step num="3" title="Recopila Evidencia de Crímenes">
+    Busca círculos verdes brillantes en tu mapa. Estos marcan ubicaciones de evidencia, como las bombas de calabaza del Duende Verde o los reactores arc de Iron Man. Recógelos para cumplir con los requisitos del registro de misiones.
+  </Step>
+  <Step num="4" title="Derrota a Simbiontes Menores">
+    Activa etapas menores de lucha contra el crimen en los techos de la ciudad. Estos son encuentros estándar de defensa de torres de 5 oleadas que recompensan con dinero y hacen avanzar tu misión principal.
+  </Step>
+</Steps>
+
+<Callout type="info" title="Seguimiento del Libro de Misiones">
+Presiona el ícono del libro en la esquina inferior derecha de tu pantalla para rastrear tus misiones activas. Concéntrate en las misiones que coincidan con tu área actual para ahorrar tiempo de viaje.
+</Callout>
+
+</Section>
+
+<Section icon={Swords} title="Estrategias de Batalla contra Jefes">
+
+El modo Lucha contra el Crimen presenta tres jefes distintos. Cada etapa de jefe tiene reglas de terreno únicas, algunas de las cuales restringen la colocación de personajes por completo a puntos de tierra o colina.
+
+### Comparación de Encuentros con Jefes
+
+| Jefe | Reserva de Vida | Tipo de Escenario | Peligro Clave |
+| :--- | :--- | :--- | :--- |
+| **Venom** | Moderada | Estándar | Genera múltiples clones de Simbionte |
+| **Green Goblin** | Alta (30M+) | Solo Tierra | No se permiten colocaciones en colinas |
+| **Tangerine** | Alta | Aire/Distancia | Requiere puntería a gran altitud |
+
+<CardGrid cols={2}>
+  <Card title="Estrategia contra Venom">
+    - Coloca a **Gogeta** y **Vegito** cerca de la parte trasera de la pista.
+    - Usa habilidades activas para eliminar a sus clones rápidamente.
+    - Mantén dinero en reserva para vender y reemplazar unidades para reiniciar los tiempos de reutilización.
+  </Card>
+  <Card title="Estrategia contra Green Goblin">
+    - Cuidado con la restricción de **Solo Tierra**; no se pueden colocar unidades voladoras como Goku.
+    - Concéntrate en atacantes físicos terrestres.
+    - Trae a un compañero para dividir la defensa del carril si falta daño en solitario.
+  </Card>
+</CardGrid>
+
+<Callout type="success" title="Abusa del Reinicio de Tiempos de Reutilización">
+Para jefes con enormes reservas de salud como Venom, usa el método de vender y reemplazar. Vender y volver a desplegar a Gogeta te permite reutilizar inmediatamente su habilidad definitiva, saltándote los cronómetros estándar de reutilización.
+</Callout>
+
+</Section>
+
+<Section icon={Trophy} title="Lista de Verificación de Extracción y Recompensas">
+
+Cuando estés listo para asegurar tu botín, dirígete al punto de extracción designado. Debes sobrevivir a una oleada de defensa final y compacta para escapar con éxito con tus objetos.
+
+<Checklist
+  id="crime-fighting-checklist"
+  title="Requisitos para una Partida Exitosa:"
+  items={[
+    "Completa al menos 3 Entregas de Pizza para obtener dinero extra",
+    "Recolecta 5 piezas de Evidencia de Escena del Crimen",
+    "Derrota al jefe Venom para desbloquear materiales de evolución",
+    "Mantén al menos 1 Vida restante antes de comenzar la extracción",
+    "Defiende el portal de extracción hasta que el temporizador llegue a cero"
+  ]}
+/>
+
+<Callout type="info" title="Botín">
+Las extracciones exitosas otorgan trajes de Spider-Man, accesorios exclusivos y objetos de evolución de personajes. Si no logras extraer antes de que expire el temporizador de 45 minutos, perderás una parte de tus recompensas recolectadas.
+</Callout>
+
+</Section>
+
+<Section icon={Sparkles} title="Preguntas Frecuentes">
+
+<FAQ items={[
+  {
+    question: "¿Mantengo mi dinero y rasgos dentro del modo Lucha contra el Crimen?",
+    answer: "Sí. Las mejoras de tus unidades, el dinero ganado durante la sesión y los rasgos de los personajes se mantienen entre las etapas de defensa individuales dentro de esa partida específica."
+  },
+  {
+    question: "¿Por qué no puedo colocar mis unidades a distancia o aéreas durante la pelea contra el Duende Verde?",
+    answer: "El escenario del Duende Verde es un mapa de solo tierra. Las unidades voladoras y ciertos personajes a distancia no pueden colocarse en el terreno, lo que hace esenciales a las unidades cuerpo a cuerpo terrestres."
+  },
+  {
+    question: "¿Cómo encuentro tipos de enemigos específicos como unidades a distancia o aéreas para las misiones?",
+    answer: "Busca escenas del crimen ubicadas en lo alto de los rascacielos. Revisar la descripción de la misión antes de comenzar una etapa también revelará los tipos de enemigos que aparecerán."
+  },
+  {
+    question: "¿Es adecuada la guía de lucha contra el crimen de anime universe tower defense para jugadores en solitario?",
+    answer: "Sí, pero se recomienda encarecidamente jugar con amigos. Ciertas etapas de jefes pueden parecer desequilibradas o con errores cuando se intentan solo debido a las limitaciones de colocación."
+  }
+]} />
+
+</Section>

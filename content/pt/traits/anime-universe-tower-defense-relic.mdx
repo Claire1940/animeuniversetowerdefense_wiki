@@ -1,0 +1,169 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed'
+
+export const metadata = {
+  title: "Relíquia de Anime Universe Tower Defense: Guia de Melhores Atributos e Configuração de Equipamento",
+  description: "Domine o sistema de relíquias de anime universe tower defense. Aprenda builds otimizadas de Shadow Reaper, escalonamento de dano crítico e estratégias da forma Mugetsu para 2026.",
+  category: "Guia",
+  image: "https://placehold.co/800x400/1e293b/fff?text=Relic+Build+Guide",
+  date: "2026-07-11",
+  author: "Equipe da Wiki de universal tower defense"
+}
+
+<Callout type="info" title="Guia Rápido">
+- **Relíquia de Anime universe tower defense**: O sistema central de equipamentos usado para multiplicar o DPS da unidade e desbloquear passivas únicas.
+- **Conjunto Shadow Reaper**: Atualmente o conjunto de relíquias que define o meta para causadores de dano de alto nível como Ichigo.
+- **Prioridade de Dano Crítico**: Foque em atingir mais de 400% de dano crítico através de sub-atributos de relíquias e traits específicos.
+- **Forma Mugetsu**: Uma habilidade ativa poderosa, porém arriscada, que requer timing preciso para evitar a penalidade da forma humana.
+- **Sub-atributos Otimizados**: Tente obter pelo menos 7,5% de Taxa Crítica em cada peça de relíquia para estabilizar a saída de dano.
+</Callout>
+
+<Section icon={Map} title="Entendendo o Sistema de Relíquias de Anime Universe Tower Defense">
+
+O sistema de **relíquias de anime universe tower defense** representa o auge da customização de unidades no meta atual de 2026. Relíquias não são meros impulsionadores de atributos; são itens transformadores que podem elevar uma unidade padrão a uma potência de milhões de DPS. Ao equipar um conjunto completo de equipamentos temáticos, os jogadores desbloqueiam bônus de conjunto que fornecem amplificadores globais, multiplicadores de dano crítico e efeitos de status únicos como Pressão (Pressure). Entender como equilibrar o dano base com o escalonamento crítico é a diferença entre ter dificuldades em Otherworld Disturbances e limpar ondas com facilidade.
+
+**Destaques do Vídeo:**
+- **Build do Ichigo**: Demonstrando o Shiny Ichigo com potencial de mais de 1M de DPS.
+- **Sinergia de Relíquias**: Como o conjunto Shadow Reaper interage com a trait Ruler.
+- **Mecânicas do Mugetsu**: A natureza de alto risco e alta recompensa da habilidade Final Moon Fang.
+- **Otimização de Atributos**: Por que sub-atributos de 7,5% de Taxa Crítica são o padrão ouro para relíquias.
+
+<YouTubeEmbed videoId="0IS-oRjq3x4" title="The *BEST* Ichigo Build Guide IN Universal Tower Defense X 1Mil+ DPS?" />
+
+<Callout type="tip" title="Nota do Editor">
+Ao escolher uma **relíquia de anime universe tower defense**, sempre priorize o bônus de conjunto em vez de atributos individuais altos. Um conjunto Shadow Reaper completo oferece mais utilidade do que uma mistura de relíquias lendárias com atributos desconexos.
+</Callout>
+
+</Section>
+
+<Section icon={Shield} title="Análise do Conjunto de Relíquias Shadow Reaper">
+
+O conjunto Shadow Reaper é amplamente considerado a melhor opção (best-in-slot) para unidades usuárias de espada em Universal Tower Defense. Este conjunto foca em maximizar a mecânica de "Pressão" enquanto fornece um impulso massivo à eficiência do acerto crítico. Cada peça do conjunto — a Camisa, a Calça e o Colar — serve a um propósito específico na fórmula de cálculo de dano.
+
+| Peça da Relíquia | Foco Principal | Atributo Principal Ideal | Sub-atributo Recomendado |
+| :--- | :--- | :--- | :--- |
+| **Shadow Reaper Shirt** | Defesa/Utilidade | **Dano %** | Taxa Crítica (7,5%+) |
+| **Shadow Reaper Pants** | Estabilidade/DPS | **Dano Crítico %** | Taxa Crítica (7,5%+) |
+| **Shadow Reaper Necklace** | Elemental/Escalonamento | **Dano Elemental** | Taxa Crítica (7,5%+) |
+
+<CardGrid cols={2}>
+  <Card title="Mecânica de Pressão">
+    - Inimigos recebem **50% a mais de dano** da unidade.
+    - Amp global: Inimigos recebem **25% a mais de dano** de todas as fontes.
+    - Lentidão de movimento: Inimigos podem recuar ao entrar no alcance.
+  </Card>
+  <Card title="Sinergia de Bônus de Conjunto">
+    - Desbloqueia o buff **Triple Threat** para unidades com a tag Sword.
+    - Melhora a duração do ataque de acompanhamento baseado em abates.
+    - Escala perfeitamente com a trait **Ruler** para DPS máximo.
+  </Card>
+</CardGrid>
+
+<Callout type="warning" title="Limiar Crítico">
+Sem uma Taxa Crítica total de pelo menos 85% em suas peças de **relíquia de anime universe tower defense**, seu dano será inconsistente. Se você errar um crítico em um multiplicador de 400%, perderá quase 75% do seu DPS potencial para aquele golpe.
+</Callout>
+
+</Section>
+
+<Section icon={Sparkles} title="Estratégia de Otimização: Dano Crítico vs. Dano Base">
+
+Na versão atual do Universal Tower Defense, a matemática favorece o escalonamento de Dano Crítico em vez de puro Dano Base. Por exemplo, uma unidade com 238.000 de dano base e 406% de Dano Crítico causa efetivamente 966.280 de dano por golpe. Quando você considera os ataques de acompanhamento e os buffs de Pressão, o DPS em tempo real pode oscilar entre 1,0 milhão e 1,6 milhão.
+
+| Tipo de Atributo | Nível de Impacto | Método de Escalonamento | Alvo do Meta (2026) |
+| :--- | :--- | :--- | :--- |
+| **Dano Crítico** | **Extremo** | Multiplicativo com o dano total | 400% - 500% |
+| **Taxa Crítica** | **Alto** | Determina a consistência do piso de dano | 85% - 100% |
+| **Dano Elemental** | **Moderado** | Específico para o tipo de unidade (ex: Dark/Light) | 20% - 35% |
+| **Dano de Acompanhamento** | **Alto** | Adiciona DPS persistente por 3-10 segundos | 60% por segundo |
+
+<Callout type="info" title="Sinergia de Suporte">
+Combine suas builds de relíquias de alto DPS com unidades de suporte como **Virtual Idol**. Uma Idol bem posicionada pode fornecer um buff de ataque de 89,3%, que atua como o multiplicador base para os cálculos de Dano Crítico da sua relíquia.
+</Callout>
+
+</Section>
+
+<Section icon={Swords} title="Estudo de Caso: Build do Ichigo Mugetsu">
+
+Usar o sistema de **relíquias de anime universe tower defense** em uma unidade de alto nível como Ichigo revela o verdadeiro poder da forma Mugetsu. Esta forma, também conhecida como Final Moon Fang, concede um aumento massivo de 650% no dano, mas vem com uma desvantagem severa: a unidade eventualmente reverte para uma "Forma Humana" e torna-se invendável e inútil por 30 segundos.
+
+<Steps>
+  <Step num="1" title="Seleção de Trait">
+    Role para a trait **Ruler**. Ela fornece o maior aumento de dano bruto necessário para aproveitar ao máximo os multiplicadores das relíquias Shadow Reaper.
+  </Step>
+  <Step num="2" title="Alinhamento de Relíquias">
+    Equipe o conjunto Shadow Reaper completo. Certifique-se de que o Colar tenha **Dano Elemental** que corresponda à afinidade do Ichigo para maximizar o amp global.
+  </Step>
+  <Step num="3" title="Timing da Habilidade">
+    Não use o Mugetsu imediatamente. Espere até que o boss esteja no ponto médio do seu alcance. Isso garante que, quando você entrar na fase de penalidade de 30 segundos, o boss já tenha saído do seu alcance.
+  </Step>
+  <Step num="4" title="Gerenciamento de Upgrade">
+    O Mugetsu redefine os upgrades para o nível zero após o término da duração. Certifique-se de ter reservas de dinheiro suficientes para atualizar instantaneamente a unidade assim que a penalidade da Forma Humana expirar.
+  </Step>
+</Steps>
+
+<Callout type="success" title="Estratégia Pro">
+Os ataques de acompanhamento do Ichigo aumentam em duração para cada inimigo morto. Isso o torna significativamente mais forte contra ondas de lacaios do que contra um boss solitário. Use-o como um "porteiro" para limpar o caminho para seus especialistas em alvo único.
+</Callout>
+
+</Section>
+
+<Section icon={Target} title="Checklist de Farm e Manutenção de Relíquias">
+
+Para manter uma vantagem competitiva no Universal Tower Defense, os jogadores devem seguir um regime rigoroso de farm e aprimoramento de seu inventário de **relíquias de anime universe tower defense**. Sub-atributos com rolagens altas (7,5%+) são raros e exigem farm consistente em Otherworld Disturbances.
+
+<Checklist
+  id="relic-farming-tasks"
+  title="Metas Diárias de Otimização de Relíquias:"
+  items={[
+    "Limpar Otherworld Disturbances 5 vezes para drops de relíquias",
+    "Verificar os rolagens de sub-atributos em todas as peças Shadow Reaper",
+    "Melhorar relíquias principais para o Nível 10 para desbloquear potenciais ocultos",
+    "Verificar se o total de Taxa Crítica está acima de 85% para unidades principais de DPS",
+    "Reciclar relíquias de nível baixo para obter materiais de aprimoramento"
+  ]}
+/>
+
+| Nível de Aprimoramento | Custo de Material | Aumento de Atributo | Taxa de Sucesso |
+| :--- | :--- | :--- | :--- |
+| **Nível 1-3** | Baixo | +5% Base | 100% |
+| **Nível 4-7** | Médio | +15% Base | 75% |
+| **Nível 8-10** | Alto | +30% Base + Bônus de sub-atributo | 40% |
+
+<Callout type="warning" title="Gerenciamento de Recursos">
+Nunca gaste seus materiais raros de aprimoramento em relíquias com sub-atributos inferiores a 5%. É melhor esperar por uma rolagem de 7,5% do que desperdiçar recursos em uma peça medíocre que será substituída depois.
+</Callout>
+
+</Section>
+
+<Section icon={Trophy} title="Perguntas Frequentes">
+
+<FAQ items={[
+  {
+    question: "Qual é a melhor relíquia de anime universe tower defense para o Ichigo?",
+    answer: "O conjunto Shadow Reaper é atualmente a melhor escolha. Ele faz sinergia com sua tag de espada e maximiza seu escalonamento de Pressão e Dano Crítico."
+  },
+  {
+    question: "Como evito a penalidade do Mugetsu?",
+    answer: "Você não pode evitar a penalidade de 30 segundos da Forma Humana, mas pode mitigá-la usando a habilidade apenas quando o boss estiver na metade do seu alcance."
+  },
+  {
+    question: "Por que 7,5% de Taxa Crítica é importante nas relíquias?",
+    answer: "Cada peça de relíquia pode rolar sub-atributos. Obter 7,5% em todas as três peças garante que você atinja o limiar crítico necessário para golpes consistentes de 1M+ de DPS."
+  },
+  {
+    question: "A trait Ruler funciona com todas as relíquias?",
+    answer: "Sim, Ruler fornece um aumento de dano global que serve como base para todos os outros multiplicadores de relíquias, tornando-a a trait mais eficiente para builds de alto nível."
+  }
+]} />
+
+<Callout type="info" title="Veredito Final">
+O sistema de **relíquias de anime universe tower defense** é o fator mais significativo para o sucesso no final do jogo. Ao focar no conjunto Shadow Reaper, priorizar o Dano Crítico e dominar o timing de habilidades ativas como Mugetsu, você pode dominar qualquer modo de jogo em 2026.
+</Callout>
+
+</Section>

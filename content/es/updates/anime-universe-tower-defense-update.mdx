@@ -1,0 +1,197 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed'
+
+export const metadata = {
+  title: "Actualización de Anime Universe Tower Defense: Guía de la Expedición Persona",
+  description: "Domina el nuevo modo de Expedición temático de Persona en Universal Tower Defense Z. Aprende a desbloquear a Joker, evolucionar unidades Phantom y despejar salas cerradas.",
+  category: "Guía",
+  image: "https://placehold.co/800x400/3b82f6/fff?text=Persona+Expedition+Guide",
+  date: "2026-07-11",
+  author: "Equipo de la Wiki de Universal Tower Defense"
+}
+
+<Callout type="info" title="Guía Rápida">
+- **Actualización de Anime Universe Tower Defense**: Introduce un modo de sigilo y emboscada de alto riesgo llamado la Expedición Persona.
+- **Mecánicas de Sigilo**: Escóndete en los puntos de cobertura designados y deslízate entre las sombras para evitar ser detectado y mantener la ventaja.
+- **Joker Boundless**: Desbloquea la unidad Joker Boundless (Trickster) con una probabilidad de obtención del 0.1% al derrotar al jefe False King.
+- **Evoluciones Phantom**: Reúne objetos de Arcana (Magician, Lovers, Chariot) en las salas cerradas para obtener y evolucionar a tus personajes.
+- **Regla Clave de Extracción**: Debes llegar con éxito a la zona de extracción para asegurar tus recompensas ganadas con tanto esfuerzo y conservar tu botín.
+</Callout>
+
+<Section icon={Map} title="Actualización de Anime Universe Tower Defense: Resumen del Modo Expedición">
+
+La última **actualización de anime universe tower defense** trae consigo una enorme renovación de la jugabilidad con la introducción del modo Expedición temático de Persona (también conocido como Punto de Extracción). Este modo especializado se aleja de la defensa de carriles tradicional, combinando exploración sigilosa, puzles de salas cerradas y batallas tácticas de emboscada por turnos. Los jugadores deben navegar por un laberinto complejo, reunir llaves, derrotar a guardias de élite y vencer al jefe final antes de extraer con su botín.
+
+**Puntos Destacados del Video:**
+- **Mecánicas de Sigilo**: Aprende a deslizarte con éxito entre los puntos de cobertura para emboscar a los guardias de las sombras que patrullan.
+- **Botín de Salas Cerradas**: Descubre cómo gastar puntos de objetivo para desbloquear cofres de Arcana que contienen unidades exclusivas.
+- **Estrategia contra el Jefe**: Mira una guía completa de la batalla contra el jefe False King y cómo asegurar la obtención de Joker Boundless.
+- **Exhibición de Evolución**: Sigue el proceso paso a paso para evolucionar a Skull, Ann y Morgana a sus formas Phantom finales.
+
+<YouTubeEmbed videoId="Scrqko9MBuA" title="Getting The 0.1% BOUNDLESS JOKER In Universal Tower Defense Z!" />
+
+### Sistema de Puntos de Equipamiento de la Expedición
+
+A diferencia de los modos estándar, el modo Expedición limita tu equipamiento mediante un estricto sistema de presupuesto de puntos. Las unidades de mayor nivel consumen significativamente más puntos, lo que obliga a los jugadores a planificar estrategias y equilibrar sus equipos con cuidado.
+
+| Rareza de Unidad | Coste en Puntos | Estrategia de Equipamiento |
+|-|-|-|
+| **Boundless y Superior** | 50 Puntos | Lleva solo una unidad principal de daño para asegurar la defensa de tu equipo |
+| **Secret** | 30 Puntos | Alternativa poderosa si no tienes unidades Boundless |
+| **Mythic** | 15 Puntos | Excelente para utilidad, farmeo o daño secundario (DPS) |
+| **Legendary** | 5 Puntos | Perfecto para potenciadores económicos o defensa al inicio de la partida |
+| **Epic** | 3 Puntos | Se usa para llenar los huecos restantes si los puntos están ajustados |
+
+<Callout type="warning" title="Restricción de Equipamiento">
+Tienes un presupuesto máximo de **100 puntos** para construir todo tu equipamiento. Se recomienda encarecidamente llevar unidades híbridas, ya que ciertas salas presentan enemigos aéreos sin puntos dedicados para colocar unidades aéreas.
+</Callout>
+
+</Section>
+
+<Section icon={Shield} title="Dominando el Sigilo, las Emboscadas y las Salas Cerradas">
+
+Navegar por el Golden Palace requiere paciencia y movimientos cuidadosos. Las sombras que patrullan cubren los pasillos; ser detectado llena su medidor de alerta y te arrastra a un combate desventajoso.
+
+### Reglas de Sigilo y Combate
+
+- **Puntos de Cobertura**: Los indicadores azules muestran los lugares de escondite designados. Entrar en cobertura te hace completamente invisible para las patrullas.
+- **Deslizamiento (Dash)**: Usa la mecánica de deslizamiento para cruzar pasillos abiertos entre puntos de cobertura sin dar la alarma.
+- **Ataques Preventivos**: Acercarse sigilosamente por detrás de una sombra desprevenida e iniciar el combate te otorga el primer turno y una ventaja táctica inmediata.
+- **Salas Cerradas**: Derrotar a los guardias te otorga llaves. Usa estas llaves para desbloquear puertas selladas que contienen cofres de Arcana de alto nivel.
+
+| Tipo de Sala | Llave Requerida | Recompensas Potenciales |
+|-|-|-|
+| **Emboscada Estándar** | No | Oro, EXP básica y puntos de progresión |
+| **Sala Cerrada** | Sí | Cofres de Arcana (Magician, Lovers, Chariot) |
+| **Sala de Guardia de Élite** | Sí | Materiales de evolución de alto nivel y obtención de unidades |
+| **Arena del Jefe** | 10 Puntos de Progresión | Joker Boundless (0.1% base / 15% de obtención garantizada por piedad) |
+
+<Callout type="tip" title="Puntos de Progresión">
+No puedes entrar en la sala del jefe de inmediato. Debes derrotar a enemigos estándar y de élite para acumular **10 de 10 puntos de progresión** antes de que se abran las puertas de la arena del jefe.
+</Callout>
+
+</Section>
+
+<Section icon={Target} title="Cómo Desbloquear y Evolucionar a todas las Unidades Phantom">
+
+El objetivo principal de esta **actualización de anime universe tower defense** es recolectar, evolucionar y dominar las nuevas unidades de temática Phantom. Cada unidad corresponde a una carta de Arcana específica que debes recoger de los cofres cerrados.
+
+<CardGrid cols={3}>
+  <Card title="Skull (Chariot)">
+    - **Unidad Base**: Obtenida a través de Chariot Arcana
+    - **Objeto de Evolución**: Carta de Evolución de Chariot
+    - **Rol**: Daño físico (DPS) con alta escala de tasa crítica
+  </Card>
+  <Card title="Ann (Lovers)">
+    - **Unidad Base**: Obtenida a través de Lovers Arcana
+    - **Objeto de Evolución**: Carta de Evolución de Lovers
+    - **Rol**: Aplicadora de quemaduras y especialista en control de masas
+  </Card>
+  <Card title="Morgana (Magician)">
+    - **Unidad Base**: Obtenida a través de Magician Arcana
+    - **Objeto de Evolución**: Carta de Evolución de Magician
+    - **Rol**: Daño de corte de viento (DPS) y atacante de apoyo de seguimiento
+  </Card>
+</CardGrid>
+
+### Guía Paso a Paso de Evolución y Prueba
+
+Para desbloquear completamente el potencial de tus unidades Phantom y prepararlas para las mejoras de equipo de Joker, sigue esta ruta de progresión:
+
+<Steps>
+  <Step num="1" title="Reunir Unidades Base">
+    Juega la Expedición del Golden Palace y prioriza encontrar salas cerradas. Abre cofres para obtener a Skull, Ann y Morgana.
+  </Step>
+  <Step num="2" title="Farmear Cartas de Evolución">
+    Vuelve a entrar en la Expedición y concéntrate en los enemigos de Élite. Reúne las cartas de evolución correspondientes de Chariot, Lovers y Magician.
+  </Step>
+  <Step num="3" title="Completar la Misión de Evolución">
+    Evoluciona las tres unidades en tu inventario. Esto desbloqueará la misión de prueba especial de administrador requerida para la tarjeta de llave definitiva.
+  </Step>
+  <Step num="4" title="Asegurar la Tarjeta de Llave Especial">
+    Equipa a las tres unidades Phantom evolucionadas en tu escuadrón activo, completa la partida de prueba y reclama tu Tarjeta de Llave de Sala Especial.
+  </Step>
+</Steps>
+
+<Callout type="success" title="Eterización y Estadísticas">
+Antes de comprometerte con las evoluciones de alto nivel, transfiere tus mejores estadísticas de daño y rango a tus unidades base. Usa la sala de minería para reunir chips de estadísticas para transferencias óptimas de rango S.
+</Callout>
+
+</Section>
+
+<Section icon={Sparkles} title="Exhibición de la Unidad Boundless: Joker (Trickster)">
+
+Joker es el premio definitivo de la **actualización de anime universe tower defense**. Clasificado como una unidad Boundless, Joker actúa como el pilar central del equipo Phantom, transformando a sus aliados en atacantes de seguimiento de alta velocidad.
+
+### Habilidades Pasivas y Mejoras de Joker
+
+| Nombre de Habilidad | Descripción del Efecto | Beneficio Táctico |
+|-|-|-|
+| **Leader of the Team** | Otorga +50% de daño a todas las unidades Phantom en rango | Escalado masivo para Skull, Ann y Morgana |
+| **Allied Follow-up** | Los aliados atacan cuando Joker ataca (15s de Enfriamiento) | Duplica tu producción de daño activo (DPS) durante las fases de jefe |
+| **Wild Card Summon** | Invoca a un compañero phantom con 3 variantes de ataque | Potenciaciones permanentes y aplicación de miedo a los enemigos |
+| **Only Hope of Humanity** | Acumula Cargas de Esperanza entre partidas (+10 por cada jefe derrotado) | Otorga rango permanente, daño a jefes y escalado de potenciadores |
+
+<Callout type="info" title="La Aflicción de Miedo">
+Los enemigos afectados por el estado de **Miedo** de Joker caminarán hacia atrás y comenzarán a atacar a otros enemigos en el camino, proporcionando un control de masas inigualable.
+</Callout>
+
+### Ataques de los Compañeros Phantom
+
+Una vez mejorados por completo, cada unidad Phantom invoca a su compañero único para dominar el campo de batalla:
+
+| Compañero | Ataque 1 | Ataque 2 | Amplificación Permanente |
+|-|-|-|-|
+| **Arsene (Joker)** | Eiha (Miedo y Aturdimiento) | Bufou (Congelación) | Aumento de daño permanente del 50% para Trickster |
+| **Captain Kidd (Skull)** | Matarukaja (Potenciador de Equipo) | God's Hand (Daño en Área) | +30% de daño y +20% de bonificación de rango |
+| **Carmen (Ann)** | Agi (Quemadura) | Dormina (Aturdimiento) | Incrementa el daño de quemadura en un 25% en objetivos afectados |
+| **Zorro (Morgana)** | Garu (Corte de Viento) | Lucky Punch (Triple Crítico) | Incrementa el daño de corte de viento al 80% durante 7 ticks |
+
+</Section>
+
+<Section icon={Trophy} title="Lista de Objetivos de la Expedición">
+
+Usa esta lista de verificación para seguir tu progreso a través del nuevo contenido de la actualización de la Expedición.
+
+<Checklist
+  id="persona-update-goals"
+  title="Hitos de la Expedición:"
+  items={[
+    "Supera el Golden Palace y realiza la extracción con éxito por primera vez",
+    "Obtén a Skull, Ann y Morgana de los cofres de Arcana",
+    "Evoluciona a las tres unidades Phantom básicas usando las cartas de evolución correspondientes",
+    "Derrota al False King y obtén la unidad Joker Boundless",
+    "Desbloquea la habilidad activa Emboscada de Joker al nivel máximo de mejora"
+  ]}
+/>
+
+</Section>
+
+<Section icon={Swords} title="Preguntas Frecuentes">
+
+<FAQ items={[
+  {
+    question: "¿Cómo obtengo la unidad Joker Boundless?",
+    answer: "Joker es una recompensa rara del jefe False King en el modo Expedición. Tiene una tasa de obtención base del 0.1% y una obtención garantizada por piedad después de 8 enfrentamientos exitosos contra el jefe."
+  },
+  {
+    question: "¿Por qué perdí todo mi botín después de completar una partida?",
+    answer: "Debes usar el Punto de Extracción designado para salir de la partida. Abandonar el juego antes de tiempo o no lograr extraer antes de que se agote el tiempo anulará todas las recompensas obtenidas durante esa partida."
+  },
+  {
+    question: "¿Cómo funciona la habilidad activa Emboscada?",
+    answer: "Desbloqueada en la mejora máxima, Emboscada congela el mapa y permite que Joker y sus aliados Phantom activos tomen turnos para ejecutar habilidades de alto daño, culminando en un ataque en equipo del 1,000% de daño."
+  },
+  {
+    question: "¿Cuál es la mejor configuración de estadísticas para Joker?",
+    answer: "Prioriza las estadísticas de Daño y Rango. Las pasivas de Joker escalan fuertemente con su daño base, y su potenciador Leader of the Team requiere que los aliados estén posicionados dentro de su rango de ataque."
+  }
+]} />
+
+</Section>

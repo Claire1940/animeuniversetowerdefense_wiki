@@ -10,7 +10,15 @@
       "twitterDescription": "Universal Tower Defense Z Wiki with active codes, unit tier lists, traits, evolutions, builds, raids, and update guides for Roblox players."
     }
   },
-  "nav": {},
+  "nav": {
+    "codes": "Codes",
+    "tierList": "Tier List",
+    "units": "Units",
+    "builds": "Builds",
+    "traits": "Traits",
+    "guide": "Guide",
+    "updates": "Updates"
+  },
   "common": {
     "home": "Home",
     "more": "More",
@@ -116,23 +124,44 @@
       "activeCodes": [
         {
           "code": "UTDZApologyForBugs!",
-          "rewards": ["1,500 Trait Rerolls", "1 Boundless Orb"]
+          "rewards": [
+            "1,500 Trait Rerolls",
+            "1 Boundless Orb"
+          ]
         },
         {
           "code": "WeLoveUTDZ!",
-          "rewards": ["Fern unit", "Fern evolution materials", "12 Mythic Etherealization Shards", "Kenpachi Evo unit"]
+          "rewards": [
+            "Fern unit",
+            "Fern evolution materials",
+            "12 Mythic Etherealization Shards",
+            "Kenpachi Evo unit"
+          ]
         },
         {
           "code": "UTDPhase3!",
-          "rewards": ["Grimmjow unit", "Evolution materials", "150 Trait Rerolls", "100,000 Universal Gems Part 1"]
+          "rewards": [
+            "Grimmjow unit",
+            "Evolution materials",
+            "150 Trait Rerolls",
+            "100,000 Universal Gems Part 1"
+          ]
         },
         {
           "code": "WeLoveBerserker!",
-          "rewards": ["Berserker unit", "Berserker evolution materials", "50 Trait Rerolls"]
+          "rewards": [
+            "Berserker unit",
+            "Berserker evolution materials",
+            "50 Trait Rerolls"
+          ]
         },
         {
           "code": "subto_s3resutiaru!",
-          "rewards": ["60 Trait Rerolls", "5,000 Gems", "50,000 Universal Gems Part 2"]
+          "rewards": [
+            "60 Trait Rerolls",
+            "5,000 Gems",
+            "50,000 Universal Gems Part 2"
+          ]
         }
       ],
       "expiredCodes": [
@@ -196,53 +225,198 @@
           "tier": "S+",
           "label": "Update 4 Top DPS",
           "units": [
-            { "name": "Zombie Apostle (Ascension)", "role": "DPS", "element": "Water", "bestFor": "Update 4 damage teams" },
-            { "name": "Visionary (Unrivaled)", "role": "DPS", "element": "Rose", "bestFor": "High-investment endgame teams" },
-            { "name": "Trickster (Phantom)", "role": "DPS", "element": "Dark", "bestFor": "Dark-element damage coverage" },
-            { "name": "The Terror (Ascension)", "role": "DPS", "element": "Dark", "bestFor": "Late-game damage" },
-            { "name": "The Fatality (Ascension)", "role": "DPS", "element": "Rose", "bestFor": "Endgame wave clearing" },
-            { "name": "The Almighty", "role": "DPS", "element": "Water", "bestFor": "High-level content" },
-            { "name": "Symbiotic Alien (Apex)", "role": "DPS", "element": "Dark", "bestFor": "Update 4 carry teams" },
-            { "name": "Moonless Sky", "role": "DPS", "element": "Dark", "bestFor": "Dark-element teams" },
-            { "name": "Light Prince (Ascension)", "role": "DPS", "element": "Light", "bestFor": "Light-element coverage" },
-            { "name": "Iron Billionaire (Genius)", "role": "DPS", "element": "Light", "bestFor": "Update 4 progression" },
-            { "name": "Ice Queen (White Haze)", "role": "DPS", "element": "Ice", "bestFor": "Ice-element damage teams" },
-            { "name": "Human Spider (Responsible)", "role": "DPS", "element": "Rose", "bestFor": "Spider-Man event teams" }
+            {
+              "name": "Zombie Apostle (Ascension)",
+              "role": "DPS",
+              "element": "Water",
+              "bestFor": "Update 4 damage teams"
+            },
+            {
+              "name": "Visionary (Unrivaled)",
+              "role": "DPS",
+              "element": "Rose",
+              "bestFor": "High-investment endgame teams"
+            },
+            {
+              "name": "Trickster (Phantom)",
+              "role": "DPS",
+              "element": "Dark",
+              "bestFor": "Dark-element damage coverage"
+            },
+            {
+              "name": "The Terror (Ascension)",
+              "role": "DPS",
+              "element": "Dark",
+              "bestFor": "Late-game damage"
+            },
+            {
+              "name": "The Fatality (Ascension)",
+              "role": "DPS",
+              "element": "Rose",
+              "bestFor": "Endgame wave clearing"
+            },
+            {
+              "name": "The Almighty",
+              "role": "DPS",
+              "element": "Water",
+              "bestFor": "High-level content"
+            },
+            {
+              "name": "Symbiotic Alien (Apex)",
+              "role": "DPS",
+              "element": "Dark",
+              "bestFor": "Update 4 carry teams"
+            },
+            {
+              "name": "Moonless Sky",
+              "role": "DPS",
+              "element": "Dark",
+              "bestFor": "Dark-element teams"
+            },
+            {
+              "name": "Light Prince (Ascension)",
+              "role": "DPS",
+              "element": "Light",
+              "bestFor": "Light-element coverage"
+            },
+            {
+              "name": "Iron Billionaire (Genius)",
+              "role": "DPS",
+              "element": "Light",
+              "bestFor": "Update 4 progression"
+            },
+            {
+              "name": "Ice Queen (White Haze)",
+              "role": "DPS",
+              "element": "Ice",
+              "bestFor": "Ice-element damage teams"
+            },
+            {
+              "name": "Human Spider (Responsible)",
+              "role": "DPS",
+              "element": "Rose",
+              "bestFor": "Spider-Man event teams"
+            }
           ]
         },
         {
           "tier": "S",
           "label": "Proven Meta Carries",
           "units": [
-            { "name": "Joyful Captain", "role": "Main DPS", "element": "Mixed utility", "bestFor": "Infinite, bosses, and late-game progression" },
-            { "name": "Jinoo (Shadow Monarch)", "role": "Scaling DPS", "element": "Dark", "bestFor": "Infinite and long stages" },
-            { "name": "The Strongest of Today", "role": "DPS and utility", "element": "Light", "bestFor": "Raids, bosses, and difficult waves" },
-            { "name": "The Strongest in History", "role": "Boss DPS", "element": "Damage carry", "bestFor": "Boss fights and endgame stages" },
-            { "name": "King Sailor (Unrivaled)", "role": "DPS and team support", "element": "Water", "bestFor": "Infinite and general endgame teams" },
-            { "name": "Ancient Mage (Sage)", "role": "DPS and support", "element": "Utility", "bestFor": "Story, Raids, and flexible teams" }
+            {
+              "name": "Joyful Captain",
+              "role": "Main DPS",
+              "element": "Mixed utility",
+              "bestFor": "Infinite, bosses, and late-game progression"
+            },
+            {
+              "name": "Jinoo (Shadow Monarch)",
+              "role": "Scaling DPS",
+              "element": "Dark",
+              "bestFor": "Infinite and long stages"
+            },
+            {
+              "name": "The Strongest of Today",
+              "role": "DPS and utility",
+              "element": "Light",
+              "bestFor": "Raids, bosses, and difficult waves"
+            },
+            {
+              "name": "The Strongest in History",
+              "role": "Boss DPS",
+              "element": "Damage carry",
+              "bestFor": "Boss fights and endgame stages"
+            },
+            {
+              "name": "King Sailor (Unrivaled)",
+              "role": "DPS and team support",
+              "element": "Water",
+              "bestFor": "Infinite and general endgame teams"
+            },
+            {
+              "name": "Ancient Mage (Sage)",
+              "role": "DPS and support",
+              "element": "Utility",
+              "bestFor": "Story, Raids, and flexible teams"
+            }
           ]
         },
         {
           "tier": "A",
           "label": "Strong Alternatives",
           "units": [
-            { "name": "Gluttonous Warlord (Despair)", "role": "Ground DPS", "element": "Damage", "bestFor": "Boss damage and late-game stages" },
-            { "name": "Triple Threat (Unrivaled)", "role": "DPS and leader support", "element": "Wind", "bestFor": "Bosses and themed teams" },
-            { "name": "Marine Hero (Grand Fist)", "role": "Ground DPS", "element": "Damage", "bestFor": "Story, Infinite, and Raids" },
-            { "name": "Alpha Devil (Omega)", "role": "DPS and stun", "element": "Control", "bestFor": "Boss control and event teams" },
-            { "name": "Phantom Captain (Carrier)", "role": "Summon DPS", "element": "Area damage", "bestFor": "Wave clearing and sustained damage" },
-            { "name": "Mimicry Sorcerer (Cursed Love)", "role": "Synchro DPS", "element": "Damage", "bestFor": "Synchro teams and late-game stages" }
+            {
+              "name": "Gluttonous Warlord (Despair)",
+              "role": "Ground DPS",
+              "element": "Damage",
+              "bestFor": "Boss damage and late-game stages"
+            },
+            {
+              "name": "Triple Threat (Unrivaled)",
+              "role": "DPS and leader support",
+              "element": "Wind",
+              "bestFor": "Bosses and themed teams"
+            },
+            {
+              "name": "Marine Hero (Grand Fist)",
+              "role": "Ground DPS",
+              "element": "Damage",
+              "bestFor": "Story, Infinite, and Raids"
+            },
+            {
+              "name": "Alpha Devil (Omega)",
+              "role": "DPS and stun",
+              "element": "Control",
+              "bestFor": "Boss control and event teams"
+            },
+            {
+              "name": "Phantom Captain (Carrier)",
+              "role": "Summon DPS",
+              "element": "Area damage",
+              "bestFor": "Wave clearing and sustained damage"
+            },
+            {
+              "name": "Mimicry Sorcerer (Cursed Love)",
+              "role": "Synchro DPS",
+              "element": "Damage",
+              "bestFor": "Synchro teams and late-game stages"
+            }
           ]
         },
         {
           "tier": "Support",
           "label": "Core Buffers and Utility",
           "units": [
-            { "name": "Love Goddess", "role": "Buff support", "element": "Rose", "bestFor": "Single-carry and endgame teams" },
-            { "name": "Prodigy Mage (Apprentice)", "role": "Buff and stall support", "element": "Rose", "bestFor": "Infinite and support-heavy teams" },
-            { "name": "Karbonoto (Sage)", "role": "Support", "element": "Rose", "bestFor": "Damage amplification and team utility" },
-            { "name": "Sasku (Great War)", "role": "Damage and utility", "element": "Dark", "bestFor": "Story progression and support slots" },
-            { "name": "Virtual Idol (Superstar)", "role": "Buff support", "element": "Utility", "bestFor": "Range and damage-focused teams" }
+            {
+              "name": "Love Goddess",
+              "role": "Buff support",
+              "element": "Rose",
+              "bestFor": "Single-carry and endgame teams"
+            },
+            {
+              "name": "Prodigy Mage (Apprentice)",
+              "role": "Buff and stall support",
+              "element": "Rose",
+              "bestFor": "Infinite and support-heavy teams"
+            },
+            {
+              "name": "Karbonoto (Sage)",
+              "role": "Support",
+              "element": "Rose",
+              "bestFor": "Damage amplification and team utility"
+            },
+            {
+              "name": "Sasku (Great War)",
+              "role": "Damage and utility",
+              "element": "Dark",
+              "bestFor": "Story progression and support slots"
+            },
+            {
+              "name": "Virtual Idol (Superstar)",
+              "role": "Buff support",
+              "element": "Utility",
+              "bestFor": "Range and damage-focused teams"
+            }
           ]
         }
       ]
@@ -255,25 +429,45 @@
         {
           "name": "Best All-Round Carries",
           "purpose": "Reliable damage across several modes",
-          "units": ["Joyful Captain", "King Sailor (Unrivaled)", "Ancient Mage (Sage)"],
+          "units": [
+            "Joyful Captain",
+            "King Sailor (Unrivaled)",
+            "Ancient Mage (Sage)"
+          ],
           "usage": "Choose one as the main unit receiving your earliest and most expensive upgrades."
         },
         {
           "name": "Best Scaling and Boss Damage",
           "purpose": "Long stages, Infinite waves, Raids, and bosses",
-          "units": ["Jinoo (Shadow Monarch)", "The Strongest in History", "The Strongest of Today", "Triple Threat (Unrivaled)"],
+          "units": [
+            "Jinoo (Shadow Monarch)",
+            "The Strongest in History",
+            "The Strongest of Today",
+            "Triple Threat (Unrivaled)"
+          ],
           "usage": "Pair a scaling carry with a dedicated boss unit instead of relying on one character for every enemy."
         },
         {
           "name": "Best Update 4 Damage Units",
           "purpose": "Current Update 4 progression and elemental coverage",
-          "units": ["Symbiotic Alien (Apex)", "Human Spider (Responsible)", "Visionary (Unrivaled)", "Zombie Apostle (Ascension)", "The Almighty"],
+          "units": [
+            "Symbiotic Alien (Apex)",
+            "Human Spider (Responsible)",
+            "Visionary (Unrivaled)",
+            "Zombie Apostle (Ascension)",
+            "The Almighty"
+          ],
           "usage": "Select units with different elements to avoid building a team that performs well against only one enemy type."
         },
         {
           "name": "Best Support and Economy Units",
           "purpose": "Buffing carries and funding expensive upgrades",
-          "units": ["Love Goddess", "Virtual Idol (Superstar)", "Prodigy Mage (Apprentice)", "Fastcart"],
+          "units": [
+            "Love Goddess",
+            "Virtual Idol (Superstar)",
+            "Prodigy Mage (Apprentice)",
+            "Fastcart"
+          ],
           "usage": "Place buff units where their area covers the main damage dealers and deploy economy early on longer stages."
         }
       ],
@@ -282,12 +476,30 @@
           "name": "Beginner Story Team",
           "purpose": "Early Story progression with accessible units",
           "slots": [
-            { "role": "Economy", "unit": "Fastcart" },
-            { "role": "Main DPS", "unit": "Berserker (Enraged)" },
-            { "role": "Secondary DPS", "unit": "Jane Juliet (Larper)" },
-            { "role": "Area Damage", "unit": "Admiral (Magma)" },
-            { "role": "Utility", "unit": "Sasku (Great War)" },
-            { "role": "Flexible Damage", "unit": "Rule (ROOM)" }
+            {
+              "role": "Economy",
+              "unit": "Fastcart"
+            },
+            {
+              "role": "Main DPS",
+              "unit": "Berserker (Enraged)"
+            },
+            {
+              "role": "Secondary DPS",
+              "unit": "Jane Juliet (Larper)"
+            },
+            {
+              "role": "Area Damage",
+              "unit": "Admiral (Magma)"
+            },
+            {
+              "role": "Utility",
+              "unit": "Sasku (Great War)"
+            },
+            {
+              "role": "Flexible Damage",
+              "unit": "Rule (ROOM)"
+            }
           ],
           "playstyle": "Deploy an affordable damage unit first, establish Fastcart when the stage allows it, and concentrate upgrades on Berserker or your strongest replacement carry."
         },
@@ -295,12 +507,30 @@
           "name": "Infinite Scaling Team",
           "purpose": "Long runs and high-health late waves",
           "slots": [
-            { "role": "Economy", "unit": "Fastcart" },
-            { "role": "Primary Carry", "unit": "Jinoo (Shadow Monarch)" },
-            { "role": "Secondary Carry", "unit": "Joyful Captain" },
-            { "role": "Damage and Team Value", "unit": "King Sailor (Unrivaled)" },
-            { "role": "Buff Support", "unit": "Virtual Idol (Superstar)" },
-            { "role": "Premium Support", "unit": "Love Goddess" }
+            {
+              "role": "Economy",
+              "unit": "Fastcart"
+            },
+            {
+              "role": "Primary Carry",
+              "unit": "Jinoo (Shadow Monarch)"
+            },
+            {
+              "role": "Secondary Carry",
+              "unit": "Joyful Captain"
+            },
+            {
+              "role": "Damage and Team Value",
+              "unit": "King Sailor (Unrivaled)"
+            },
+            {
+              "role": "Buff Support",
+              "unit": "Virtual Idol (Superstar)"
+            },
+            {
+              "role": "Premium Support",
+              "unit": "Love Goddess"
+            }
           ],
           "playstyle": "Build economy early, position both support units around the main damage cluster, and prioritize the carries that continue scaling into later waves."
         },
@@ -308,12 +538,30 @@
           "name": "Raid and Boss Team",
           "purpose": "Concentrated damage against durable targets",
           "slots": [
-            { "role": "Economy", "unit": "Fastcart" },
-            { "role": "Boss Killer", "unit": "The Strongest in History" },
-            { "role": "Main DPS", "unit": "The Strongest of Today" },
-            { "role": "Secondary Boss DPS", "unit": "Triple Threat (Unrivaled)" },
-            { "role": "Buff and Stall", "unit": "Prodigy Mage (Apprentice)" },
-            { "role": "Team Buff", "unit": "Love Goddess" }
+            {
+              "role": "Economy",
+              "unit": "Fastcart"
+            },
+            {
+              "role": "Boss Killer",
+              "unit": "The Strongest in History"
+            },
+            {
+              "role": "Main DPS",
+              "unit": "The Strongest of Today"
+            },
+            {
+              "role": "Secondary Boss DPS",
+              "unit": "Triple Threat (Unrivaled)"
+            },
+            {
+              "role": "Buff and Stall",
+              "unit": "Prodigy Mage (Apprentice)"
+            },
+            {
+              "role": "Team Buff",
+              "unit": "Love Goddess"
+            }
           ],
           "playstyle": "Place the boss killers where they receive the longest attack window and keep both support units within range of the primary damage cluster."
         },
@@ -321,12 +569,30 @@
           "name": "Update 4 Flex Team",
           "purpose": "New Update 4 stages, events, and general farming",
           "slots": [
-            { "role": "Economy", "unit": "Fastcart" },
-            { "role": "Dark DPS", "unit": "Symbiotic Alien (Apex)" },
-            { "role": "Rose DPS", "unit": "Human Spider (Responsible)" },
-            { "role": "Additional Carry", "unit": "Visionary (Unrivaled)" },
-            { "role": "Buff Support", "unit": "Virtual Idol (Superstar)" },
-            { "role": "Team Support", "unit": "Love Goddess" }
+            {
+              "role": "Economy",
+              "unit": "Fastcart"
+            },
+            {
+              "role": "Dark DPS",
+              "unit": "Symbiotic Alien (Apex)"
+            },
+            {
+              "role": "Rose DPS",
+              "unit": "Human Spider (Responsible)"
+            },
+            {
+              "role": "Additional Carry",
+              "unit": "Visionary (Unrivaled)"
+            },
+            {
+              "role": "Buff Support",
+              "unit": "Virtual Idol (Superstar)"
+            },
+            {
+              "role": "Team Support",
+              "unit": "Love Goddess"
+            }
           ],
           "playstyle": "Use the three damage slots for elemental coverage while the two support units strengthen the entire carry group."
         }
@@ -340,7 +606,13 @@
         {
           "name": "Ruler",
           "rollChance": "0.1%",
-          "effects": ["+200% Damage", "-20% Cooldown", "+30% Range", "+20% Income", "Limits the unit to 1 placement"],
+          "effects": [
+            "+200% Damage",
+            "-20% Cooldown",
+            "+30% Range",
+            "+20% Income",
+            "Limits the unit to 1 placement"
+          ],
           "bestFor": "Top carries, boss killers, and powerful single-placement units",
           "drawback": "The unit can only be placed once.",
           "rerollPriority": "Highest priority when the unit performs well with one placement."
@@ -348,7 +620,12 @@
         {
           "name": "Eternal",
           "rollChance": "0.2%",
-          "effects": ["-20% Cooldown", "+5% Damage per wave", "+2.5% Range per wave", "Caps at +60% Damage and +30% Range"],
+          "effects": [
+            "-20% Cooldown",
+            "+5% Damage per wave",
+            "+2.5% Range per wave",
+            "Caps at +60% Damage and +30% Range"
+          ],
           "bestFor": "Infinite Mode, long raids, and scaling DPS units",
           "drawback": "It needs several waves to reach full strength.",
           "rerollPriority": "Keep on late-game scaling units."
@@ -356,7 +633,12 @@
         {
           "name": "Fission",
           "rollChance": "0.15%",
-          "effects": ["+15% Damage", "-15% Cooldown", "+25% Range", "Adds Radiation damage over time"],
+          "effects": [
+            "+15% Damage",
+            "-15% Cooldown",
+            "+25% Range",
+            "Adds Radiation damage over time"
+          ],
           "bestFor": "General DPS and units needing balanced damage, speed, and range",
           "drawback": "Radiation is less useful against enemies that resist the effect.",
           "rerollPriority": "A strong endgame keep for most damage units."
@@ -364,7 +646,13 @@
         {
           "name": "Astral",
           "rollChance": "0.45%",
-          "effects": ["+20% Affliction Duration", "-20% Cooldown", "+15% Range", "Allows damage-over-time effects to stack", "Limits the unit to 1 placement"],
+          "effects": [
+            "+20% Affliction Duration",
+            "-20% Cooldown",
+            "+15% Range",
+            "Allows damage-over-time effects to stack",
+            "Limits the unit to 1 placement"
+          ],
           "bestFor": "Burn, bleed, poison, magic, and other affliction-focused units",
           "drawback": "Normal direct-damage units receive less value.",
           "rerollPriority": "Reserve for a proven damage-over-time carry."
@@ -372,7 +660,12 @@
         {
           "name": "Sacred",
           "rollChance": "0.3%",
-          "effects": ["+25% Damage", "-10% Cooldown", "+25% Range", "-15% placement and upgrade cost"],
+          "effects": [
+            "+25% Damage",
+            "-10% Cooldown",
+            "+25% Range",
+            "-15% placement and upgrade cost"
+          ],
           "bestFor": "Flexible DPS units, expensive carries, and early deployment",
           "drawback": "It has no specialized boss or scaling effect.",
           "rerollPriority": "A safe all-purpose trait for almost any combat unit."
@@ -380,7 +673,11 @@
         {
           "name": "Duelist",
           "rollChance": "0.8%",
-          "effects": ["+25% Critical Rate", "+20% Range", "+35% Boss Damage"],
+          "effects": [
+            "+25% Critical Rate",
+            "+20% Range",
+            "+35% Boss Damage"
+          ],
           "bestFor": "Raid bosses, elite enemies, and critical-hit builds",
           "drawback": "The boss bonus contributes less during normal waves.",
           "rerollPriority": "Keep on dedicated boss killers."
@@ -388,7 +685,9 @@
         {
           "name": "Fortunate",
           "rollChance": "1%",
-          "effects": ["+20% Income"],
+          "effects": [
+            "+20% Income"
+          ],
           "bestFor": "Farm and economy units such as Fastcart",
           "drawback": "It only benefits units that generate money.",
           "rerollPriority": "Keep on farm units and reroll on normal combat units."
@@ -396,7 +695,12 @@
         {
           "name": "Double Traits and Stat Rerolls",
           "rollChance": "Separate systems",
-          "effects": ["A unit can hold two different traits", "The same trait cannot occupy both slots", "Stat Locks preserve selected stat grades", "Auto-skip protects selected combinations"],
+          "effects": [
+            "A unit can hold two different traits",
+            "The same trait cannot occupy both slots",
+            "Stat Locks preserve selected stat grades",
+            "Auto-skip protects selected combinations"
+          ],
           "bestFor": "Secret, Universal, Unrivaled, Boundless, and limited units",
           "drawback": "Rolling without skip filters or Stat Locks can remove valuable results.",
           "rerollPriority": "Finish the main trait first, lock strong stat grades, then reroll the remaining weak stats."
@@ -412,7 +716,11 @@
           "baseUnit": "Jinoo",
           "evolvedForm": "Jinoo (Monarch)",
           "takedowns": "7,500",
-          "materials": ["Universal Fragment x2", "Shadow Token x1", "Demon King's Dagger x2"],
+          "materials": [
+            "Universal Fragment x2",
+            "Shadow Token x1",
+            "Demon King's Dagger x2"
+          ],
           "mainSources": "Crafting and Shadow-themed progression content",
           "investmentPriority": "High",
           "notes": "Unlocks the next path toward Jinoo, Shadow Monarch."
@@ -421,7 +729,15 @@
           "baseUnit": "Jinoo (Monarch)",
           "evolvedForm": "Jinoo, Shadow Monarch",
           "takedowns": "0",
-          "materials": ["Universal Fragment x5", "Boundless Orb x1", "Burning Fragment x10", "Ant King Egg x1", "Shadow Knight Sword x1", "Phantom Fragment x10", "Shadow Token x5"],
+          "materials": [
+            "Universal Fragment x5",
+            "Boundless Orb x1",
+            "Burning Fragment x10",
+            "Ant King Egg x1",
+            "Shadow Knight Sword x1",
+            "Phantom Fragment x10",
+            "Shadow Token x5"
+          ],
           "mainSources": "Universal Rift, crafting, raids, and boss-related drops",
           "investmentPriority": "Very High",
           "notes": "Collect the Boundless Orb and unique boss items before spending the common fragments."
@@ -430,7 +746,14 @@
           "baseUnit": "Bio-Android",
           "evolvedForm": "Bio-Android (Imperfect)",
           "takedowns": "5,500",
-          "materials": ["Bio-Android Egg x1", "Universal Fragment x3", "Crimson Emblem x1", "Sky Fragment x8", "Phantom Fragment x5", "Zen Bean x50"],
+          "materials": [
+            "Bio-Android Egg x1",
+            "Universal Fragment x3",
+            "Crimson Emblem x1",
+            "Sky Fragment x8",
+            "Phantom Fragment x5",
+            "Zen Bean x50"
+          ],
           "mainSources": "Perfect Arena Portal tiers",
           "investmentPriority": "High",
           "notes": "Farm the portal-exclusive Bio-Android Egg and Crimson Emblem first."
@@ -439,7 +762,13 @@
           "baseUnit": "Ichiko",
           "evolvedForm": "Ichiko (Rage)",
           "takedowns": "7,500",
-          "materials": ["Burning Fragment x6", "Universal Fragment x3", "Holy Fragment x3", "Hollow Essence x1", "Phantom Fragment x6"],
+          "materials": [
+            "Burning Fragment x6",
+            "Universal Fragment x3",
+            "Holy Fragment x3",
+            "Hollow Essence x1",
+            "Phantom Fragment x6"
+          ],
           "mainSources": "Top of Hueco Castle Raid and its Raid Shop",
           "investmentPriority": "High",
           "notes": "Hollow Essence is the main unit-specific evolution item."
@@ -448,7 +777,13 @@
           "baseUnit": "First Emperor",
           "evolvedForm": "First Emperor (Greatest)",
           "takedowns": "5,500",
-          "materials": ["Petal Fragment x8", "Universal Fragment x3", "Holy Fragment x2", "Sky Fragment x5", "Emperor's Blindfold x1"],
+          "materials": [
+            "Petal Fragment x8",
+            "Universal Fragment x3",
+            "Holy Fragment x2",
+            "Sky Fragment x5",
+            "Emperor's Blindfold x1"
+          ],
           "mainSources": "Ragnarok Event progression",
           "investmentPriority": "High during the event",
           "notes": "Secure the Emperor's Blindfold before spending fragments on secondary units."
@@ -457,7 +792,12 @@
           "baseUnit": "Long-term Main Carry",
           "evolvedForm": "Etherealization E1-E6",
           "takedowns": "No takedown requirement",
-          "materials": ["Duplicate-unit resources", "Mythic Etherealization Shards", "Exclusive Etherealization Shards", "Secret Etherealization Shards"],
+          "materials": [
+            "Duplicate-unit resources",
+            "Mythic Etherealization Shards",
+            "Exclusive Etherealization Shards",
+            "Secret Etherealization Shards"
+          ],
           "mainSources": "Codes, raids, challenges, events, shops, and duplicate units",
           "investmentPriority": "Very High",
           "notes": "Use rare shards on the unit that clears the largest number of Story, Raid, Infinite, and event modes."
@@ -473,7 +813,14 @@
           "mode": "Story and Legend Stages",
           "category": "Permanent Progression",
           "difficulty": "Beginner to Endgame",
-          "primaryRewards": ["Gems", "Gold", "Unit experience", "Stage unlocks", "Evolution materials", "Unit-specific drops"],
+          "primaryRewards": [
+            "Gems",
+            "Gold",
+            "Unit experience",
+            "Stage unlocks",
+            "Evolution materials",
+            "Unit-specific drops"
+          ],
           "bestFor": "Unlocking maps, completing takedowns, and collecting evolution items",
           "farmingRoute": "Clear Story acts once, then repeat the Legend stage connected to the required evolution item.",
           "keyNotes": "Major routes include Ninja Forest, Marine Base, Hollowed Moon, The Invasion, Shinobi World War, Beyond Fantasy, and Sorcerer Games."
@@ -482,7 +829,12 @@
           "mode": "Infinite Mode",
           "category": "Permanent Farming",
           "difficulty": "Scales by wave and difficulty",
-          "primaryRewards": ["Gems", "Gold", "Unit experience", "Takedowns"],
+          "primaryRewards": [
+            "Gems",
+            "Gold",
+            "Unit experience",
+            "Takedowns"
+          ],
           "bestFor": "Evolution takedowns, unit leveling, and long-wave team testing",
           "farmingRoute": "Use the highest difficulty that still reaches the target reward wave consistently.",
           "keyNotes": "Bring economy, area damage, air coverage, support, and a late-wave boss killer."
@@ -491,7 +843,12 @@
           "mode": "Rotating Challenges",
           "category": "Permanent Farming",
           "difficulty": "Depends on the active modifier",
-          "primaryRewards": ["Gems", "Trait Rerolls", "Stat Rerolls", "Upgrade resources"],
+          "primaryRewards": [
+            "Gems",
+            "Trait Rerolls",
+            "Stat Rerolls",
+            "Upgrade resources"
+          ],
           "bestFor": "Short repeatable resource runs",
           "farmingRoute": "Prioritize modifiers that your current roster can counter quickly.",
           "keyNotes": "Challenges are one of the main repeatable sources of reroll resources."
@@ -500,7 +857,11 @@
           "mode": "Virtual Realm",
           "category": "Permanent Roguelike Mode",
           "difficulty": "Build dependent",
-          "primaryRewards": ["Virtual Tokens", "Gems", "Virtual Shop rewards"],
+          "primaryRewards": [
+            "Virtual Tokens",
+            "Gems",
+            "Virtual Shop rewards"
+          ],
           "bestFor": "Token farming and flexible team progression",
           "farmingRoute": "Choose bonuses that improve one main carry and its support units.",
           "keyNotes": "Virtual Tokens can be exchanged through the Virtual Shop."
@@ -509,7 +870,13 @@
           "mode": "Raids and Reaper City Act 5",
           "category": "Raid Progression",
           "difficulty": "Midgame to Endgame",
-          "primaryRewards": ["Raid currency", "Unit drops", "Unique evolution items", "Fragments", "Raid Shop materials"],
+          "primaryRewards": [
+            "Raid currency",
+            "Unit drops",
+            "Unique evolution items",
+            "Fragments",
+            "Raid Shop materials"
+          ],
           "bestFor": "Targeted unit acquisition and evolution bottlenecks",
           "farmingRoute": "Repeat the highest act that can be cleared quickly and consistently.",
           "keyNotes": "Update 4 adds Reaper City. Other raid routes include Top of Hueco Castle, Shinobi Battlefield, and Crimson Throne Chamber."
@@ -518,7 +885,13 @@
           "mode": "Portals, Universal Tears, and Ultra Bosses",
           "category": "Targeted Endgame Farming",
           "difficulty": "Tiered",
-          "primaryRewards": ["Rare units", "Portal keys", "Boundless materials", "Unique evolution items", "High-rarity fragments"],
+          "primaryRewards": [
+            "Rare units",
+            "Portal keys",
+            "Boundless materials",
+            "Unique evolution items",
+            "High-rarity fragments"
+          ],
           "bestFor": "Recipes requiring a specific boss or portal drop",
           "farmingRoute": "Complete portal tiers in order and preserve keys required to unlock the next tier.",
           "keyNotes": "Perfect Arena provides Bio-Android evolution items, while Universal Rift routes provide Boundless materials."
@@ -527,7 +900,11 @@
           "mode": "Crime Fighting Extraction",
           "category": "Update 4 Content",
           "difficulty": "Endgame Extraction",
-          "primaryRewards": ["Human Spider (Responsible)", "Iron Billionaire (Genius)", "Symbiotic Alien (Apex)"],
+          "primaryRewards": [
+            "Human Spider (Responsible)",
+            "Iron Billionaire (Genius)",
+            "Symbiotic Alien (Apex)"
+          ],
           "bestFor": "Building the Update 4 spider-themed roster",
           "farmingRoute": "Use fast early setup, strong boss damage, and enough coverage to complete every objective.",
           "keyNotes": "Symbiotic Alien (Apex) also has a limited serialized Shiny version."
@@ -536,7 +913,11 @@
           "mode": "Golden Palace Extraction",
           "category": "Update 4 Content",
           "difficulty": "Endgame Extraction",
-          "primaryRewards": ["Trickster (Phantom)", "Persona-inspired materials", "Update 4 progression resources"],
+          "primaryRewards": [
+            "Trickster (Phantom)",
+            "Persona-inspired materials",
+            "Update 4 progression resources"
+          ],
           "bestFor": "Unlocking Trickster and preparing the Visionary evolution path",
           "farmingRoute": "Repeat the fastest successful extraction route and save materials until the complete recipe is available.",
           "keyNotes": "Golden Palace is the main Update 4 route connected to Trickster (Phantom)."
@@ -545,7 +926,12 @@
           "mode": "Summer 2026 Event",
           "category": "Time-Limited Event",
           "difficulty": "Varies by event stage",
-          "primaryRewards": ["Summer Currency", "Event-shop rewards", "Limited rewards", "Trait Rerolls"],
+          "primaryRewards": [
+            "Summer Currency",
+            "Event-shop rewards",
+            "Limited rewards",
+            "Trait Rerolls"
+          ],
           "bestFor": "Seasonal rewards unavailable through normal Story progression",
           "farmingRoute": "Redeem the Summer2026! code, select the most important shop reward, and repeat the shortest reliable stage.",
           "keyNotes": "Purchase limited rewards before spending Summer Currency on repeatable materials."
@@ -562,63 +948,105 @@
           "category": "Core Update",
           "headline": "Universal Tower Defense Z launches",
           "details": "The experience adopts the Universal Tower Defense Z name while retaining summoning, wave defense, co-op play, leveling, Etherealization, and evolution.",
-          "featuredContent": ["UTDZ branding", "New update presentation", "New unit progression routes"]
+          "featuredContent": [
+            "UTDZ branding",
+            "New update presentation",
+            "New unit progression routes"
+          ]
         },
         {
           "date": "July 9, 2026",
           "category": "Reaper Content",
           "headline": "Reaper City and Hollow Destroyers vs Reapers",
           "details": "The Reaper-themed route adds new raid content, unit targets, and evolution progression.",
-          "featuredContent": ["Flame Captain (Ember)", "Light Prince (Ascension)", "The King", "Reaper City Raid", "Hollow Destroyers vs Reapers"]
+          "featuredContent": [
+            "Flame Captain (Ember)",
+            "Light Prince (Ascension)",
+            "The King",
+            "Reaper City Raid",
+            "Hollow Destroyers vs Reapers"
+          ]
         },
         {
           "date": "July 9, 2026",
           "category": "Spider Content",
           "headline": "Crime Fighting Extraction",
           "details": "The new extraction route introduces three spider-themed units and their associated progression materials.",
-          "featuredContent": ["Human Spider (Responsible)", "Iron Billionaire (Genius)", "Symbiotic Alien (Apex)"]
+          "featuredContent": [
+            "Human Spider (Responsible)",
+            "Iron Billionaire (Genius)",
+            "Symbiotic Alien (Apex)"
+          ]
         },
         {
           "date": "July 9, 2026",
           "category": "Persona-Inspired Content",
           "headline": "Golden Palace Extraction",
           "details": "Golden Palace introduces Trickster (Phantom) and connects to the new Visionary progression route.",
-          "featuredContent": ["Trickster (Phantom)", "Visionary (Unrivaled)", "Golden Palace Extraction"]
+          "featuredContent": [
+            "Trickster (Phantom)",
+            "Visionary (Unrivaled)",
+            "Golden Palace Extraction"
+          ]
         },
         {
           "date": "Update 4 launch",
           "category": "Evolution and Rarity",
           "headline": "New evolved, Unrivaled, and Shiny units",
           "details": "Update units include normal and Shiny versions, while Visionary receives an Unrivaled evolution path.",
-          "featuredContent": ["Visionary (Unrivaled)", "New evolution materials", "Normal unit variants", "Shiny unit variants"]
+          "featuredContent": [
+            "Visionary (Unrivaled)",
+            "New evolution materials",
+            "Normal unit variants",
+            "Shiny unit variants"
+          ]
         },
         {
           "date": "Summer 2026",
           "category": "Seasonal Event",
           "headline": "Summer Event and Summer Currency",
           "details": "The seasonal event adds dedicated stages, Summer Currency, and an event shop containing limited rewards.",
-          "featuredContent": ["Summer Currency", "Event stages", "Limited shop rewards", "Summer2026! code"]
+          "featuredContent": [
+            "Summer Currency",
+            "Event stages",
+            "Limited shop rewards",
+            "Summer2026! code"
+          ]
         },
         {
           "date": "Update 4 launch",
           "category": "Limited Collectible",
           "headline": "Serialized Shiny Symbiotic Alien (Apex)",
           "details": "The serialized Shiny version of Symbiotic Alien (Apex) is limited, with each serialized copy carrying its own identity.",
-          "featuredContent": ["Symbiotic Alien (Apex)", "Serialized Shiny variant"]
+          "featuredContent": [
+            "Symbiotic Alien (Apex)",
+            "Serialized Shiny variant"
+          ]
         },
         {
           "date": "Update 4 launch",
           "category": "Launch Rewards",
           "headline": "Update 4 codes and free resources",
           "details": "The launch codes provide a Ruler Ticket, Trait Rerolls, Gems, Universal Gems, and Summer Currency.",
-          "featuredContent": ["SrryForWhoopsie! — 1 Ruler Ticket", "ReapersVsHollowDestroyers — 50 Trait Rerolls and 10,000 Gems", "SpectacularSpider! — 50 Trait Rerolls and 100,000 Universal Gems", "TheGuyFromSmash! — 50 Trait Rerolls and 100,000 Universal Gems", "Summer2026! — 50 Trait Rerolls and 10,000 Summer Currency"]
+          "featuredContent": [
+            "SrryForWhoopsie! — 1 Ruler Ticket",
+            "ReapersVsHollowDestroyers — 50 Trait Rerolls and 10,000 Gems",
+            "SpectacularSpider! — 50 Trait Rerolls and 100,000 Universal Gems",
+            "TheGuyFromSmash! — 50 Trait Rerolls and 100,000 Universal Gems",
+            "Summer2026! — 50 Trait Rerolls and 10,000 Summer Currency"
+          ]
         },
         {
           "date": "After launch",
           "category": "Live Service",
           "headline": "Balance updates, fixes, and reward adjustments",
           "details": "Post-launch updates cover unit balancing, mode rewards, bug fixes, server restarts, announcements, and additional codes.",
-          "featuredContent": ["Unit balance changes", "Mode reward adjustments", "Bug fixes", "Official announcements"]
+          "featuredContent": [
+            "Unit balance changes",
+            "Mode reward adjustments",
+            "Bug fixes",
+            "Official announcements"
+          ]
         }
       ]
     }
@@ -679,13 +1107,13 @@
   },
   "pages": {
     "codes": {
-      "title": "Universal Tower Defense Z Codes",
-      "description": "Active and expired codes with free units, Trait Rerolls, Gems, and evolution materials for Universal Tower Defense Z.",
-      "metaTitle": "Universal Tower Defense Z Codes - Active & Expired (2026)",
-      "metaDescription": "All working Universal Tower Defense Z codes for free units, Trait Rerolls, Gems, and evolution materials. Updated regularly with redemption steps.",
-      "categoryLabel": "CODES & REWARDS",
+      "title": "Anime Universe Tower Defense Codes",
+      "description": "Latest working codes for free gems, units, Trait Rerolls, and evolution materials in Anime Universe Tower Defense (Universal Tower Defense Z). Updated daily with verified codes.",
+      "metaTitle": "Anime Universe Tower Defense Codes - Free Gems & Units (2026)",
+      "metaDescription": "Redeem active Anime Universe Tower Defense codes for free gems, units, Trait Rerolls, and evolution materials. Updated daily with verified working codes.",
+      "categoryLabel": "REDEEM CODES",
       "whatIs": "What are Codes?",
-      "whatIsDescription": "Universal Tower Defense Z codes give free units, Trait Rerolls, Gems, Universal Gems, evolution materials, and Etherealization Shards when redeemed in-game.",
+      "whatIsDescription": "Codes are promotional keys released by the developers of Universal Tower Defense Z (also searched as Anime Universe Tower Defense) that grant free gems, units, Trait Rerolls, evolution materials, and Etherealization Shards when redeemed in-game.",
       "why": "Why redeem codes?",
       "whySteps": {
         "step1Title": "Free Units and Resources",
@@ -698,122 +1126,122 @@
       "featured": "Featured & Essential",
       "all": "All Codes"
     },
+    "tier-list": {
+      "title": "Anime Universe Tower Defense Tier List",
+      "description": "Complete unit rankings from S-tier to D-tier for Anime Universe Tower Defense (Universal Tower Defense Z). Find the strongest units for every mode.",
+      "metaTitle": "Anime Universe Tower Defense Tier List - Best Units Ranked",
+      "metaDescription": "Full tier list ranking all Anime Universe Tower Defense units by DPS, support, control, and economy across Story, Raids, and Infinite modes.",
+      "categoryLabel": "TIER LISTS",
+      "whatIs": "What is a Tier List?",
+      "whatIsDescription": "Tier lists rank every unit from S-tier (best) to D-tier (weakest) based on DPS, support, control, and economy performance in the current meta of Universal Tower Defense Z. Use them to decide which units to summon and build.",
+      "why": "Why check tier lists?",
+      "whySteps": {
+        "step1Title": "Identify Top Units",
+        "step1Description": "Know which units are worth your gems and resources",
+        "step2Title": "Optimize Team Composition",
+        "step2Description": "Build balanced teams with the strongest available units",
+        "step3Title": "Follow Meta Trends",
+        "step3Description": "Stay updated on balance changes and shifting strategies"
+      },
+      "featured": "Featured & Essential",
+      "all": "All Tier Lists"
+    },
     "units": {
-      "title": "Universal Tower Defense Z Units",
-      "description": "Unit stats, roles, elements, abilities, acquisition methods, and base-to-max data for Universal Tower Defense Z.",
-      "metaTitle": "Universal Tower Defense Z Units - Stats, Roles & Abilities",
-      "metaDescription": "Browse Universal Tower Defense Z units by rarity, role, element, and ability. Learn stats, acquisition methods, and base-to-max progression data.",
+      "title": "Anime Universe Tower Defense Units",
+      "description": "Detailed unit guides with stats, roles, elements, abilities, and acquisition methods for every Anime Universe Tower Defense (Universal Tower Defense Z) character.",
+      "metaTitle": "Anime Universe Tower Defense Units - Stats, Roles & Abilities",
+      "metaDescription": "Browse Anime Universe Tower Defense units by rarity, role, element, and ability. Learn stats, acquisition methods, and base-to-max progression data.",
       "categoryLabel": "UNITS DATABASE",
       "whatIs": "What are Units?",
-      "whatIsDescription": "Units are the anime-inspired characters you summon, place, upgrade, evolve, and Etherealize to defend against enemy waves across Story, Raids, Infinite, and events.",
+      "whatIsDescription": "Units are the anime-inspired characters you summon, place, upgrade, evolve, and Etherealize to defend against enemy waves across Story, Raids, Infinite, and events in Universal Tower Defense Z.",
       "why": "Why study unit stats?",
       "whySteps": {
-        "step1Title": "Pick the Right Carry",
-        "step1Description": "Compare damage, range, and abilities before investing resources",
-        "step2Title": "Plan Evolutions",
-        "step2Description": "Know which units have evolution and Etherealize paths",
-        "step3Title": "Build Balanced Teams",
-        "step3Description": "Mix damage, support, control, and economy by role and element"
+        "step1Title": "Master Acquisition",
+        "step1Description": "Learn how to unlock rare and secret units efficiently",
+        "step2Title": "Understand Roles",
+        "step2Description": "Discover each unit's role, element, and ability synergies",
+        "step3Title": "Optimize Upgrades",
+        "step3Description": "Track base-to-max stats and plan upgrade investments"
       },
       "featured": "Featured & Essential",
       "all": "All Units"
     },
-    "tier-list": {
-      "title": "Universal Tower Defense Z Tier List",
-      "description": "Units ranked by DPS, support, control, economy, and performance across Story, Raids, Infinite, and Update 4 modes.",
-      "metaTitle": "Universal Tower Defense Z Tier List - Best Units Ranked",
-      "metaDescription": "Universal Tower Defense Z tier list ranking the best damage dealers, supports, controllers, and economy units for Story, Raids, Infinite, and Update 4.",
-      "categoryLabel": "TIER LIST",
-      "whatIs": "What is the Tier List?",
-      "whatIsDescription": "The tier list compares units by total combat value, including damage, placement type, elemental coverage, buffs, crowd control, boss performance, and upgrade scaling.",
-      "why": "Why use the tier list?",
+    "builds": {
+      "title": "Anime Universe Tower Defense Builds",
+      "description": "Best team builds and loadouts for Anime Universe Tower Defense (Universal Tower Defense Z). Main DPS, support, economy units, traits, and accessories.",
+      "metaTitle": "Anime Universe Tower Defense Builds - Best Teams & Loadouts",
+      "metaDescription": "Master Anime Universe Tower Defense builds with optimal team slots, main DPS, support, economy units, traits, relics, and accessories for every mode.",
+      "categoryLabel": "TEAM BUILDS",
+      "whatIs": "What are Builds?",
+      "whatIsDescription": "Builds combine unit slots, main DPS, support, and economy units with the right traits, relics, and accessories to tackle Story, Raids, Infinite, and endgame bosses in Universal Tower Defense Z.",
+      "why": "Why use build guides?",
       "whySteps": {
-        "step1Title": "Invest Wisely",
-        "step1Description": "Focus resources on top-tier carries and supports",
-        "step2Title": "Compare by Mode",
-        "step2Description": "Separate rankings for Story, Infinite, Raids, and bosses",
-        "step3Title": "Find Alternatives",
-        "step3Description": "Identify strong substitutes when meta units are unavailable"
+        "step1Title": "Optimize Team Slots",
+        "step1Description": "Assign main DPS, support, and economy roles effectively",
+        "step2Title": "Pair Traits and Relics",
+        "step2Description": "Match traits, relics, and accessories for maximum synergy",
+        "step3Title": "Clear Harder Content",
+        "step3Description": "Beat Raids, Infinite, and Ultra Bosses with proven setups"
       },
       "featured": "Featured & Essential",
-      "all": "All Rankings"
+      "all": "All Builds"
     },
     "traits": {
-      "title": "Universal Tower Defense Z Traits",
-      "description": "Trait effects, roll chances, best roles, drawbacks, and reroll priority for Universal Tower Defense Z.",
-      "metaTitle": "Universal Tower Defense Z Traits - Best Traits & Rerolls",
-      "metaDescription": "Universal Tower Defense Z traits guide covering effects, roll chances, best roles, drawbacks, Stat Rerolls, Stat Locks, and double traits.",
-      "categoryLabel": "TRAITS & REROLLS",
+      "title": "Anime Universe Tower Defense Traits",
+      "description": "Complete trait guide for Anime Universe Tower Defense (Universal Tower Defense Z). Effects, reroll costs, pity, and the best traits per unit.",
+      "metaTitle": "Anime Universe Tower Defense Traits - Best Traits & Reroll Guide",
+      "metaDescription": "Learn every Anime Universe Tower Defense trait, its effects, reroll cost, pity system, and the best trait picks for each unit and build.",
+      "categoryLabel": "TRAITS GUIDE",
       "whatIs": "What are Traits?",
-      "whatIsDescription": "Traits are passive modifiers that boost damage, cooldown, range, income, or boss performance. Trait Rerolls change the trait, while Stat Rerolls change individual stat grades.",
+      "whatIsDescription": "Traits are passive modifiers you roll and reroll on units in Universal Tower Defense Z. They boost damage, range, cooldown, economy, and more, and pairing the right trait with each unit is key to endgame performance.",
       "why": "Why optimize traits?",
       "whySteps": {
-        "step1Title": "Maximize Carries",
-        "step1Description": "Top traits multiply the value of your main damage dealers",
-        "step2Title": "Protect Good Rolls",
-        "step2Description": "Use Stat Locks and auto-skip to preserve strong results",
-        "step3Title": "Save Resources",
-        "step3Description": "Spend rerolls on long-term units instead of temporary ones"
+        "step1Title": "Boost Combat Power",
+        "step1Description": "Stack damage, range, and cooldown traits for huge gains",
+        "step2Title": "Plan Reroll Costs",
+        "step2Description": "Know the gem cost and pity before rerolling",
+        "step3Title": "Match Traits to Units",
+        "step3Description": "Pick the best trait for each unit's role and build"
       },
       "featured": "Featured & Essential",
       "all": "All Traits"
     },
-    "evolutions": {
-      "title": "Universal Tower Defense Z Evolutions",
-      "description": "Evolution recipes, required materials, fragment sources, Gold costs, and Etherealize priorities.",
-      "metaTitle": "Universal Tower Defense Z Evolutions & Etherealize Guide",
-      "metaDescription": "Universal Tower Defense Z evolution and Etherealize guide with recipes, materials, fragment sources, takedowns, and investment priorities.",
-      "categoryLabel": "EVOLUTIONS & ETHEREALIZE",
-      "whatIs": "What are Evolutions?",
-      "whatIsDescription": "Evolution transforms eligible units into stronger forms using fragments, unique drops, and materials. Etherealize is a separate E1-to-E6 system using duplicate-unit resources or Etherealization Shards.",
-      "why": "Why evolve units?",
+    "guide": {
+      "title": "Anime Universe Tower Defense Guide",
+      "description": "Complete Anime Universe Tower Defense (Universal Tower Defense Z) guides from beginner basics to advanced strategies for every mode.",
+      "metaTitle": "Anime Universe Tower Defense Guide - Beginner to Pro Strategies",
+      "metaDescription": "Full Anime Universe Tower Defense guides covering beginner tips, progression, farming, extraction, and expert tactics for all skill levels.",
+      "categoryLabel": "GAME GUIDES",
+      "whatIs": "What are Guides?",
+      "whatIsDescription": "From beginner basics to advanced strategies, these guides cover progression, farming, extraction, and combat tips for Universal Tower Defense Z, helping you advance from your first summon to endgame content.",
+      "why": "Why read guides?",
       "whySteps": {
-        "step1Title": "Unlock Stronger Forms",
-        "step1Description": "Evolutions add new attacks, passives, and stats",
-        "step2Title": "Target Materials",
-        "step2Description": "Farm the exact fragments and drops each recipe needs",
-        "step3Title": "Prioritize Carries",
-        "step3Description": "Complete one permanent carry before spreading rare materials"
+        "step1Title": "Learn Mechanics",
+        "step1Description": "Understand core systems and avoid common beginner mistakes",
+        "step2Title": "Fast Progression",
+        "step2Description": "Follow proven paths to advance quickly through content",
+        "step3Title": "Master Strategy",
+        "step3Description": "Develop advanced tactics for Raids, Infinite, and endgame"
       },
       "featured": "Featured & Essential",
-      "all": "All Evolutions"
-    },
-    "modes": {
-      "title": "Universal Tower Defense Z Game Modes",
-      "description": "Story, Infinite, Raids, Challenges, Portals, Virtual Realm, and Update 4 extractions with rewards and farming routes.",
-      "metaTitle": "Universal Tower Defense Z Game Modes & Farming Guide",
-      "metaDescription": "Universal Tower Defense Z game modes guide covering Story, Infinite, Raids, Challenges, Portals, Virtual Realm, and Update 4 extractions with rewards and routes.",
-      "categoryLabel": "MODES & FARMING",
-      "whatIs": "What are Game Modes?",
-      "whatIsDescription": "Game modes organize stages by difficulty and rewards, including Story, Legend, Infinite, Raids, Challenges, Virtual Realm, Portals, and Update 4 extractions.",
-      "why": "Why choose modes carefully?",
-      "whySteps": {
-        "step1Title": "Target Resources",
-        "step1Description": "Pick the mode that drops the currency or item you need",
-        "step2Title": "Farm Efficiently",
-        "step2Description": "Repeat the highest clearable stage for the reward you want",
-        "step3Title": "Build Mode Teams",
-        "step3Description": "Adapt loadouts for Infinite, Raids, bosses, and events"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Modes"
+      "all": "All Guides"
     },
     "updates": {
-      "title": "Universal Tower Defense Z Updates",
-      "description": "Patch notes, new units, modes, events, codes, and balance changes for Universal Tower Defense Z.",
-      "metaTitle": "Universal Tower Defense Z Updates & Patch Notes",
-      "metaDescription": "Universal Tower Defense Z update and patch notes covering new units, modes, events, codes, balance changes, and fixes organized by date.",
+      "title": "Anime Universe Tower Defense Updates",
+      "description": "Latest Anime Universe Tower Defense (Universal Tower Defense Z) update and patch notes. New units, modes, events, codes, and balance changes.",
+      "metaTitle": "Anime Universe Tower Defense Updates - Patch Notes & New Content",
+      "metaDescription": "Track every Anime Universe Tower Defense update and patch note: new units, modes, events, codes, balance changes, and bug fixes, sorted by version.",
       "categoryLabel": "UPDATES & PATCH NOTES",
       "whatIs": "What are Updates?",
-      "whatIsDescription": "Updates add new units, raids, extractions, evolutions, events, balance changes, codes, and fixes. Update 4.0 launched the Universal Tower Defense Z era with Reaper, spider, and Persona-inspired content.",
+      "whatIsDescription": "Updates bring new units, modes, events, codes, balance changes, and bug fixes to Universal Tower Defense Z. Each version (like Update 4.0) reshapes the meta, so tracking patch notes keeps your builds current.",
       "why": "Why follow updates?",
       "whySteps": {
-        "step1Title": "Claim New Codes",
-        "step1Description": "Launch and milestone codes arrive with each update",
-        "step2Title": "Plan Pulls",
-        "step2Description": "Learn which units and modes are added or buffed",
-        "step3Title": "Catch Time-Limited Content",
-        "step3Description": "Track seasonal events and limited collectibles"
+        "step1Title": "Catch New Units and Modes",
+        "step1Description": "Summon new units and play new modes the day they drop",
+        "step2Title": "Grab Fresh Codes",
+        "step2Description": "Redeem new codes released with each update and event",
+        "step3Title": "Adapt to Balance Changes",
+        "step3Description": "Adjust your builds as buffs, nerfs, and fixes land"
       },
       "featured": "Featured & Essential",
       "all": "All Updates"

@@ -1,1 +1,506 @@
-{}
+{
+  "en": {
+    "builds": [
+      {
+        "slug": "anime-universe-tower-defense-best-team",
+        "file": "anime-universe-tower-defense-best-team"
+      },
+      {
+        "slug": "anime-universe-tower-defense-build",
+        "file": "anime-universe-tower-defense-build"
+      },
+      {
+        "slug": "anime-universe-tower-defense-ichigo-build",
+        "file": "anime-universe-tower-defense-ichigo-build"
+      }
+    ],
+    "codes": [
+      {
+        "slug": "anime-universe-tower-defense-codes",
+        "file": "anime-universe-tower-defense-codes"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "anime-universe-tower-defense-beginner-guide",
+        "file": "anime-universe-tower-defense-beginner-guide"
+      },
+      {
+        "slug": "anime-universe-tower-defense-crime-fighting-guide",
+        "file": "anime-universe-tower-defense-crime-fighting-guide"
+      },
+      {
+        "slug": "anime-universe-tower-defense-extraction-guide",
+        "file": "anime-universe-tower-defense-extraction-guide"
+      },
+      {
+        "slug": "anime-universe-tower-defense-farming-guide",
+        "file": "anime-universe-tower-defense-farming-guide"
+      },
+      {
+        "slug": "anime-universe-tower-defense-progression-guide",
+        "file": "anime-universe-tower-defense-progression-guide"
+      },
+      {
+        "slug": "anime-universe-tower-defense-tower-of-kings-guide",
+        "file": "anime-universe-tower-defense-tower-of-kings-guide"
+      }
+    ],
+    "tier-list": [
+      {
+        "slug": "anime-universe-tower-defense-best-units",
+        "file": "anime-universe-tower-defense-best-units"
+      },
+      {
+        "slug": "anime-universe-tower-defense-meta-units",
+        "file": "anime-universe-tower-defense-meta-units"
+      },
+      {
+        "slug": "anime-universe-tower-defense-tier-list",
+        "file": "anime-universe-tower-defense-tier-list"
+      }
+    ],
+    "traits": [
+      {
+        "slug": "anime-universe-tower-defense-buff-potency",
+        "file": "anime-universe-tower-defense-buff-potency"
+      },
+      {
+        "slug": "anime-universe-tower-defense-distressed-subject",
+        "file": "anime-universe-tower-defense-distressed-subject"
+      },
+      {
+        "slug": "anime-universe-tower-defense-power-of-kings",
+        "file": "anime-universe-tower-defense-power-of-kings"
+      },
+      {
+        "slug": "anime-universe-tower-defense-relic",
+        "file": "anime-universe-tower-defense-relic"
+      },
+      {
+        "slug": "anime-universe-tower-defense-trait-tier-list",
+        "file": "anime-universe-tower-defense-trait-tier-list"
+      },
+      {
+        "slug": "anime-universe-tower-defense-traits",
+        "file": "anime-universe-tower-defense-traits"
+      }
+    ],
+    "units": [
+      {
+        "slug": "anime-universe-tower-defense-ace",
+        "file": "anime-universe-tower-defense-ace"
+      },
+      {
+        "slug": "anime-universe-tower-defense-boundless-joker",
+        "file": "anime-universe-tower-defense-boundless-joker"
+      },
+      {
+        "slug": "anime-universe-tower-defense-frieren",
+        "file": "anime-universe-tower-defense-frieren"
+      },
+      {
+        "slug": "anime-universe-tower-defense-gojo",
+        "file": "anime-universe-tower-defense-gojo"
+      },
+      {
+        "slug": "anime-universe-tower-defense-goku-black",
+        "file": "anime-universe-tower-defense-goku-black"
+      },
+      {
+        "slug": "anime-universe-tower-defense-ichigo",
+        "file": "anime-universe-tower-defense-ichigo"
+      },
+      {
+        "slug": "anime-universe-tower-defense-kenpachi",
+        "file": "anime-universe-tower-defense-kenpachi"
+      },
+      {
+        "slug": "anime-universe-tower-defense-kirito",
+        "file": "anime-universe-tower-defense-kirito"
+      },
+      {
+        "slug": "anime-universe-tower-defense-lelouch",
+        "file": "anime-universe-tower-defense-lelouch"
+      },
+      {
+        "slug": "anime-universe-tower-defense-rukia",
+        "file": "anime-universe-tower-defense-rukia"
+      },
+      {
+        "slug": "anime-universe-tower-defense-ruler-simon",
+        "file": "anime-universe-tower-defense-ruler-simon"
+      },
+      {
+        "slug": "anime-universe-tower-defense-sung-jin-woo",
+        "file": "anime-universe-tower-defense-sung-jin-woo"
+      },
+      {
+        "slug": "anime-universe-tower-defense-unohana",
+        "file": "anime-universe-tower-defense-unohana"
+      },
+      {
+        "slug": "anime-universe-tower-defense-venom-black-spider-man",
+        "file": "anime-universe-tower-defense-venom-black-spider-man"
+      },
+      {
+        "slug": "anime-universe-tower-defense-yhwach",
+        "file": "anime-universe-tower-defense-yhwach"
+      },
+      {
+        "slug": "anime-universe-tower-defense-zoro",
+        "file": "anime-universe-tower-defense-zoro"
+      }
+    ],
+    "updates": [
+      {
+        "slug": "anime-universe-tower-defense-bleach-update",
+        "file": "anime-universe-tower-defense-bleach-update"
+      },
+      {
+        "slug": "anime-universe-tower-defense-update-4-0",
+        "file": "anime-universe-tower-defense-update-4.0"
+      },
+      {
+        "slug": "anime-universe-tower-defense-update",
+        "file": "anime-universe-tower-defense-update"
+      }
+    ]
+  },
+  "es": {
+    "builds": [
+      {
+        "slug": "anime-universe-tower-defense-best-team",
+        "file": "anime-universe-tower-defense-best-team"
+      },
+      {
+        "slug": "anime-universe-tower-defense-build",
+        "file": "anime-universe-tower-defense-build"
+      },
+      {
+        "slug": "anime-universe-tower-defense-ichigo-build",
+        "file": "anime-universe-tower-defense-ichigo-build"
+      }
+    ],
+    "codes": [
+      {
+        "slug": "anime-universe-tower-defense-codes",
+        "file": "anime-universe-tower-defense-codes"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "anime-universe-tower-defense-beginner-guide",
+        "file": "anime-universe-tower-defense-beginner-guide"
+      },
+      {
+        "slug": "anime-universe-tower-defense-crime-fighting-guide",
+        "file": "anime-universe-tower-defense-crime-fighting-guide"
+      },
+      {
+        "slug": "anime-universe-tower-defense-extraction-guide",
+        "file": "anime-universe-tower-defense-extraction-guide"
+      },
+      {
+        "slug": "anime-universe-tower-defense-farming-guide",
+        "file": "anime-universe-tower-defense-farming-guide"
+      },
+      {
+        "slug": "anime-universe-tower-defense-progression-guide",
+        "file": "anime-universe-tower-defense-progression-guide"
+      },
+      {
+        "slug": "anime-universe-tower-defense-tower-of-kings-guide",
+        "file": "anime-universe-tower-defense-tower-of-kings-guide"
+      }
+    ],
+    "tier-list": [
+      {
+        "slug": "anime-universe-tower-defense-best-units",
+        "file": "anime-universe-tower-defense-best-units"
+      },
+      {
+        "slug": "anime-universe-tower-defense-meta-units",
+        "file": "anime-universe-tower-defense-meta-units"
+      },
+      {
+        "slug": "anime-universe-tower-defense-tier-list",
+        "file": "anime-universe-tower-defense-tier-list"
+      }
+    ],
+    "traits": [
+      {
+        "slug": "anime-universe-tower-defense-buff-potency",
+        "file": "anime-universe-tower-defense-buff-potency"
+      },
+      {
+        "slug": "anime-universe-tower-defense-distressed-subject",
+        "file": "anime-universe-tower-defense-distressed-subject"
+      },
+      {
+        "slug": "anime-universe-tower-defense-power-of-kings",
+        "file": "anime-universe-tower-defense-power-of-kings"
+      },
+      {
+        "slug": "anime-universe-tower-defense-relic",
+        "file": "anime-universe-tower-defense-relic"
+      },
+      {
+        "slug": "anime-universe-tower-defense-trait-tier-list",
+        "file": "anime-universe-tower-defense-trait-tier-list"
+      },
+      {
+        "slug": "anime-universe-tower-defense-traits",
+        "file": "anime-universe-tower-defense-traits"
+      }
+    ],
+    "units": [
+      {
+        "slug": "anime-universe-tower-defense-ace",
+        "file": "anime-universe-tower-defense-ace"
+      },
+      {
+        "slug": "anime-universe-tower-defense-boundless-joker",
+        "file": "anime-universe-tower-defense-boundless-joker"
+      },
+      {
+        "slug": "anime-universe-tower-defense-frieren",
+        "file": "anime-universe-tower-defense-frieren"
+      },
+      {
+        "slug": "anime-universe-tower-defense-gojo",
+        "file": "anime-universe-tower-defense-gojo"
+      },
+      {
+        "slug": "anime-universe-tower-defense-goku-black",
+        "file": "anime-universe-tower-defense-goku-black"
+      },
+      {
+        "slug": "anime-universe-tower-defense-ichigo",
+        "file": "anime-universe-tower-defense-ichigo"
+      },
+      {
+        "slug": "anime-universe-tower-defense-kenpachi",
+        "file": "anime-universe-tower-defense-kenpachi"
+      },
+      {
+        "slug": "anime-universe-tower-defense-kirito",
+        "file": "anime-universe-tower-defense-kirito"
+      },
+      {
+        "slug": "anime-universe-tower-defense-lelouch",
+        "file": "anime-universe-tower-defense-lelouch"
+      },
+      {
+        "slug": "anime-universe-tower-defense-rukia",
+        "file": "anime-universe-tower-defense-rukia"
+      },
+      {
+        "slug": "anime-universe-tower-defense-ruler-simon",
+        "file": "anime-universe-tower-defense-ruler-simon"
+      },
+      {
+        "slug": "anime-universe-tower-defense-sung-jin-woo",
+        "file": "anime-universe-tower-defense-sung-jin-woo"
+      },
+      {
+        "slug": "anime-universe-tower-defense-unohana",
+        "file": "anime-universe-tower-defense-unohana"
+      },
+      {
+        "slug": "anime-universe-tower-defense-venom-black-spider-man",
+        "file": "anime-universe-tower-defense-venom-black-spider-man"
+      },
+      {
+        "slug": "anime-universe-tower-defense-yhwach",
+        "file": "anime-universe-tower-defense-yhwach"
+      },
+      {
+        "slug": "anime-universe-tower-defense-zoro",
+        "file": "anime-universe-tower-defense-zoro"
+      }
+    ],
+    "updates": [
+      {
+        "slug": "anime-universe-tower-defense-bleach-update",
+        "file": "anime-universe-tower-defense-bleach-update"
+      },
+      {
+        "slug": "anime-universe-tower-defense-update-4-0",
+        "file": "anime-universe-tower-defense-update-4.0"
+      },
+      {
+        "slug": "anime-universe-tower-defense-update",
+        "file": "anime-universe-tower-defense-update"
+      }
+    ]
+  },
+  "pt": {
+    "builds": [
+      {
+        "slug": "anime-universe-tower-defense-best-team",
+        "file": "anime-universe-tower-defense-best-team"
+      },
+      {
+        "slug": "anime-universe-tower-defense-build",
+        "file": "anime-universe-tower-defense-build"
+      },
+      {
+        "slug": "anime-universe-tower-defense-ichigo-build",
+        "file": "anime-universe-tower-defense-ichigo-build"
+      }
+    ],
+    "codes": [
+      {
+        "slug": "anime-universe-tower-defense-codes",
+        "file": "anime-universe-tower-defense-codes"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "anime-universe-tower-defense-beginner-guide",
+        "file": "anime-universe-tower-defense-beginner-guide"
+      },
+      {
+        "slug": "anime-universe-tower-defense-crime-fighting-guide",
+        "file": "anime-universe-tower-defense-crime-fighting-guide"
+      },
+      {
+        "slug": "anime-universe-tower-defense-extraction-guide",
+        "file": "anime-universe-tower-defense-extraction-guide"
+      },
+      {
+        "slug": "anime-universe-tower-defense-farming-guide",
+        "file": "anime-universe-tower-defense-farming-guide"
+      },
+      {
+        "slug": "anime-universe-tower-defense-progression-guide",
+        "file": "anime-universe-tower-defense-progression-guide"
+      },
+      {
+        "slug": "anime-universe-tower-defense-tower-of-kings-guide",
+        "file": "anime-universe-tower-defense-tower-of-kings-guide"
+      }
+    ],
+    "tier-list": [
+      {
+        "slug": "anime-universe-tower-defense-best-units",
+        "file": "anime-universe-tower-defense-best-units"
+      },
+      {
+        "slug": "anime-universe-tower-defense-meta-units",
+        "file": "anime-universe-tower-defense-meta-units"
+      },
+      {
+        "slug": "anime-universe-tower-defense-tier-list",
+        "file": "anime-universe-tower-defense-tier-list"
+      }
+    ],
+    "traits": [
+      {
+        "slug": "anime-universe-tower-defense-buff-potency",
+        "file": "anime-universe-tower-defense-buff-potency"
+      },
+      {
+        "slug": "anime-universe-tower-defense-distressed-subject",
+        "file": "anime-universe-tower-defense-distressed-subject"
+      },
+      {
+        "slug": "anime-universe-tower-defense-power-of-kings",
+        "file": "anime-universe-tower-defense-power-of-kings"
+      },
+      {
+        "slug": "anime-universe-tower-defense-relic",
+        "file": "anime-universe-tower-defense-relic"
+      },
+      {
+        "slug": "anime-universe-tower-defense-trait-tier-list",
+        "file": "anime-universe-tower-defense-trait-tier-list"
+      },
+      {
+        "slug": "anime-universe-tower-defense-traits",
+        "file": "anime-universe-tower-defense-traits"
+      }
+    ],
+    "units": [
+      {
+        "slug": "anime-universe-tower-defense-ace",
+        "file": "anime-universe-tower-defense-ace"
+      },
+      {
+        "slug": "anime-universe-tower-defense-boundless-joker",
+        "file": "anime-universe-tower-defense-boundless-joker"
+      },
+      {
+        "slug": "anime-universe-tower-defense-frieren",
+        "file": "anime-universe-tower-defense-frieren"
+      },
+      {
+        "slug": "anime-universe-tower-defense-gojo",
+        "file": "anime-universe-tower-defense-gojo"
+      },
+      {
+        "slug": "anime-universe-tower-defense-goku-black",
+        "file": "anime-universe-tower-defense-goku-black"
+      },
+      {
+        "slug": "anime-universe-tower-defense-ichigo",
+        "file": "anime-universe-tower-defense-ichigo"
+      },
+      {
+        "slug": "anime-universe-tower-defense-kenpachi",
+        "file": "anime-universe-tower-defense-kenpachi"
+      },
+      {
+        "slug": "anime-universe-tower-defense-kirito",
+        "file": "anime-universe-tower-defense-kirito"
+      },
+      {
+        "slug": "anime-universe-tower-defense-lelouch",
+        "file": "anime-universe-tower-defense-lelouch"
+      },
+      {
+        "slug": "anime-universe-tower-defense-rukia",
+        "file": "anime-universe-tower-defense-rukia"
+      },
+      {
+        "slug": "anime-universe-tower-defense-ruler-simon",
+        "file": "anime-universe-tower-defense-ruler-simon"
+      },
+      {
+        "slug": "anime-universe-tower-defense-sung-jin-woo",
+        "file": "anime-universe-tower-defense-sung-jin-woo"
+      },
+      {
+        "slug": "anime-universe-tower-defense-unohana",
+        "file": "anime-universe-tower-defense-unohana"
+      },
+      {
+        "slug": "anime-universe-tower-defense-venom-black-spider-man",
+        "file": "anime-universe-tower-defense-venom-black-spider-man"
+      },
+      {
+        "slug": "anime-universe-tower-defense-yhwach",
+        "file": "anime-universe-tower-defense-yhwach"
+      },
+      {
+        "slug": "anime-universe-tower-defense-zoro",
+        "file": "anime-universe-tower-defense-zoro"
+      }
+    ],
+    "updates": [
+      {
+        "slug": "anime-universe-tower-defense-bleach-update",
+        "file": "anime-universe-tower-defense-bleach-update"
+      },
+      {
+        "slug": "anime-universe-tower-defense-update-4-0",
+        "file": "anime-universe-tower-defense-update-4.0"
+      },
+      {
+        "slug": "anime-universe-tower-defense-update",
+        "file": "anime-universe-tower-defense-update"
+      }
+    ]
+  }
+}

@@ -38,14 +38,15 @@ export async function DetailPage({
   // 服务端加载翻译
   const t = await getTranslations();
 
-  // 内容类型翻译映射
+  // 内容类型翻译映射（key = CONTENT_TYPES，与 navigation.ts 的 path 一一对应）
   const contentTypeLabels: Record<string, string> = {
-    guides: t("nav.guides"),
-    crafting: t("nav.crafting"),
-    items: t("nav.items"),
-    biomes: t("nav.biomes"),
-    building: t("nav.building"),
-    support: t("nav.support"),
+    codes: t("nav.codes"),
+    "tier-list": t("nav.tierList"),
+    units: t("nav.units"),
+    builds: t("nav.builds"),
+    traits: t("nav.traits"),
+    guide: t("nav.guide"),
+    updates: t("nav.updates"),
   };
 
   // 提取图片元数据

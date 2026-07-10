@@ -1,1 +1,11 @@
-{}
+{
+  "nav": {
+    "codes": "Códigos",
+    "tierList": "Tier List",
+    "units": "Unidades",
+    "builds": "Builds",
+    "traits": "Traits",
+    "guide": "Guía",
+    "updates": "Actualizaciones"
+  }
+}
