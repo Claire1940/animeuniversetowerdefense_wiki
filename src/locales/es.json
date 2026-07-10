@@ -1,11 +1,1250 @@
 {
+  "seo": {
+    "home": {
+      "title": "Universal Tower Defense Z Wiki - Códigos, Unidades y Tier List",
+      "description": "Universal Tower Defense Z Wiki con códigos activos, tier lists de unidades, rasgos, evoluciones, builds, raids, guías de actualización y consejos para principiantes para jugadores de Roblox.",
+      "keywords": "Anime Universe Tower Defense, Universal Tower Defense Z, Roblox, códigos, unidades, tier list",
+      "ogTitle": "Universal Tower Defense Z Wiki - Códigos, Unidades y Tier List",
+      "ogDescription": "Universal Tower Defense Z Wiki con códigos activos, tier lists de unidades, rasgos, evoluciones, builds, raids, guías de actualización y consejos para principiantes para jugadores de Roblox.",
+      "twitterTitle": "Universal Tower Defense Z Wiki - Códigos, Unidades y Tier List",
+      "twitterDescription": "Universal Tower Defense Z Wiki con códigos activos, tier lists de unidades, rasgos, evoluciones, builds, raids y guías de actualización para jugadores de Roblox."
+    }
+  },
   "nav": {
     "codes": "Códigos",
     "tierList": "Tier List",
     "units": "Unidades",
     "builds": "Builds",
-    "traits": "Traits",
+    "traits": "Rasgos",
     "guide": "Guía",
     "updates": "Actualizaciones"
+  },
+  "common": {
+    "home": "Inicio",
+    "more": "Más",
+    "playNow": "Jugar en Roblox",
+    "switchLanguage": "Cambiar idioma",
+    "switchTheme": "Cambiar tema",
+    "lightMode": "Modo claro",
+    "darkMode": "Modo oscuro",
+    "notFound": "Página no encontrada",
+    "notFoundDescription": "La página que estás buscando no existe.",
+    "backToHome": "Volver al inicio",
+    "relatedArticles": "Artículos relacionados",
+    "readMore": "Leer más",
+    "articlesComingSoon": "Artículos próximamente"
+  },
+  "hero": {
+    "badge": "Tower Defense de estrategia de anime",
+    "title": "Universal Tower Defense Z Wiki",
+    "description": "Invoca unidades inspiradas en el anime, defiéndete de oleadas de enemigos, forma equipos cooperativos, haz reroll de rasgos, usa Etherealize y evoluciona unidades, y completa la Historia, Raids, eventos y modos de juego final. También conocido como Anime Universe Tower Defense en Roblox.",
+    "getFreeCodesCTA": "Consigue códigos gratis",
+    "playOnRobloxCTA": "Jugar en Roblox",
+    "stats": {
+      "stat1": {
+        "value": "281M+",
+        "label": "Visitas totales"
+      },
+      "stat2": {
+        "value": "65K+",
+        "label": "Jugadores en línea"
+      },
+      "stat3": {
+        "value": "201K+",
+        "label": "Favoritos"
+      },
+      "stat4": {
+        "value": "97%",
+        "label": "Calificación de los jugadores"
+      }
+    }
+  },
+  "gameFeature": {
+    "title": "Gameplay de Universal Tower Defense Z",
+    "description": "Invoca unidades inspiradas en el anime, defiéndete de las oleadas de enemigos, haz reroll de rasgos, eterealiza y evoluciona unidades, y completa los modos Historia, Raids, Infinito y Actualización 4 en Roblox."
+  },
+  "tools": {
+    "title": "Anime Universe Tower Defense",
+    "titleHighlight": "Recursos",
+    "subtitle": "Todo lo que necesitas para Universal Tower Defense Z — códigos, unidades, tier lists, rasgos, evoluciones, modos, equipos y guías de actualización.",
+    "cards": [
+      {
+        "icon": "Gift",
+        "title": "Códigos de Anime Universe Tower Defense",
+        "description": "Códigos activos y expirados con unidades gratis, gemas y recompensas de reroll"
+      },
+      {
+        "icon": "GraduationCap",
+        "title": "Guía para principiantes de Anime Universe Tower Defense",
+        "description": "Invocación, colocación, mejoras, monedas y progresión de la historia"
+      },
+      {
+        "icon": "Trophy",
+        "title": "Tier list de unidades de Anime Universe Tower Defense",
+        "description": "Personajes de daño, soportes y alternativas clasificados para la Actualización 4"
+      },
+      {
+        "icon": "Swords",
+        "title": "Las mejores unidades y equipos de Anime Universe Tower Defense",
+        "description": "Mejores carries, opciones de soporte y plantillas de equipos listas para usar"
+      },
+      {
+        "icon": "Dna",
+        "title": "Guía de rasgos de Anime Universe Tower Defense",
+        "description": "Mejores rasgos, dobles rasgos y Stat Rerolls para cada rol"
+      },
+      {
+        "icon": "Gem",
+        "title": "Evoluciones de Anime Universe Tower Defense",
+        "description": "Recetas de evolución, prioridades de eterealización y fuentes de materiales"
+      },
+      {
+        "icon": "Layers",
+        "title": "Modos de juego de Anime Universe Tower Defense",
+        "description": "Historia, Infinito, Raids, Desafíos, Portales y rutas de farmeo"
+      },
+      {
+        "icon": "Rocket",
+        "title": "Actualización 4.0 de Anime Universe Tower Defense",
+        "description": "Nuevas unidades, raids, extracciones, evento de verano y recompensas de lanzamiento"
+      }
+    ]
+  },
+  "modules": {
+    "autdCodes": {
+      "title": "Códigos de Anime Universe Tower Defense",
+      "subtitle": "Códigos activos para unidades gratis, Trait Rerolls, gemas y materiales de evolución.",
+      "intro": "Canjea los últimos códigos de Anime Universe Tower Defense para Universal Tower Defense Z para reclamar unidades gratis, Trait Rerolls, gemas, gemas universales, materiales de evolución y fragmentos de eterealización.",
+      "howToRedeem": [
+        "Abre Universal Tower Defense Z en Roblox",
+        "Toca \"Codes\" en el menú de la derecha",
+        "Escribe o pega cada código exactamente como está escrito",
+        "Presiona \"Redeem\" para reclamar tus recompensas"
+      ],
+      "activeCodes": [
+        {
+          "code": "UTDZApologyForBugs!",
+          "rewards": [
+            "1.500 Trait Rerolls",
+            "1 Boundless Orb"
+          ]
+        },
+        {
+          "code": "WeLoveUTDZ!",
+          "rewards": [
+            "Unidad Fern",
+            "Materiales de evolución de Fern",
+            "12 Fragmentos de Etherealization míticos",
+            "Unidad Kenpachi Evo"
+          ]
+        },
+        {
+          "code": "UTDPhase3!",
+          "rewards": [
+            "Unidad Grimmjow",
+            "Materiales de evolución",
+            "150 Rerolls de rasgos",
+            "100,000 Gemas Universales Parte 1"
+          ]
+        },
+        {
+          "code": "WeLoveBerserker!",
+          "rewards": [
+            "Unidad Berserker",
+            "Materiales de evolución de Berserker",
+            "50 Rerolls de rasgos"
+          ]
+        },
+        {
+          "code": "subto_s3resutiaru!",
+          "rewards": [
+            "60 Rerolls de rasgos",
+            "5,000 Gemas",
+            "50,000 Gemas Universales Parte 2"
+          ]
+        }
+      ],
+      "expiredCodes": [
+        "UTDXRulerIncident!",
+        "UniversalDelayDefense!",
+        "UniversalTowerDefenseZ!",
+        "StoryReworked",
+        "200KInterestedSouls!",
+        "ArrancarSupremacy!"
+      ],
+      "tip": "Los códigos distinguen entre mayúsculas y minúsculas y solo se pueden canjear una vez por cuenta. Si un código dice que es inválido o que ha expirado, ya ha sido eliminado de la lista de activos."
+    },
+    "autdBeginnerGuide": {
+      "title": "Guía para principiantes de Anime Universe Tower Defense",
+      "subtitle": "Una ruta sencilla desde tu primera invocación hasta completar los modos más difíciles.",
+      "intro": "Universal Tower Defense Z combina la invocación de unidades, defensa de oleadas, mejoras de personajes, evolución, Etherealization, rasgos, reliquias y varios modos de juego repetibles. Los principiantes progresan más rápido formando un equipo confiable y concentrando los recursos en su atacante principal.",
+      "steps": [
+        {
+          "title": "Canjea los códigos actuales",
+          "instructions": "Abre Codes en el menú del lado derecho de la pantalla y canjea cada código activo. Las recompensas otorgan unidades gratuitas, Gemas, Gemas Universales, Rerolls de rasgos, materiales de evolución y Fragmentos de Etherealization.",
+          "result": "Empiezas con suficientes recursos y unidades para no depender solo de la invocación inicial."
+        },
+        {
+          "title": "Inspecciona y equipa tus unidades gratuitas",
+          "instructions": "Abre tu inventario de unidades y revisa a Fern, Grimmjow, Berserker, Kenpachi Evo y cualquier personaje invocado. Equipa una mezcla de daño inicial, daño sostenido y soporte en lugar de llenar cada espacio con el mismo rol.",
+          "result": "Tu primer equipamiento podrá manejar diferentes tipos de enemigos y oleadas más largas."
+        },
+        {
+          "title": "Usa Gemas en tus primeras invocaciones",
+          "instructions": "Visita el área de invocación y usa Gemas normales para expandir tu plantel. Guarda los recursos raros de reroll y evolución hasta que obtengas una unidad que siga siendo útil más allá de las primeras etapas de la Historia.",
+          "result": "Obtendrás más opciones de equipo sin desperdiciar materiales valiosos del juego avanzado."
+        },
+        {
+          "title": "Completa las etapas de la Historia en orden",
+          "instructions": "Entra en la primera etapa disponible de la Historia y coloca tu primera unidad cerca de una sección larga del camino enemigo. Añade otra unidad de daño solo cuando la primera no pueda manejar las siguientes oleadas.",
+          "result": "El progreso en la Historia desbloquea oportunidades adicionales de farmeo y contenido más difícil."
+        },
+        {
+          "title": "Mejora primero a un atacante principal (Carry)",
+          "instructions": "Concentra tu dinero inicial en un causante de daño confiable antes de repartir las mejoras por todo el equipo. Añade soporte, control de masas, cobertura de colina o híbrida cuando la fase lo requiera.",
+          "result": "Las mejoras enfocadas producen más daño durante las oleadas donde la vida de los enemigos aumenta rápidamente."
+        },
+        {
+          "title": "Sube de nivel, eterealiza y evoluciona unidades principales",
+          "instructions": "Regresa al lobby después de farmear materiales y mejora las unidades que más usas. Subir de nivel aumenta su fuerza básica, la eterealización proporciona progresión adicional y la evolución desbloquea formas más fuertes para los personajes compatibles.",
+          "result": "Un roster pequeño y mejorado es más valioso que una gran colección de unidades sin desarrollar."
+        },
+        {
+          "title": "Crea equipos para modos avanzados",
+          "instructions": "Después de establecer un equipo de Historia, crea equipamientos separados para Infinito, Raids, Desafíos, eventos, Virtual Realm y fases enfocadas en jefes. Incluye unidades de economía y soporte siempre que un modo te dé suficiente tiempo para beneficiarte de ellas.",
+          "result": "Los equipos específicos para cada modo mejoran la velocidad de farmeo y la consistencia en las oleadas tardías."
+        }
+      ]
+    },
+    "autdUnitTierList": {
+      "title": "Tier List de unidades de Anime Universe Tower Defense",
+      "subtitle": "Los mejores causantes de daño, carries de endgame, unidades de soporte y alternativas prácticas de la Update 4.",
+      "intro": "Esta tier list prioriza el valor de combate total en lugar de solo el daño. El tipo de colocación, la cobertura elemental, los buffs de equipo, el control de masas, el rendimiento contra jefes, la escala de mejoras, la evolución, los rasgos, las reliquias y la eterealización afectan el rendimiento de una unidad en el contenido difícil.",
+      "tiers": [
+        {
+          "tier": "S+",
+          "label": "Mejores DPS de la Update 4",
+          "units": [
+            {
+              "name": "Zombie Apostle (Ascension)",
+              "role": "DPS",
+              "element": "Agua",
+              "bestFor": "Equipos de daño de la Update 4"
+            },
+            {
+              "name": "Visionary (Unrivaled)",
+              "role": "DPS",
+              "element": "Rosa",
+              "bestFor": "Equipos de endgame de alta inversión"
+            },
+            {
+              "name": "Trickster (Phantom)",
+              "role": "DPS",
+              "element": "Oscuridad",
+              "bestFor": "Cobertura de daño del elemento Oscuridad"
+            },
+            {
+              "name": "The Terror (Ascension)",
+              "role": "DPS",
+              "element": "Oscuridad",
+              "bestFor": "Daño en el juego tardío"
+            },
+            {
+              "name": "The Fatality (Ascension)",
+              "role": "DPS",
+              "element": "Rosa",
+              "bestFor": "Limpieza de oleadas en el endgame"
+            },
+            {
+              "name": "The Almighty",
+              "role": "DPS",
+              "element": "Agua",
+              "bestFor": "Contenido de alto nivel"
+            },
+            {
+              "name": "Symbiotic Alien (Apex)",
+              "role": "DPS",
+              "element": "Oscuridad",
+              "bestFor": "Equipos carry de la Update 4"
+            },
+            {
+              "name": "Moonless Sky",
+              "role": "DPS",
+              "element": "Dark",
+              "bestFor": "Equipos de elemento Dark"
+            },
+            {
+              "name": "Light Prince (Ascension)",
+              "role": "DPS",
+              "element": "Light",
+              "bestFor": "Cobertura de elemento Light"
+            },
+            {
+              "name": "Iron Billionaire (Genius)",
+              "role": "DPS",
+              "element": "Light",
+              "bestFor": "Progresión de la Update 4"
+            },
+            {
+              "name": "Ice Queen (White Haze)",
+              "role": "DPS",
+              "element": "Ice",
+              "bestFor": "Equipos de daño de elemento Ice"
+            },
+            {
+              "name": "Human Spider (Responsible)",
+              "role": "DPS",
+              "element": "Rose",
+              "bestFor": "Equipos del evento de Spider-Man"
+            }
+          ]
+        },
+        {
+          "tier": "S",
+          "label": "Carries meta probados",
+          "units": [
+            {
+              "name": "Joyful Captain",
+              "role": "DPS principal",
+              "element": "Utilidad mixta",
+              "bestFor": "Infinito, bosses y progresión del late-game"
+            },
+            {
+              "name": "Jinoo (Shadow Monarch)",
+              "role": "DPS escalable",
+              "element": "Dark",
+              "bestFor": "Infinito y escenarios largos"
+            },
+            {
+              "name": "The Strongest of Today",
+              "role": "DPS y utilidad",
+              "element": "Light",
+              "bestFor": "Raids, bosses y oleadas difíciles"
+            },
+            {
+              "name": "The Strongest in History",
+              "role": "DPS para bosses",
+              "element": "Carry de daño",
+              "bestFor": "Batallas de bosses y escenarios del endgame"
+            },
+            {
+              "name": "King Sailor (Unrivaled)",
+              "role": "DPS y soporte de equipo",
+              "element": "Agua",
+              "bestFor": "Equipos de Infinito y endgame general"
+            },
+            {
+              "name": "Ancient Mage (Sage)",
+              "role": "DPS y soporte",
+              "element": "Utilidad",
+              "bestFor": "Historia, Raids y equipos flexibles"
+            }
+          ]
+        },
+        {
+          "tier": "A",
+          "label": "Alternativas fuertes",
+          "units": [
+            {
+              "name": "Gluttonous Warlord (Despair)",
+              "role": "DPS terrestre",
+              "element": "Daño",
+              "bestFor": "Daño a jefes y niveles de late-game"
+            },
+            {
+              "name": "Triple Threat (Unrivaled)",
+              "role": "DPS y soporte de líder",
+              "element": "Viento",
+              "bestFor": "Jefes y equipos temáticos"
+            },
+            {
+              "name": "Marine Hero (Grand Fist)",
+              "role": "DPS terrestre",
+              "element": "Daño",
+              "bestFor": "Historia, Infinito y Raids"
+            },
+            {
+              "name": "Alpha Devil (Omega)",
+              "role": "DPS y aturdimiento",
+              "element": "Control",
+              "bestFor": "Control de jefes y equipos de evento"
+            },
+            {
+              "name": "Phantom Captain (Carrier)",
+              "role": "DPS de invocación",
+              "element": "Daño de área",
+              "bestFor": "Limpieza de oleadas y daño sostenido"
+            },
+            {
+              "name": "Mimicry Sorcerer (Cursed Love)",
+              "role": "DPS de sincronización",
+              "element": "Daño",
+              "bestFor": "Equipos de sincronización y niveles de late-game"
+            }
+          ]
+        },
+        {
+          "tier": "Soporte",
+          "label": "Buffers principales y utilidad",
+          "units": [
+            {
+              "name": "Love Goddess",
+              "role": "Soporte de buffs",
+              "element": "Rose",
+              "bestFor": "Equipos de carry único y endgame"
+            },
+            {
+              "name": "Prodigy Mage (Apprentice)",
+              "role": "Soporte de buff y stall",
+              "element": "Rose",
+              "bestFor": "Equipos de Infinito y con mucho soporte"
+            },
+            {
+              "name": "Karbonoto (Sage)",
+              "role": "Soporte",
+              "element": "Rose",
+              "bestFor": "Amplificación de daño y utilidad de equipo"
+            },
+            {
+              "name": "Sasku (Great War)",
+              "role": "Daño y utilidad",
+              "element": "Dark",
+              "bestFor": "Progresión de historia y espacios de soporte"
+            },
+            {
+              "name": "Virtual Idol (Superstar)",
+              "role": "Soporte de buff",
+              "element": "Utilidad",
+              "bestFor": "Equipos enfocados en rango y daño"
+            }
+          ]
+        }
+      ]
+    },
+    "autdBestUnits": {
+      "title": "Mejores Unidades y Equipos de Anime Universe Tower Defense",
+      "subtitle": "Crea equipos equilibrados con un carry principal, daño secundario, cobertura de jefes, soporte, control y un espacio de economía.",
+      "intro": "El equipo más fuerte depende del modo y la alineación enemiga. La Historia favorece el daño inicial asequible, el Infinito premia el escalado y los buffs, los jefes requieren daño concentrado a un solo objetivo, y los equipos de la Actualización 4 obtienen cobertura elemental adicional de las nuevas unidades inspiradas en Bleach, Persona y Spider-Man.",
+      "roles": [
+        {
+          "name": "Mejores Carries Todo Terreno",
+          "purpose": "Daño confiable en varios modos",
+          "units": [
+            "Joyful Captain",
+            "King Sailor (Unrivaled)",
+            "Ancient Mage (Sage)"
+          ],
+          "usage": "Elige uno como la unidad principal que recibirá tus mejoras más tempranas y costosas."
+        },
+        {
+          "name": "Mejor Escalado y Daño a Jefes",
+          "purpose": "Etapas largas, oleadas de Infinito, Raids y jefes",
+          "units": [
+            "Jinoo (Shadow Monarch)",
+            "The Strongest in History",
+            "The Strongest of Today",
+            "Triple Threat (Unrivaled)"
+          ],
+          "usage": "Combina un carry de escalado con una unidad dedicada a jefes en lugar de depender de un solo personaje para cada enemigo."
+        },
+        {
+          "name": "Mejores Unidades de Daño de la Actualización 4",
+          "purpose": "Progresión actual de la Actualización 4 y cobertura elemental",
+          "units": [
+            "Symbiotic Alien (Apex)",
+            "Human Spider (Responsible)",
+            "Visionary (Unrivaled)",
+            "Zombie Apostle (Ascension)",
+            "The Almighty"
+          ],
+          "usage": "Selecciona unidades con diferentes elementos para evitar crear un equipo que funcione bien contra un solo tipo de enemigo."
+        },
+        {
+          "name": "Mejores Unidades de Soporte y Economía",
+          "purpose": "Potenciar carries y financiar mejoras costosas",
+          "units": [
+            "Love Goddess",
+            "Virtual Idol (Superstar)",
+            "Prodigy Mage (Apprentice)",
+            "Fastcart"
+          ],
+          "usage": "Coloca unidades de buff donde su área cubra a los atacantes principales y despliega la economía temprano en escenarios más largos."
+        }
+      ],
+      "teams": [
+        {
+          "name": "Equipo de Historia para Principiantes",
+          "purpose": "Progresión inicial en la Historia con unidades accesibles",
+          "slots": [
+            {
+              "role": "Economía",
+              "unit": "Fastcart"
+            },
+            {
+              "role": "DPS Principal",
+              "unit": "Berserker (Enraged)"
+            },
+            {
+              "role": "DPS Secundario",
+              "unit": "Jane Juliet (Larper)"
+            },
+            {
+              "role": "Daño en área",
+              "unit": "Admiral (Magma)"
+            },
+            {
+              "role": "Utilidad",
+              "unit": "Sasku (Great War)"
+            },
+            {
+              "role": "Daño flexible",
+              "unit": "Rule (ROOM)"
+            }
+          ],
+          "playstyle": "Despliega primero una unidad de daño asequible, establece Fastcart cuando la fase lo permita y concentra las mejoras en Berserker o en tu carry de reemplazo más fuerte."
+        },
+        {
+          "name": "Equipo de Escalado Infinito",
+          "purpose": "Partidas largas y oleadas tardías con mucha vida",
+          "slots": [
+            {
+              "role": "Economía",
+              "unit": "Fastcart"
+            },
+            {
+              "role": "Carry Principal",
+              "unit": "Jinoo (Shadow Monarch)"
+            },
+            {
+              "role": "Carry Secundario",
+              "unit": "Joyful Captain"
+            },
+            {
+              "role": "Daño y valor para el equipo",
+              "unit": "King Sailor (Unrivaled)"
+            },
+            {
+              "role": "Soporte de buff",
+              "unit": "Virtual Idol (Superstar)"
+            },
+            {
+              "role": "Soporte premium",
+              "unit": "Love Goddess"
+            }
+          ],
+          "playstyle": "Desarrolla la economía temprano, posiciona ambas unidades de soporte alrededor del grupo principal de daño y prioriza los carries que sigan escalando en las oleadas tardías."
+        },
+        {
+          "name": "Equipo de Raid y Jefes",
+          "purpose": "Daño concentrado contra objetivos resistentes",
+          "slots": [
+            {
+              "role": "Economía",
+              "unit": "Fastcart"
+            },
+            {
+              "role": "Asesino de jefes",
+              "unit": "El más fuerte de la historia"
+            },
+            {
+              "role": "DPS principal",
+              "unit": "El más fuerte de la actualidad"
+            },
+            {
+              "role": "DPS secundario contra jefes",
+              "unit": "Triple amenaza (Sin rival)"
+            },
+            {
+              "role": "Buff y ralentización",
+              "unit": "Mago prodigio (Aprendiz)"
+            },
+            {
+              "role": "Buff de equipo",
+              "unit": "Diosa del amor"
+            }
+          ],
+          "playstyle": "Coloca a los asesinos de jefes donde tengan la ventana de ataque más larga y mantén a ambas unidades de soporte dentro del rango del grupo de daño principal."
+        },
+        {
+          "name": "Equipo flexible de la Actualización 4",
+          "purpose": "Nuevas fases, eventos y farmeo general de la Actualización 4",
+          "slots": [
+            {
+              "role": "Economía",
+              "unit": "Fastcart"
+            },
+            {
+              "role": "DPS oscuro",
+              "unit": "Alienígena simbiótico (Apex)"
+            },
+            {
+              "role": "DPS Rosé",
+              "unit": "Araña humana (Responsable)"
+            },
+            {
+              "role": "Carry adicional",
+              "unit": "Visionario (Sin rival)"
+            },
+            {
+              "role": "Soporte de buff",
+              "unit": "Idol virtual (Superestrella)"
+            },
+            {
+              "role": "Soporte de equipo",
+              "unit": "Diosa del amor"
+            }
+          ],
+          "playstyle": "Usa las tres ranuras de daño para cobertura elemental mientras las dos unidades de soporte fortalecen a todo el grupo de carrys."
+        }
+      ]
+    },
+    "autdTraitsRerolls": {
+      "title": "Guía de rasgos y rerolls de Anime Universe Tower Defense",
+      "subtitle": "Compara los rasgos más fuertes según la probabilidad de obtención, el efecto en combate y el rol ideal de la unidad.",
+      "intro": "Los Rerolls de Rasgos cambian el rasgo pasivo de una unidad, mientras que los Rerolls de Estadísticas cambian sus rangos de estadísticas individuales. Visita el área de Rasgos y Estadísticas dentro del edificio de Mejoras, configura el salto automático antes de realizar giros masivos y protege los rangos de estadísticas altos con Stat Locks.",
+      "traits": [
+        {
+          "name": "Gobernante",
+          "rollChance": "0.1%",
+          "effects": [
+            "+200% de daño",
+            "-20% de enfriamiento",
+            "+30% de rango",
+            "+20% de ingresos",
+            "Limita la unidad a 1 colocación"
+          ],
+          "bestFor": "Mejores carrys, asesinos de jefes y poderosas unidades de colocación única",
+          "drawback": "La unidad solo se puede colocar una vez.",
+          "rerollPriority": "Prioridad máxima cuando la unidad tiene un buen rendimiento con una sola colocación."
+        },
+        {
+          "name": "Eterno",
+          "rollChance": "0.2%",
+          "effects": [
+            "-20% de enfriamiento",
+            "+5% de daño por oleada",
+            "+2.5% de rango por oleada",
+            "Tiene un límite de +60% de daño y +30% de rango"
+          ],
+          "bestFor": "Modo Infinito, raids largas y unidades de DPS con escalado",
+          "drawback": "Necesita varias oleadas para alcanzar su máximo poder.",
+          "rerollPriority": "Conservar en unidades con escalado para el juego tardío."
+        },
+        {
+          "name": "Fisión",
+          "rollChance": "0.15%",
+          "effects": [
+            "+15% de daño",
+            "-15% de enfriamiento",
+            "+25% de rango",
+            "Añade daño de radiación a lo largo del tiempo"
+          ],
+          "bestFor": "DPS general y unidades que necesitan daño, velocidad y rango equilibrados",
+          "drawback": "La radiación es menos útil contra enemigos que resisten el efecto.",
+          "rerollPriority": "Una opción sólida para conservar en el juego tardío para la mayoría de las unidades de daño."
+        },
+        {
+          "name": "Astral",
+          "rollChance": "0.45%",
+          "effects": [
+            "+20% de duración de aflicción",
+            "-20% de enfriamiento",
+            "+15% de rango",
+            "Permite que los efectos de daño a lo largo del tiempo se acumulen",
+            "Limita la unidad a 1 colocación"
+          ],
+          "bestFor": "Unidades enfocadas en quemadura, sangrado, veneno, magia y otras aflicciones",
+          "drawback": "Las unidades normales de daño directo reciben menos valor.",
+          "rerollPriority": "Reservar para un carry comprobado de daño a lo largo del tiempo."
+        },
+        {
+          "name": "Sagrado",
+          "rollChance": "0.3%",
+          "effects": [
+            "+25% de daño",
+            "-10% de enfriamiento",
+            "+25% de rango",
+            "-15% de costo de colocación y mejora"
+          ],
+          "bestFor": "Unidades de DPS flexibles, carries costosos y despliegue temprano",
+          "drawback": "No tiene un efecto especializado contra jefes o de escalado.",
+          "rerollPriority": "Un rasgo seguro y multiusos para casi cualquier unidad de combate."
+        },
+        {
+          "name": "Duelista",
+          "rollChance": "0.8%",
+          "effects": [
+            "+25% de probabilidad de crítico",
+            "+20% de rango",
+            "+35% de Daño a Jefes"
+          ],
+          "bestFor": "Jefes de raid, enemigos de élite y builds de golpe crítico",
+          "drawback": "El bono de jefe contribuye menos durante las oleadas normales.",
+          "rerollPriority": "Mantener en unidades dedicadas a eliminar jefes."
+        },
+        {
+          "name": "Afortunado",
+          "rollChance": "1%",
+          "effects": [
+            "+20% de Ingresos"
+          ],
+          "bestFor": "Unidades de farmeo y economía como Fastcart",
+          "drawback": "Solo beneficia a las unidades que generan dinero.",
+          "rerollPriority": "Mantener en unidades de farmeo y hacer reroll en unidades de combate normales."
+        },
+        {
+          "name": "Dobles Rasgos y Rerolls de Estadísticas",
+          "rollChance": "Sistemas separados",
+          "effects": [
+            "Una unidad puede tener dos rasgos diferentes",
+            "El mismo rasgo no puede ocupar ambas ranuras",
+            "Los Bloqueos de Estadísticas preservan los rangos de estadísticas seleccionados",
+            "El auto-skip protege las combinaciones seleccionadas"
+          ],
+          "bestFor": "Unidades Secretas, Universales, Unrivaled, Boundless y limitadas",
+          "drawback": "Hacer reroll sin filtros de skip o Bloqueos de Estadísticas puede eliminar resultados valiosos.",
+          "rerollPriority": "Termina primero el rasgo principal, bloquea los rangos de estadísticas fuertes y luego haz reroll en las estadísticas débiles restantes."
+        }
+      ]
+    },
+    "autdEvolutionEtherealize": {
+      "title": "Guía de Evolución y Etherealize de Anime Universe Tower Defense",
+      "subtitle": "Planifica las eliminaciones, fragmentos, drops únicos y recursos de Etherealization antes de mejorar.",
+      "intro": "La evolución transforma a las unidades elegibles en formas más fuertes y puede desbloquear nuevos ataques, pasivas o etapas de evolución adicionales. La Etherealization es un sistema de progresión independiente de E1 a E6 que utiliza recursos de unidades duplicadas o Fragmentos de Etherealization de la misma rareza.",
+      "evolutions": [
+        {
+          "baseUnit": "Jinoo",
+          "evolvedForm": "Jinoo (Monarch)",
+          "takedowns": "7,500",
+          "materials": [
+            "Fragmento Universal x2",
+            "Token de Sombra x1",
+            "Daga del Rey Demonio x2"
+          ],
+          "mainSources": "Contenido de progresión de creación y de temática de sombras",
+          "investmentPriority": "Alto",
+          "notes": "Desbloquea el siguiente camino hacia Jinoo, Shadow Monarch."
+        },
+        {
+          "baseUnit": "Jinoo (Monarch)",
+          "evolvedForm": "Jinoo, Shadow Monarch",
+          "takedowns": "0",
+          "materials": [
+            "Fragmento Universal x5",
+            "Orbe sin Límites x1",
+            "Fragmento Ardiente x10",
+            "Huevo del Rey Hormiga x1",
+            "Espada de Caballero Sombra x1",
+            "Fragmento Fantasma x10",
+            "Ficha de Sombra x5"
+          ],
+          "mainSources": "Grieta Universal, artesanía, raids y botines relacionados con jefes",
+          "investmentPriority": "Muy alta",
+          "notes": "Recolecta el Orbe Sin Límites y los objetos de jefe únicos antes de gastar los fragmentos comunes."
+        },
+        {
+          "baseUnit": "Bio-Androide",
+          "evolvedForm": "Bio-Androide (Imperfecto)",
+          "takedowns": "5,500",
+          "materials": [
+            "Huevo de Bio-Androide x1",
+            "Fragmento Universal x3",
+            "Emblema Carmesí x1",
+            "Fragmento de Cielo x8",
+            "Fragmento Fantasma x5",
+            "Semilla Zen x50"
+          ],
+          "mainSources": "Niveles del Portal de Arena Perfecta",
+          "investmentPriority": "Alta",
+          "notes": "Farmea primero el Huevo de Bio-Androide y el Emblema Carmesí exclusivos del portal."
+        },
+        {
+          "baseUnit": "Ichiko",
+          "evolvedForm": "Ichiko (Furia)",
+          "takedowns": "7,500",
+          "materials": [
+            "Fragmento Ardiente x6",
+            "Fragmento Universal x3",
+            "Fragmento Sagrado x3",
+            "Esencia Hollow x1",
+            "Fragmento Fantasma x6"
+          ],
+          "mainSources": "Cima de la Raid del Castillo Hueco y su Tienda de Raid",
+          "investmentPriority": "Alta",
+          "notes": "La Esencia Hollow es el objeto de evolución principal específico de la unidad."
+        },
+        {
+          "baseUnit": "Primer Emperador",
+          "evolvedForm": "Primer Emperador (Supremo)",
+          "takedowns": "5,500",
+          "materials": [
+            "Fragmento de Pétalo x8",
+            "Fragmento Universal x3",
+            "Fragmento Sagrado x2",
+            "Fragmento de Cielo x5",
+            "Venda del Emperador x1"
+          ],
+          "mainSources": "Progresión del evento Ragnarok",
+          "investmentPriority": "Alta durante el evento",
+          "notes": "Asegura la Venda del Emperador antes de gastar fragmentos en unidades secundarias."
+        },
+        {
+          "baseUnit": "Main Carry a largo plazo",
+          "evolvedForm": "Eterealización E1-E6",
+          "takedowns": "Sin requisito de eliminaciones",
+          "materials": [
+            "Recursos de unidades duplicadas",
+            "Fragmentos de eterealización míticos",
+            "Fragmentos de eterealización exclusivos",
+            "Fragmentos de eterealización secretos"
+          ],
+          "mainSources": "Códigos, raids, desafíos, eventos, tiendas y unidades duplicadas",
+          "investmentPriority": "Muy alto",
+          "notes": "Usa fragmentos raros en la unidad que complete la mayor cantidad de modos de Historia, Raid, Infinito y de eventos."
+        }
+      ]
+    },
+    "autdGameModes": {
+      "title": "Guía de farmeo y modos de juego de Anime Universe Tower Defense",
+      "subtitle": "Elige un modo según el recurso que necesites en lugar de completar repetidamente la fase más difícil.",
+      "intro": "Comienza con la progresión de Historia y Leyenda, luego pasa a Desafíos, Infinito, Reino Virtual, raids, portales y extracciones de la Actualización 4. Un equipo de farmeo confiable debe incluir daño temprano, cobertura aérea, daño a jefes, soporte y una unidad de economía.",
+      "modes": [
+        {
+          "mode": "Fases de Historia y Leyenda",
+          "category": "Progresión permanente",
+          "difficulty": "De principiante a endgame",
+          "primaryRewards": [
+            "Gemas",
+            "Oro",
+            "Experiencia de unidad",
+            "Desbloqueos de fases",
+            "Materiales de evolución",
+            "Botines específicos de unidad"
+          ],
+          "bestFor": "Desbloquear mapas, completar eliminaciones y recolectar objetos de evolución",
+          "farmingRoute": "Completa los actos de Historia una vez, luego repite la fase de Leyenda conectada al objeto de evolución requerido.",
+          "keyNotes": "Las rutas principales incluyen Ninja Forest, Marine Base, Hollowed Moon, The Invasion, Shinobi World War, Beyond Fantasy y Sorcerer Games."
+        },
+        {
+          "mode": "Modo Infinito",
+          "category": "Farmeo permanente",
+          "difficulty": "Escala por oleada y dificultad",
+          "primaryRewards": [
+            "Gemas",
+            "Oro",
+            "Experiencia de unidad",
+            "Eliminaciones"
+          ],
+          "bestFor": "Eliminaciones de evolución, subida de nivel de unidades y pruebas de equipo en oleadas largas",
+          "farmingRoute": "Usa la dificultad más alta con la que sigas alcanzando la oleada de recompensa objetivo de manera constante.",
+          "keyNotes": "Lleva economía, daño de área, cobertura aérea, soporte y un asesino de jefes para las últimas oleadas."
+        },
+        {
+          "mode": "Desafíos rotativos",
+          "category": "Farmeo permanente",
+          "difficulty": "Depende del modificador activo",
+          "primaryRewards": [
+            "Gemas",
+            "Rerolls de rasgos",
+            "Rerolls de estadísticas",
+            "Recursos de mejora"
+          ],
+          "bestFor": "Rutas cortas y repetibles de recursos",
+          "farmingRoute": "Prioriza los modificadores que tu roster actual pueda contrarrestar rápidamente.",
+          "keyNotes": "Los desafíos son una de las principales fuentes repetibles de recursos de reroll."
+        },
+        {
+          "mode": "Reino Virtual",
+          "category": "Modo Roguelike permanente",
+          "difficulty": "Dependiente de la build",
+          "primaryRewards": [
+            "Tokens virtuales",
+            "Gemas",
+            "Recompensas de la Tienda Virtual"
+          ],
+          "bestFor": "Farming de tokens y progresión flexible del equipo",
+          "farmingRoute": "Elige bonificaciones que mejoren a un carry principal y a sus unidades de soporte.",
+          "keyNotes": "Los Tokens virtuales se pueden canjear en la Tienda Virtual."
+        },
+        {
+          "mode": "Raids y Reaper City Acto 5",
+          "category": "Progresión de raids",
+          "difficulty": "Midgame a Endgame",
+          "primaryRewards": [
+            "Moneda de raid",
+            "Drops de unidades",
+            "Objetos de evolución únicos",
+            "Fragmentos",
+            "Materiales de la Tienda de Raids"
+          ],
+          "bestFor": "Adquisición de unidades específicas y cuellos de botella de evolución",
+          "farmingRoute": "Repite el acto más alto que puedas completar de forma rápida y constante.",
+          "keyNotes": "La Actualización 4 añade Reaper City. Otras rutas de raid incluyen Top of Hueco Castle, Shinobi Battlefield y Crimson Throne Chamber."
+        },
+        {
+          "mode": "Portales, Universal Tears y Ultra Bosses",
+          "category": "Farming específico de Endgame",
+          "difficulty": "Por niveles",
+          "primaryRewards": [
+            "Unidades raras",
+            "Llaves de portal",
+            "Materiales Boundless",
+            "Objetos de evolución únicos",
+            "Fragmentos de alta rareza"
+          ],
+          "bestFor": "Recetas que requieren un drop de boss o portal específico",
+          "farmingRoute": "Completa los niveles de portal en orden y conserva las llaves necesarias para desbloquear el siguiente nivel.",
+          "keyNotes": "Perfect Arena proporciona objetos de evolución de Bio-Android, mientras que las rutas de Universal Rift proporcionan materiales Boundless."
+        },
+        {
+          "mode": "Extracción de Lucha contra el Crimen",
+          "category": "Contenido de la Actualización 4",
+          "difficulty": "Extracción de Endgame",
+          "primaryRewards": [
+            "Human Spider (Responsable)",
+            "Iron Billionaire (Genio)",
+            "Symbiotic Alien (Apex)"
+          ],
+          "bestFor": "Creando el roster con temática de araña de la Actualización 4",
+          "farmingRoute": "Usa una preparación inicial rápida, un gran daño contra jefes y suficiente cobertura para completar cada objetivo.",
+          "keyNotes": "Symbiotic Alien (Apex) también tiene una versión Shiny seriada limitada."
+        },
+        {
+          "mode": "Extracción de Golden Palace",
+          "category": "Contenido de la Actualización 4",
+          "difficulty": "Extracción de endgame",
+          "primaryRewards": [
+            "Trickster (Phantom)",
+            "Materiales inspirados en Persona",
+            "Recursos de progresión de la Actualización 4"
+          ],
+          "bestFor": "Desbloqueando a Trickster y preparando la ruta de evolución de Visionary",
+          "farmingRoute": "Repite la ruta de extracción exitosa más rápida y guarda los materiales hasta que la receta completa esté disponible.",
+          "keyNotes": "Golden Palace es la ruta principal de la Actualización 4 conectada a Trickster (Phantom)."
+        },
+        {
+          "mode": "Evento de Verano 2026",
+          "category": "Evento de tiempo limitado",
+          "difficulty": "Varía según la etapa del evento",
+          "primaryRewards": [
+            "Moneda de verano",
+            "Recompensas de la tienda del evento",
+            "Recompensas limitadas",
+            "Rerolls de rasgos"
+          ],
+          "bestFor": "Recompensas de temporada no disponibles a través de la progresión normal de la Historia",
+          "farmingRoute": "Canjea el código Summer2026!, selecciona la recompensa de la tienda más importante y repite la etapa más corta y confiable.",
+          "keyNotes": "Compra recompensas limitadas antes de gastar Moneda de verano en materiales repetibles."
+        }
+      ]
+    },
+    "autdUpdate4": {
+      "title": "Guía de la Actualización 4.0 de Anime Universe Tower Defense",
+      "subtitle": "La Actualización 4.0 lanza la era de UTDZ con nuevas unidades de Reaper, arañas e inspiradas en Persona, raids, extracciones y contenido de verano.",
+      "intro": "El tráiler oficial de la Actualización 4.0 presenta la actualización como el lanzamiento más grande del juego. Canjea las recompensas de lanzamiento primero, desbloquea los nuevos modos y elige una unidad de la Actualización 4 antes de gastar raros Rerolls de rasgos, Rerolls de estadísticas, materiales de evolución o Fragmentos de Etherealization.",
+      "entries": [
+        {
+          "date": "9 de julio de 2026",
+          "category": "Actualización principal",
+          "headline": "Universal Tower Defense Z se lanza",
+          "details": "La experiencia adopta el nombre de Universal Tower Defense Z mientras conserva la invocación, la defensa de oleadas, el juego cooperativo, la subida de nivel, la Etherealization y la evolución.",
+          "featuredContent": [
+            "Marca UTDZ",
+            "Nueva presentación de la actualización",
+            "Nuevas rutas de progresión de unidades"
+          ]
+        },
+        {
+          "date": "9 de julio de 2026",
+          "category": "Contenido de Reaper",
+          "headline": "Reaper City y Hollow Destroyers vs Reapers",
+          "details": "La ruta con temática de Reaper añade nuevo contenido de raids, objetivos de unidades y progresión de evolución.",
+          "featuredContent": [
+            "Flame Captain (Ember)",
+            "Light Prince (Ascension)",
+            "The King",
+            "Raid de Reaper City",
+            "Hollow Destroyers vs Reapers"
+          ]
+        },
+        {
+          "date": "9 de julio de 2026",
+          "category": "Contenido de araña",
+          "headline": "Extracción de lucha contra el crimen",
+          "details": "La nueva ruta de extracción introduce tres unidades con temática de araña y sus materiales de progresión asociados.",
+          "featuredContent": [
+            "Human Spider (Responsable)",
+            "Iron Billionaire (Genio)",
+            "Symbiotic Alien (Apex)"
+          ]
+        },
+        {
+          "date": "9 de julio de 2026",
+          "category": "Contenido inspirado en Persona",
+          "headline": "Extracción de Golden Palace",
+          "details": "Golden Palace introduce a Trickster (Phantom) y se conecta con la nueva ruta de progresión de Visionary.",
+          "featuredContent": [
+            "Trickster (Phantom)",
+            "Visionary (Unrivaled)",
+            "Extracción de Golden Palace"
+          ]
+        },
+        {
+          "date": "Lanzamiento de la Actualización 4",
+          "category": "Evolución y rareza",
+          "headline": "Nuevas unidades evolucionadas, Unrivaled y Shiny",
+          "details": "Las unidades de la actualización incluyen versiones normales y Shiny, mientras que Visionary recibe una ruta de evolución Unrivaled.",
+          "featuredContent": [
+            "Visionary (Unrivaled)",
+            "Nuevos materiales de evolución",
+            "Variantes de unidades normales",
+            "Variantes de unidades Shiny"
+          ]
+        },
+        {
+          "date": "Verano de 2026",
+          "category": "Evento de temporada",
+          "headline": "Evento de verano y moneda de verano",
+          "details": "El evento de temporada añade escenarios dedicados, moneda de verano y una tienda de evento con recompensas limitadas.",
+          "featuredContent": [
+            "Moneda de verano",
+            "Escenarios del evento",
+            "Recompensas limitadas de la tienda",
+            "Código Summer2026!"
+          ]
+        },
+        {
+          "date": "Lanzamiento de la Actualización 4",
+          "category": "Coleccionable limitado",
+          "headline": "Symbiotic Alien (Apex) Shiny serializado",
+          "details": "La versión Shiny serializada de Symbiotic Alien (Apex) es limitada, y cada copia serializada tiene su propia identidad.",
+          "featuredContent": [
+            "Symbiotic Alien (Apex)",
+            "Variante Shiny serializada"
+          ]
+        },
+        {
+          "date": "Lanzamiento de la Actualización 4",
+          "category": "Recompensas de lanzamiento",
+          "headline": "Códigos y recursos gratuitos de la Actualización 4",
+          "details": "Los códigos de lanzamiento proporcionan un Ruler Ticket, Trait Rerolls, Gemas, Gemas Universales y Moneda de Verano.",
+          "featuredContent": [
+            "SrryForWhoopsie! — 1 Ruler Ticket",
+            "ReapersVsHollowDestroyers — 50 Trait Rerolls y 10,000 Gemas",
+            "SpectacularSpider! — 50 Trait Rerolls y 100,000 Gemas Universales",
+            "TheGuyFromSmash! — 50 Trait Rerolls y 100,000 Gemas Universales",
+            "Summer2026! — 50 Trait Rerolls y 10,000 Moneda de Verano"
+          ]
+        },
+        {
+          "date": "Después del lanzamiento",
+          "category": "Servicio en vivo",
+          "headline": "Actualizaciones de equilibrio, correcciones y ajustes de recompensas",
+          "details": "Las actualizaciones posteriores al lanzamiento cubren el equilibrio de unidades, recompensas de modo, corrección de errores, reinicios de servidor, anuncios y códigos adicionales.",
+          "featuredContent": [
+            "Cambios de equilibrio de unidades",
+            "Ajustes de recompensas de modo",
+            "Corrección de errores",
+            "Anuncios oficiales"
+          ]
+        }
+      ]
+    }
+  },
+  "faq": {
+    "title": "Anime Universe Tower Defense",
+    "titleHighlight": "FAQ",
+    "subtitle": "Preguntas frecuentes sobre Anime Universe Tower Defense y Universal Tower Defense Z en Roblox.",
+    "questions": [
+      {
+        "question": "¿Qué es Anime Universe Tower Defense en Roblox?",
+        "answer": "Anime Universe Tower Defense es un nombre de búsqueda popular para Universal Tower Defense Z, un juego de defensa de torres inspirado en el anime en Roblox donde invocas unidades, defiendes contra oleadas de enemigos, haces reroll de rasgos y evolucionas personajes."
+      },
+      {
+        "question": "¿Dónde canjeo los códigos de Anime Universe Tower Defense?",
+        "answer": "Abre Universal Tower Defense Z en Roblox, toca en Codes en el menú de la derecha, ingresa cada código exactamente como está escrito y presiona Redeem. Los códigos distinguen entre mayúsculas y minúsculas y solo se pueden reclamar una vez por cuenta."
+      },
+      {
+        "question": "¿Es Anime Universe Tower Defense gratuito?",
+        "answer": "Sí. Universal Tower Defense Z es gratuito en Roblox. Puedes invocar unidades, completar la Story, unirte a Raids y canjear códigos sin gastar Robux, con compras opcionales dentro del juego disponibles."
+      },
+      {
+        "question": "¿Qué son los Traits y Trait Rerolls en Anime Universe Tower Defense?",
+        "answer": "Los Traits son modificadores pasivos que potencian el daño, enfriamiento, rango o ingresos de una unidad. Los Trait Rerolls cambian el trait pasivo, mientras que los Stat Rerolls cambian los grados de estadísticas individuales. Usa Stat Locks para proteger los grados fuertes."
+      },
+      {
+        "question": "¿Cómo funcionan la evolución y el Etherealize en Anime Universe Tower Defense?",
+        "answer": "La evolución convierte unidades elegibles en formas más fuertes usando fragmentos, drops únicos y materiales de raids y eventos. Etherealize es un sistema separado de E1 a E6 que usa recursos de unidades duplicadas o Etherealization Shards de rareza coincidente."
+      },
+      {
+        "question": "¿Anime Universe Tower Defense admite juego cooperativo?",
+        "answer": "Sí. Universal Tower Defense Z admite el juego cooperativo junto con la invocación, defensa de oleadas, subida de nivel, Etherealization y evolución, por lo que puedes aliarte con otros jugadores para Raids, Infinite y contenido de la Update 4."
+      }
+    ]
+  },
+  "cta": {
+    "title": "¿Listo para jugar Universal Tower Defense Z?",
+    "description": "¡Únete a la comunidad de Universal Tower Defense Z en Discord para códigos, actualizaciones y discusiones!",
+    "joinCommunity": "Unirse a Discord",
+    "joinGame": "Jugar en Roblox"
+  },
+  "footer": {
+    "title": "Universal Tower Defense Z Wiki",
+    "description": "Tu centro de recursos completo para códigos, unidades, tier lists, traits, evoluciones, builds y guías de raids de Universal Tower Defense Z en Roblox.",
+    "resources": "Recursos",
+    "community": "Comunidad",
+    "legal": "Legal",
+    "discord": "Discord",
+    "twitter": "X / Twitter",
+    "youtube": "YouTube",
+    "roblox": "Roblox",
+    "about": "Acerca de",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio",
+    "copyrightNotice": "Copyright",
+    "copyright": "© 2026 Universal Tower Defense Z Wiki. No afiliado con Roblox Corporation ni con los desarrolladores de Universal Tower Defense Z.",
+    "disclaimer": "Sitio web de recursos no oficial creado por fans."
+  },
+  "pages": {
+    "codes": {
+      "title": "Códigos de Anime Universe Tower Defense",
+      "description": "Últimos códigos activos para gemas, unidades, Rerolls de Rasgos y materiales de evolución gratis en Anime Universe Tower Defense (Universal Tower Defense Z). Actualizado diariamente con códigos verificados.",
+      "metaTitle": "Códigos de Anime Universe Tower Defense - Gemas y Unidades Gratis (2026)",
+      "metaDescription": "Canjea códigos activos de Anime Universe Tower Defense para obtener gemas, unidades, Rerolls de Rasgos y materiales de evolución gratis. Actualizado diariamente con códigos verificados y activos.",
+      "categoryLabel": "CANJEAR CÓDIGOS",
+      "whatIs": "¿Qué son los Códigos?",
+      "whatIsDescription": "Los códigos son claves promocionales lanzadas por los desarrolladores de Universal Tower Defense Z (también buscado como Anime Universe Tower Defense) que otorgan gemas, unidades, Rerolls de Rasgos, materiales de evolución y Fragmentos de Eterealización gratis al canjearlos en el juego.",
+      "why": "¿Por qué canjear códigos?",
+      "whySteps": {
+        "step1Title": "Unidades y Recursos Gratis",
+        "step1Description": "Los códigos proporcionan unidades iniciales, rerolls y monedas sin gastar Robux",
+        "step2Title": "Progresión más Rápida",
+        "step2Description": "Las recompensas de lanzamiento aceleran la creación de equipos en el juego temprano y medio",
+        "step3Title": "Mantente Actualizado",
+        "step3Description": "Nuevos códigos llegan con cada actualización, evento y meta alcanzada"
+      },
+      "featured": "Destacado y Esencial",
+      "all": "Todos los Códigos"
+    },
+    "tier-list": {
+      "title": "Tier List de Anime Universe Tower Defense",
+      "description": "Clasificación completa de unidades desde el Tier S hasta el Tier D para Anime Universe Tower Defense (Universal Tower Defense Z). Encuentra las unidades más fuertes para cada modo.",
+      "metaTitle": "Tier List de Anime Universe Tower Defense - Clasificación de las Mejores Unidades",
+      "metaDescription": "Tier list completa que clasifica todas las unidades de Anime Universe Tower Defense por DPS, soporte, control y economía en los modos Historia, Raids e Infinito.",
+      "categoryLabel": "TIER LISTS",
+      "whatIs": "¿Qué es una Tier List?",
+      "whatIsDescription": "Las tier lists clasifican cada unidad desde el Tier S (la mejor) hasta el Tier D (la más débil) según su rendimiento en DPS, soporte, control y economía en el meta actual de Universal Tower Defense Z. Úsalas para decidir qué unidades invocar y mejorar.",
+      "why": "¿Por qué consultar las tier lists?",
+      "whySteps": {
+        "step1Title": "Identificar las Mejores Unidades",
+        "step1Description": "Saber qué unidades valen tus gemas y recursos",
+        "step2Title": "Optimizar la Composición del Equipo",
+        "step2Description": "Crea equipos equilibrados con las unidades más fuertes disponibles",
+        "step3Title": "Seguir las Tendencias del Meta",
+        "step3Description": "Mantente al día con los cambios de equilibrio y las estrategias cambiantes"
+      },
+      "featured": "Destacado y Esencial",
+      "all": "Todas las Tier Lists"
+    },
+    "units": {
+      "title": "Unidades de Anime Universe Tower Defense",
+      "description": "Guías detalladas de unidades con estadísticas, roles, elementos, habilidades y métodos de obtención para cada personaje de Anime Universe Tower Defense (Universal Tower Defense Z).",
+      "metaTitle": "Unidades de Anime Universe Tower Defense - Estadísticas, roles y habilidades",
+      "metaDescription": "Explora las unidades de Anime Universe Tower Defense por rareza, rol, elemento y habilidad. Conoce las estadísticas, los métodos de obtención y los datos de progresión de nivel base a máximo.",
+      "categoryLabel": "BASE DE DATOS DE UNIDADES",
+      "whatIs": "¿Qué son las unidades?",
+      "whatIsDescription": "Las unidades son los personajes inspirados en anime que invocas, colocas, mejoras, evolucionas y realizas Etherealize para defenderte de las oleadas de enemigos en los modos Story, Raids, Infinite y eventos en Universal Tower Defense Z.",
+      "why": "¿Por qué estudiar las estadísticas de las unidades?",
+      "whySteps": {
+        "step1Title": "Dominar la obtención",
+        "step1Description": "Aprende cómo desbloquear unidades raras y secretas de manera eficiente",
+        "step2Title": "Entender los roles",
+        "step2Description": "Descubre el rol, elemento y sinergias de habilidades de cada unidad",
+        "step3Title": "Optimizar mejoras",
+        "step3Description": "Sigue las estadísticas de nivel base a máximo y planifica las inversiones de mejora"
+      },
+      "featured": "Destacadas y esenciales",
+      "all": "Todas las unidades"
+    },
+    "builds": {
+      "title": "Builds de Anime Universe Tower Defense",
+      "description": "Las mejores builds de equipo y equipamientos para Anime Universe Tower Defense (Universal Tower Defense Z). DPS principal, soporte, unidades de economía, traits y accesorios.",
+      "metaTitle": "Builds de Anime Universe Tower Defense - Mejores equipos y equipamientos",
+      "metaDescription": "Domina las builds de Anime Universe Tower Defense con ranuras de equipo óptimas, DPS principal, soporte, unidades de economía, traits, reliquias y accesorios para cada modo.",
+      "categoryLabel": "BUILDS DE EQUIPO",
+      "whatIs": "¿Qué son las builds?",
+      "whatIsDescription": "Las builds combinan ranuras de unidades, DPS principal, soporte y unidades de economía con los traits, reliquias y accesorios adecuados para afrontar Story, Raids, Infinite y jefes de endgame en Universal Tower Defense Z.",
+      "why": "¿Por qué usar guías de builds?",
+      "whySteps": {
+        "step1Title": "Optimizar ranuras de equipo",
+        "step1Description": "Asigna los roles de DPS principal, soporte y economía de manera efectiva",
+        "step2Title": "Combinar traits y reliquias",
+        "step2Description": "Empareja traits, reliquias y accesorios para obtener la máxima sinergia",
+        "step3Title": "Superar el contenido más difícil",
+        "step3Description": "Derrota Raids, Infinite y Ultra Bosses con configuraciones probadas"
+      },
+      "featured": "Destacadas y esenciales",
+      "all": "Todas las builds"
+    },
+    "traits": {
+      "title": "Traits de Anime Universe Tower Defense",
+      "description": "Guía completa de traits para Anime Universe Tower Defense (Universal Tower Defense Z). Efectos, costos de reroll, pity y los mejores traits por unidad.",
+      "metaTitle": "Traits de Anime Universe Tower Defense - Los mejores traits y guía de reroll",
+      "metaDescription": "Conoce cada trait de Anime Universe Tower Defense, sus efectos, costo de reroll, sistema de pity y las mejores opciones de traits para cada unidad y build.",
+      "categoryLabel": "GUÍA DE TRAITS",
+      "whatIs": "¿Qué son los traits?",
+      "whatIsDescription": "Los traits son modificadores pasivos que obtienes y de los cuales haces reroll en las unidades de Universal Tower Defense Z. Potencian el daño, rango, cooldown, economía y más; emparejar el trait adecuado con cada unidad es clave para el rendimiento en el endgame.",
+      "why": "¿Por qué optimizar los traits?",
+      "whySteps": {
+        "step1Title": "Potencia el poder de combate",
+        "step1Description": "Acumula rasgos de daño, alcance y enfriamiento para obtener grandes mejoras",
+        "step2Title": "Planifica los costos de reroll",
+        "step2Description": "Conoce el costo de gemas y el pity antes de hacer reroll",
+        "step3Title": "Combina rasgos con unidades",
+        "step3Description": "Elige el mejor rasgo para el rol y la build de cada unidad"
+      },
+      "featured": "Destacados y esenciales",
+      "all": "Todos los rasgos"
+    },
+    "guide": {
+      "title": "Guía de Anime Universe Tower Defense",
+      "description": "Guías completas de Anime Universe Tower Defense (Universal Tower Defense Z), desde conceptos básicos para principiantes hasta estrategias avanzadas para cada modo.",
+      "metaTitle": "Guía de Anime Universe Tower Defense - Estrategias de principiante a experto",
+      "metaDescription": "Guías completas de Anime Universe Tower Defense que cubren consejos para principiantes, progresión, farming, extracción y tácticas expertas para todos los niveles de habilidad.",
+      "categoryLabel": "GUÍAS DEL JUEGO",
+      "whatIs": "¿Qué son las guías?",
+      "whatIsDescription": "Desde conceptos básicos para principiantes hasta estrategias avanzadas, estas guías cubren la progresión, el farming, la extracción y consejos de combate para Universal Tower Defense Z, ayudándote a avanzar desde tu primera invocación hasta el contenido del endgame.",
+      "why": "¿Por qué leer guías?",
+      "whySteps": {
+        "step1Title": "Aprende las mecánicas",
+        "step1Description": "Comprende los sistemas principales y evita los errores comunes de principiantes",
+        "step2Title": "Progresión rápida",
+        "step2Description": "Sigue caminos probados para avanzar rápidamente a través del contenido",
+        "step3Title": "Domina la estrategia",
+        "step3Description": "Desarrolla tácticas avanzadas para Raids, Infinito y el endgame"
+      },
+      "featured": "Destacados y esenciales",
+      "all": "Todas las guías"
+    },
+    "updates": {
+      "title": "Actualizaciones de Anime Universe Tower Defense",
+      "description": "Últimas actualizaciones y notas del parche de Anime Universe Tower Defense (Universal Tower Defense Z). Nuevas unidades, modos, eventos, códigos y cambios de balance.",
+      "metaTitle": "Actualizaciones de Anime Universe Tower Defense - Notas del parche y nuevo contenido",
+      "metaDescription": "Sigue cada actualización y nota del parche de Anime Universe Tower Defense: nuevas unidades, modos, eventos, códigos, cambios de balance y correcciones de errores, ordenados por versión.",
+      "categoryLabel": "ACTUALIZACIONES Y NOTAS DEL PARCHE",
+      "whatIs": "¿Qué son las actualizaciones?",
+      "whatIsDescription": "Las actualizaciones traen nuevas unidades, modos, eventos, códigos, cambios de balance y correcciones de errores a Universal Tower Defense Z. Cada versión (como la Actualización 4.0) redefine el meta, por lo que seguir las notas del parche mantiene tus builds al día.",
+      "why": "¿Por qué seguir las actualizaciones?",
+      "whySteps": {
+        "step1Title": "Consigue nuevas unidades y modos",
+        "step1Description": "Invoca nuevas unidades y juega nuevos modos el mismo día que salgan",
+        "step2Title": "Consigue nuevos códigos",
+        "step2Description": "Canjea los nuevos códigos lanzados con cada actualización y evento",
+        "step3Title": "Adáptate a los cambios de balance",
+        "step3Description": "Ajusta tus builds a medida que se aplican buffs, nerfs y correcciones"
+      },
+      "featured": "Destacados y esenciales",
+      "all": "Todas las actualizaciones"
+    }
   }
 }
