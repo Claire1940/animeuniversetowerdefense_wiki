@@ -1,0 +1,3 @@
+# 此目录用于存放 MDX 内容文件（多语言结构：content/<locale>/<type>/*.mdx）
+# 当前为空占位；内容将在后续 part（内容生成阶段）填充。
+# 保留此目录可让 scripts/generate-content-manifest.mjs 正常生成空清单（{}）而非 exit(1)。
