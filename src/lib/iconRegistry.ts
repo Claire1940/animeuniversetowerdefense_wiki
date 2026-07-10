@@ -12,6 +12,14 @@ import type { LucideIcon } from 'lucide-react'
 export const iconRegistry: Record<string, LucideIcon> = {
   // 工具和资源图标
   Download: LucideIcons.Download,
+  Gift: LucideIcons.Gift,
+  GraduationCap: LucideIcons.GraduationCap,
+  Trophy: LucideIcons.Trophy,
+  Swords: LucideIcons.Swords,
+  Dna: LucideIcons.Dna,
+  Gem: LucideIcons.Gem,
+  Layers: LucideIcons.Layers,
+  Rocket: LucideIcons.Rocket,
   BookOpen: LucideIcons.BookOpen,
   Users: LucideIcons.Users,
   ClipboardCheck: LucideIcons.ClipboardCheck,
