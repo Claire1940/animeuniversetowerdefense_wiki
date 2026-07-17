@@ -20,7 +20,21 @@
         "file": "anime-universe-tower-defense-codes"
       }
     ],
+    "community": [
+      {
+        "slug": "anime-universe-tower-defense-discord",
+        "file": "anime-universe-tower-defense-discord"
+      },
+      {
+        "slug": "anime-universe-tower-defense-trello",
+        "file": "anime-universe-tower-defense-trello"
+      }
+    ],
     "guide": [
+      {
+        "slug": "anime-universe-tower-defense-banner",
+        "file": "anime-universe-tower-defense-banner"
+      },
       {
         "slug": "anime-universe-tower-defense-beginner-guide",
         "file": "anime-universe-tower-defense-beginner-guide"
@@ -44,6 +58,10 @@
       {
         "slug": "anime-universe-tower-defense-tower-of-kings-guide",
         "file": "anime-universe-tower-defense-tower-of-kings-guide"
+      },
+      {
+        "slug": "anime-universe-tower-defense-ultra-boss",
+        "file": "anime-universe-tower-defense-ultra-boss"
       }
     ],
     "tier-list": [
@@ -96,6 +114,10 @@
         "file": "anime-universe-tower-defense-boundless-joker"
       },
       {
+        "slug": "anime-universe-tower-defense-dante",
+        "file": "anime-universe-tower-defense-dante"
+      },
+      {
         "slug": "anime-universe-tower-defense-frieren",
         "file": "anime-universe-tower-defense-frieren"
       },
@@ -132,6 +154,14 @@
         "file": "anime-universe-tower-defense-ruler-simon"
       },
       {
+        "slug": "anime-universe-tower-defense-sasuke",
+        "file": "anime-universe-tower-defense-sasuke"
+      },
+      {
+        "slug": "anime-universe-tower-defense-sukuna",
+        "file": "anime-universe-tower-defense-sukuna"
+      },
+      {
         "slug": "anime-universe-tower-defense-sung-jin-woo",
         "file": "anime-universe-tower-defense-sung-jin-woo"
       },
@@ -142,6 +172,10 @@
       {
         "slug": "anime-universe-tower-defense-venom-black-spider-man",
         "file": "anime-universe-tower-defense-venom-black-spider-man"
+      },
+      {
+        "slug": "anime-universe-tower-defense-vergil",
+        "file": "anime-universe-tower-defense-vergil"
       },
       {
         "slug": "anime-universe-tower-defense-yhwach",
@@ -188,7 +222,21 @@
         "file": "anime-universe-tower-defense-codes"
       }
     ],
+    "community": [
+      {
+        "slug": "anime-universe-tower-defense-discord",
+        "file": "anime-universe-tower-defense-discord"
+      },
+      {
+        "slug": "anime-universe-tower-defense-trello",
+        "file": "anime-universe-tower-defense-trello"
+      }
+    ],
     "guide": [
+      {
+        "slug": "anime-universe-tower-defense-banner",
+        "file": "anime-universe-tower-defense-banner"
+      },
       {
         "slug": "anime-universe-tower-defense-beginner-guide",
         "file": "anime-universe-tower-defense-beginner-guide"
@@ -212,6 +260,10 @@
       {
         "slug": "anime-universe-tower-defense-tower-of-kings-guide",
         "file": "anime-universe-tower-defense-tower-of-kings-guide"
+      },
+      {
+        "slug": "anime-universe-tower-defense-ultra-boss",
+        "file": "anime-universe-tower-defense-ultra-boss"
       }
     ],
     "tier-list": [
@@ -264,6 +316,10 @@
         "file": "anime-universe-tower-defense-boundless-joker"
       },
       {
+        "slug": "anime-universe-tower-defense-dante",
+        "file": "anime-universe-tower-defense-dante"
+      },
+      {
         "slug": "anime-universe-tower-defense-frieren",
         "file": "anime-universe-tower-defense-frieren"
       },
@@ -300,6 +356,14 @@
         "file": "anime-universe-tower-defense-ruler-simon"
       },
       {
+        "slug": "anime-universe-tower-defense-sasuke",
+        "file": "anime-universe-tower-defense-sasuke"
+      },
+      {
+        "slug": "anime-universe-tower-defense-sukuna",
+        "file": "anime-universe-tower-defense-sukuna"
+      },
+      {
         "slug": "anime-universe-tower-defense-sung-jin-woo",
         "file": "anime-universe-tower-defense-sung-jin-woo"
       },
@@ -310,6 +374,10 @@
       {
         "slug": "anime-universe-tower-defense-venom-black-spider-man",
         "file": "anime-universe-tower-defense-venom-black-spider-man"
+      },
+      {
+        "slug": "anime-universe-tower-defense-vergil",
+        "file": "anime-universe-tower-defense-vergil"
       },
       {
         "slug": "anime-universe-tower-defense-yhwach",
@@ -356,7 +424,21 @@
         "file": "anime-universe-tower-defense-codes"
       }
     ],
+    "community": [
+      {
+        "slug": "anime-universe-tower-defense-discord",
+        "file": "anime-universe-tower-defense-discord"
+      },
+      {
+        "slug": "anime-universe-tower-defense-trello",
+        "file": "anime-universe-tower-defense-trello"
+      }
+    ],
     "guide": [
+      {
+        "slug": "anime-universe-tower-defense-banner",
+        "file": "anime-universe-tower-defense-banner"
+      },
       {
         "slug": "anime-universe-tower-defense-beginner-guide",
         "file": "anime-universe-tower-defense-beginner-guide"
@@ -380,6 +462,10 @@
       {
         "slug": "anime-universe-tower-defense-tower-of-kings-guide",
         "file": "anime-universe-tower-defense-tower-of-kings-guide"
+      },
+      {
+        "slug": "anime-universe-tower-defense-ultra-boss",
+        "file": "anime-universe-tower-defense-ultra-boss"
       }
     ],
     "tier-list": [
@@ -432,6 +518,10 @@
         "file": "anime-universe-tower-defense-boundless-joker"
       },
       {
+        "slug": "anime-universe-tower-defense-dante",
+        "file": "anime-universe-tower-defense-dante"
+      },
+      {
         "slug": "anime-universe-tower-defense-frieren",
         "file": "anime-universe-tower-defense-frieren"
       },
@@ -468,6 +558,14 @@
         "file": "anime-universe-tower-defense-ruler-simon"
       },
       {
+        "slug": "anime-universe-tower-defense-sasuke",
+        "file": "anime-universe-tower-defense-sasuke"
+      },
+      {
+        "slug": "anime-universe-tower-defense-sukuna",
+        "file": "anime-universe-tower-defense-sukuna"
+      },
+      {
         "slug": "anime-universe-tower-defense-sung-jin-woo",
         "file": "anime-universe-tower-defense-sung-jin-woo"
       },
@@ -478,6 +576,10 @@
       {
         "slug": "anime-universe-tower-defense-venom-black-spider-man",
         "file": "anime-universe-tower-defense-venom-black-spider-man"
+      },
+      {
+        "slug": "anime-universe-tower-defense-vergil",
+        "file": "anime-universe-tower-defense-vergil"
       },
       {
         "slug": "anime-universe-tower-defense-yhwach",
