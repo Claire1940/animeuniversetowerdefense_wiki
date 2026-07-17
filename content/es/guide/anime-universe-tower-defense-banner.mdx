@@ -1,0 +1,182 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles, Zap, Star, Search } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed'
+
+export const metadata = {
+  title: "Banner de Anime Universe Tower Defense: Tasas de Gacha y Guía de Invocación",
+  description: "Domina el sistema de banners de Anime Universe Tower Defense. Conoce las tasas de gacha, la mecánica de pity y las mejores estrategias de farmeo de gemas para 2026.",
+  category: "Guía",
+  image: "https://placehold.co/800x400/1e293b/fff?text=Banner+and+Gacha+Guide",
+  date: "2026-07-17",
+  author: "Equipo de la Wiki de Universal Tower Defense"
+}
+
+<Callout type="info" title="Guía Rápida">
+- La mecánica del **banner de Anime Universe Tower Defense** presenta una rotación de 6 banners diferentes disponibles para jugadores por encima del nivel 51.
+- Las **probabilidades de rareza** son fijas en los banners estándar: 1% para Legend Rares (LR) y un diminuto 0.1% para Secret Rares (SCR).
+- El **sistema de Pity** garantiza un UR o superior a las 90 invocaciones, y este pity solo se reinicia una vez que alcanzas dicho hito.
+- El **farmeo de gemas** es esencial para invocar; el modo Infinito de Ninja Forest en dificultad del 500% ofrece actualmente la mejor relación tiempo-gema.
+- Los jugadores en el **juego temprano** por debajo del nivel 51 están limitados a los banners de Beginning Adventures y de Eventos activos.
+</Callout>
+
+<Section icon={Search} title="Comprendiendo el Sistema de Banners de Anime Universe Tower Defense">
+
+El sistema de invocación es el corazón de tu progresión. En este juego, el **banner de Anime Universe Tower Defense** sirve como el método principal para adquirir unidades poderosas para defender tu base. A diferencia de los títulos de tower defense más simples, el gacha aquí se divide en varias categorías, lo que garantiza que los jugadores siempre tengan una variedad de unidades que buscar. Ya sea que busques el último Ultra Rare que defina el meta o un esquivo Secret Rare, comprender cómo rotan estos banners es crucial para la gestión de recursos.
+
+**Puntos Destacados del Video:**
+- Desglose detallado de los escenarios de farmeo de gemas más eficientes para invocar.
+- Comparación entre Ninja Forest y Marine Base para la obtención de gemas.
+- Consejos sobre la colocación de unidades (como Mob Cycle y Miku) para acelerar la limpieza de oleadas.
+- Estrategia de "perder a propósito" para maximizar las gemas por hora.
+
+<YouTubeEmbed videoId="J0LR-DQixDA" title="El mejor escenario para farmear 100,000 gemas en Universal Tower Defense" />
+
+<Callout type="tip" title="Requisito de Nivel">
+Si te preguntas por qué solo ves uno o dos banners, es probable que se deba a que estás por debajo del nivel 51. Alcanzar el nivel 51 es la "puerta de entrada" que desbloquea la rotación completa de 6 banners, lo que te permite apuntar a Legend Rares específicos.
+</Callout>
+
+Invocación requiere Gemas o Espíritus, según el tipo de banner específico. Mientras que los banners estándar usan Gemas, el Soul Banner requiere Espíritus, que a menudo son más difíciles de conseguir pero ofrecen unidades exclusivas que no se encuentran en ningún otro lugar.
+
+</Section>
+
+<Section icon={Star} title="Probabilidades de Gacha y Niveles de Rareza">
+
+Para tener éxito en tus tiradas, debes comprender las probabilidades matemáticas detrás de cada clic. Cada **banner de Anime Universe Tower Defense** sigue un conjunto estricto de probabilidades. Aunque pueda parecer cuestión de suerte, conocer los porcentajes te ayuda a decidir cuándo apostarlo todo ("all in") y cuándo ahorrar tus gemas ganadas con tanto esfuerzo.
+
+| Rareza | Probabilidad de Obtención | Moneda de Invocación | Rol en el Meta |
+| :--- | :--- | :--- | :--- |
+| **Rare (R)** | 50.0% | Gemas / Espíritus | Comida para juego temprano / Defensa básica |
+| **Super Rare (SR)** | 15.0% | Gemas / Espíritus | Unidades de utilidad para el juego medio |
+| **Ultra Rare (UR)** | 5.0% | Gemas / Espíritus | Miembros principales del equipo / Alto DPS |
+| **Legend Rare (LR)** | 1.0% | Gemas / Espíritus | Definen el meta / Habilidades especializadas |
+| **Secret Rare (SCR)** | 0.1% | Gemas / Especial | Desequilibrante / Extremadamente raro |
+
+<Callout type="warning" title="Mecánica de Pity">
+El sistema de pity está fijado en **90 invocaciones**. Esto garantiza un UR o superior. Ten en cuenta que el pity no se reinicia si obtienes un UR antes; solo se reinicia cuando realmente alcanzas el hito de la invocación número 90. Esto lo convierte en uno de los sistemas más generosos para los jugadores con poca suerte.
+</Callout>
+
+La rotación de unidades en las ranuras de Legendary, Ultra y Super Rare cambia cada hora para la mayoría de los banners. Esto significa que si no ves la unidad que deseas, simplemente debes esperar a la próxima actualización. Sin embargo, las unidades "Rare" suelen seguir siendo las mismas en todos los banners, sirviendo como base para tu colección.
+
+</Section>
+
+<Section icon={Map} title="Tipos de Banners Actuales y Rotación">
+
+Existen varios banners especializados que aparecen en la rotación. Saber en cuál tirar puede ahorrarte miles de gemas. Cada banner suele centrarse en un tema de anime específico o en un conjunto particular de habilidades.
+
+<CardGrid cols={3}>
+  <Card title="Beginning Adventures">
+    - **Objetivo**: Nuevos jugadores
+    - **Unidades**: Mezcla equilibrada de iniciales
+    - **Disponibilidad**: Siempre abierto para niveles 1-50
+  </Card>
+  <Card title="Banners Rotativos">
+    - **Objetivo**: Jugadores avanzados
+    - **Temas**: Demonic Hunt, Rise of Heroes, etc.
+    - **Actualización**: Cambia cada hora
+  </Card>
+  <Card title="Soul Banner">
+    - **Moneda**: Espíritus (150 por tirada)
+    - **Exclusivos**: SCR Majin Droid, Witch Knight
+    - **Valor**: Unidades de alto nivel para el juego tardío
+  </Card>
+</CardGrid>
+
+<Callout type="success" title="Banners de Evento">
+Mantente atento a los Banners de Evento. A diferencia de los 6 banners rotativos, los Banners de Evento suelen estar activos por tiempo limitado y presentan unidades que podrían no volver en meses. Estos son los mejores momentos para gastar tus gemas guardadas.
+</Callout>
+
+Los banners rotativos incluyen favoritos de los fans como:
+- **Beyond Imagination**: Se centra en unidades de soldados y espers de gran utilidad.
+- **Demonic Hunt**: Presenta unidades de estilo segador con un alto daño a un solo objetivo.
+- **Dragon Heart**: Centrado en guerreros de temática de dragón y atacantes pesados.
+- **Stardust Crusader**: Ofrece habilidades únicas similares a "stands" y variedad táctica.
+
+</Section>
+
+<Section icon={Zap} title="Guía de Eficiencia: Farmeo de Gemas para Invocaciones">
+
+Tirar en el **banner de Anime Universe Tower Defense** requiere una cantidad masiva de gemas. Si quieres realizar 90 tiradas para alcanzar el pity, debes ser eficiente con tu farmeo. Basado en pruebas de datos, algunos escenarios son significativamente mejores que otros para la producción de gemas.
+
+| Nombre del Escenario | Dificultad | Tiempo Requerido | Rendimiento de Gemas | Eficiencia (Gemas/Min) |
+| :--- | :--- | :--- | :--- | :--- |
+| **Ninja Forest** | Infinito 500% | 7m 10s | 522 Gemas | **72.8** |
+| **Hollowed Moon** | Infinito 100% | 10m 18s | 360 Gemas | 34.9 |
+| **Marine Base** | Difícil | 4m 55s | 145 Gemas | 29.4 |
+| **Marine Base** | 1000% Fácil | 5m 00s | 116 Gemas | 23.2 |
+
+<Steps>
+  <Step num="1" title="Selecciona Ninja Forest Infinito">
+    Dirígete al menú de Modos Infinitos y selecciona Ninja Forest. Establece la dificultad al menos en 500%. Si tus unidades son lo suficientemente fuertes, puedes llevar esto al 1000% para un escalado aún mejor.
+  </Step>
+  <Step num="2" title="Optimiza la Colocación de Unidades">
+    Coloca tus unidades generadoras de dinero (como Fast Card) en las esquinas para maximizar los ingresos. Usa unidades con tiempos de enfriamiento altos como Mob Cycle y unidades de potenciación como Hatsune Miku para encargarte rápidamente de las oleadas iniciales.
+  </Step>
+  <Step num="3" title="Derrota al Jefe de la Oleada 20">
+    El objetivo es derrotar al jefe en la Oleada 20. Este jefe es el umbral para la gran recompensa de gemas. Una vez derrotado el jefe, habrás asegurado la mayor parte de las recompensas de esa partida.
+  </Step>
+  <Step num="4" title="La Estrategia de 'Vender y Perder'">
+    Tan pronto como muera el jefe de la Oleada 20, vende todas tus unidades de inmediato. Deja que los enemigos restantes lleguen a tu base para terminar el juego. Esto te evita jugar las oleadas mucho más difíciles y largas que ofrecen rendimientos decrecientes de gemas.
+  </Step>
+</Steps>
+
+<Callout type="info" title="Consejo de Macro">
+Aunque no proporcionamos scripts específicos, muchos de los mejores jugadores automatizan este proceso de "venta en la Oleada 20" mediante macros para ganar entre 90,000 y 100,000 gemas cada 24 horas. Asegúrate siempre de que tu equipo (como los Mythic Pants) esté configurado con un 52% de daño para acelerar el proceso.
+</Callout>
+
+</Section>
+
+<Section icon={Shield} title="Lista de Verificación Estratégica de Invocación">
+
+Antes de gastar tus gemas en el próximo **banner de Anime Universe Tower Defense**, revisa esta lista para asegurarte de estar tomando la decisión táctica correcta.
+
+<Checklist
+  id="summoning-prep"
+  title="Preparación para Tirar del Banner:"
+  items={[
+    "Haber alcanzado el nivel 51 para ver la rotación completa de banners",
+    "Haber ahorrado al menos 4,500 gemas para una sesión de invocación múltiple",
+    "Haber verificado la actualización horaria para tu Legend Rare deseado",
+    "Haber equipado ropa que potencie el daño para farmear gemas más rápido",
+    "Haber verificado si hay un Banner de Evento activo con unidades exclusivas"
+  ]}
+/>
+
+<Callout type="tip" title="Sinergia de Unidades">
+No tires solo por la rareza más alta. Comprueba si la unidad del banner complementa a tu equipo actual. Un Legend Rare que ralentiza a los enemigos suele ser más valioso que un Secret Rare que solo hace daño bruto si ya tienes suficiente DPS.
+</Callout>
+
+La invocación no se trata solo de las unidades; también se trata de las reliquias y el equipo que pueden usar. Algunos banners ofrecen unidades que tienen una mayor sinergia con reliquias específicas, así que lee detenidamente las descripciones de las unidades antes de comprometer tus gemas.
+
+</Section>
+
+<Section icon={Trophy} title="Preguntas Frecuentes sobre el Banner de Anime Universe Tower Defense">
+
+<FAQ items={[
+  {
+    question: "¿Con qué frecuencia cambian los banners de Anime Universe Tower Defense?",
+    answer: "La mayoría de los banners en la rotación estándar actualizan sus unidades destacadas cada hora. Sin embargo, los Banners de Evento especiales pueden permanecer activos durante varios días o semanas durante las actualizaciones festivas."
+  },
+  {
+    question: "¿Es el Soul Banner mejor que el Banner de Gemas?",
+    answer: "El Soul Banner es generalmente para jugadores en la etapa final del juego. Cuesta Espíritus en lugar de Gemas y contiene Secret Rares exclusivos como Majin Droid y Witch Knight que no se pueden obtener a través de invocaciones estándar con Gemas."
+  },
+  {
+    question: "¿Se transfiere el pity entre diferentes banners?",
+    answer: "El pity es generalmente específico de cada tipo de banner. Aunque los banners rotativos estándar suelen compartir un contador de pity, los Banners de Evento especiales suelen tener su propio contador independiente. Comprueba siempre el indicador de 'Pity' en la pantalla de invocación."
+  },
+  {
+    question: "¿Cuál es la mejor manera de obtener Espíritus para el Soul Banner?",
+    answer: "Los Espíritus se obtienen principalmente a través de escenarios de Incursión (Raid) de alto nivel y modos de recursos específicos como Metal Rush. Son significativamente más difíciles de farmear que las Gemas, así que gastálos con sabiduría."
+  }
+]} />
+
+<Callout type="success" title="Consejo Final">
+La consistencia es clave. Al usar la estrategia de la Oleada 20 en Ninja Forest, puedes tirar en los banners a diario. No te desanimes por unas cuantas malas tiradas; el pity de 90 invocaciones está ahí para garantizar que eventualmente obtengas las unidades poderosas que necesitas para dominar la tabla de clasificación.
+</Callout>
+
+</Section>
