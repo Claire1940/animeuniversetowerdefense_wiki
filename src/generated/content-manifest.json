@@ -20,16 +20,7 @@
         "file": "anime-universe-tower-defense-codes"
       }
     ],
-    "community": [
-      {
-        "slug": "anime-universe-tower-defense-discord",
-        "file": "anime-universe-tower-defense-discord"
-      },
-      {
-        "slug": "anime-universe-tower-defense-trello",
-        "file": "anime-universe-tower-defense-trello"
-      }
-    ],
+    "community": [],
     "guide": [
       {
         "slug": "anime-universe-tower-defense-banner",
@@ -42,6 +33,10 @@
       {
         "slug": "anime-universe-tower-defense-crime-fighting-guide",
         "file": "anime-universe-tower-defense-crime-fighting-guide"
+      },
+      {
+        "slug": "anime-universe-tower-defense-discord",
+        "file": "anime-universe-tower-defense-discord"
       },
       {
         "slug": "anime-universe-tower-defense-extraction-guide",
@@ -58,6 +53,10 @@
       {
         "slug": "anime-universe-tower-defense-tower-of-kings-guide",
         "file": "anime-universe-tower-defense-tower-of-kings-guide"
+      },
+      {
+        "slug": "anime-universe-tower-defense-trello",
+        "file": "anime-universe-tower-defense-trello"
       },
       {
         "slug": "anime-universe-tower-defense-ultra-boss",
@@ -222,16 +221,7 @@
         "file": "anime-universe-tower-defense-codes"
       }
     ],
-    "community": [
-      {
-        "slug": "anime-universe-tower-defense-discord",
-        "file": "anime-universe-tower-defense-discord"
-      },
-      {
-        "slug": "anime-universe-tower-defense-trello",
-        "file": "anime-universe-tower-defense-trello"
-      }
-    ],
+    "community": [],
     "guide": [
       {
         "slug": "anime-universe-tower-defense-banner",
@@ -244,6 +234,10 @@
       {
         "slug": "anime-universe-tower-defense-crime-fighting-guide",
         "file": "anime-universe-tower-defense-crime-fighting-guide"
+      },
+      {
+        "slug": "anime-universe-tower-defense-discord",
+        "file": "anime-universe-tower-defense-discord"
       },
       {
         "slug": "anime-universe-tower-defense-extraction-guide",
@@ -260,6 +254,10 @@
       {
         "slug": "anime-universe-tower-defense-tower-of-kings-guide",
         "file": "anime-universe-tower-defense-tower-of-kings-guide"
+      },
+      {
+        "slug": "anime-universe-tower-defense-trello",
+        "file": "anime-universe-tower-defense-trello"
       },
       {
         "slug": "anime-universe-tower-defense-ultra-boss",
@@ -424,16 +422,7 @@
         "file": "anime-universe-tower-defense-codes"
       }
     ],
-    "community": [
-      {
-        "slug": "anime-universe-tower-defense-discord",
-        "file": "anime-universe-tower-defense-discord"
-      },
-      {
-        "slug": "anime-universe-tower-defense-trello",
-        "file": "anime-universe-tower-defense-trello"
-      }
-    ],
+    "community": [],
     "guide": [
       {
         "slug": "anime-universe-tower-defense-banner",
@@ -446,6 +435,10 @@
       {
         "slug": "anime-universe-tower-defense-crime-fighting-guide",
         "file": "anime-universe-tower-defense-crime-fighting-guide"
+      },
+      {
+        "slug": "anime-universe-tower-defense-discord",
+        "file": "anime-universe-tower-defense-discord"
       },
       {
         "slug": "anime-universe-tower-defense-extraction-guide",
@@ -462,6 +455,10 @@
       {
         "slug": "anime-universe-tower-defense-tower-of-kings-guide",
         "file": "anime-universe-tower-defense-tower-of-kings-guide"
+      },
+      {
+        "slug": "anime-universe-tower-defense-trello",
+        "file": "anime-universe-tower-defense-trello"
       },
       {
         "slug": "anime-universe-tower-defense-ultra-boss",
